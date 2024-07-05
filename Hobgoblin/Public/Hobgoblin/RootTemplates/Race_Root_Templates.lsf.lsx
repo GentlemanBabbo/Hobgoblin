@@ -17,7 +17,7 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="bdbf6658-1a83-42ac-89a8-12205ebc6509" /> Custom Race tag
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
@@ -41,7 +41,103 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="bdbf6658-1a83-42ac-89a8-12205ebc6509" /> Custom Race tag
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>								
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b4940c29-68b6-490c-9def-e87a1e9541f9" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Koalinth" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
+					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ab854660-d992-41db-a108-ba5c682759df" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Koalinth" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" /> which models to load
+					<attribute id="Race" type="guid" value="efa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>								
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="4148f1b6-5af6-41ea-80ba-add9465d1def" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Sunscorch" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
+					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="7f84bf8b-518d-4017-a38b-a96ef8a4eb4e" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_Hobgoblin" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" /> which models to load
+					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
