@@ -1776,6 +1776,36 @@
                         </node>
                 </children>
         </node>
+        <node id="Race">
+                <attribute id="Description" type="TranslatedString" handle="hb44d57c4g1674g4eb8g9babg6b5d9e7acaf2" version="1" />   
+                <attribute id="DisplayName" type="TranslatedString" handle="h6f7329d4g88dfg4f70ga6b5g4807cc319db0" version="1" />   
+                <attribute id="DisplayTypeUUID" type="guid" value="99c33978-f236-4f5b-a8d8-59aeeaf6140f"/>
+                <attribute id="Name" type="FixedString" value="Hobgoblin_Reg" />       
+                <attribute id="ParentGuid" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />    
+                <attribute id="ProgressionTableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" />   
+                <attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />           
+                <attribute id="UUID" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />
+        </node>
+        <node id="Race">
+                <attribute id="Description" type="TranslatedString" handle="hdcb66568g8313g4cebga84bg3924c615559e" version="1" />    
+                <attribute id="DisplayName" type="TranslatedString" handle="h9b5c755egc10cg4982g8ba0g55134c46d239" version="1" />  
+                <attribute id="DisplayTypeUUID" type="guid" value="99c33978-f236-4f5b-a8d8-59aeeaf6140f"/>
+                <attribute id="Name" type="FixedString" value="Hobgoblin_Water" />       
+                <attribute id="ParentGuid" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />     
+                <attribute id="ProgressionTableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" />   
+                <attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />           
+                <attribute id="UUID" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> 
+        </node>
+        <node id="Race">
+                <attribute id="Description" type="TranslatedString" handle="h3ef4e0deg3c8eg4caaga31bgd03bdec7fb6a" version="1" />  
+                <attribute id="DisplayName" type="TranslatedString" handle="h9e23c466g6092g4e51g9311g2844831de121" version="1" />   
+                <attribute id="DisplayTypeUUID" type="guid" value="99c33978-f236-4f5b-a8d8-59aeeaf6140f"/>
+                <attribute id="Name" type="FixedString" value="Hobgoblin_Dragon" />    
+                <attribute id="ParentGuid" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />     
+                <attribute id="ProgressionTableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" />    
+                <attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />          
+                <attribute id="UUID" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> 
+        </node>
       </children>
     </node>
   </region>
