@@ -38,7 +38,7 @@
                   <attribute id="Level" type="uint8" value="7" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Rally" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
@@ -68,7 +68,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Strongblade" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Rally;Passive_SBPackTactics" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_SBPackTactics" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" /> Always use this one for races.lsx, says this progression node is for Main Race
