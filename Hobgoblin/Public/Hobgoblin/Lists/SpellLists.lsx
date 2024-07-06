@@ -26,6 +26,11 @@
                 </node>
                 <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Rush_TsunamiFlash"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="4a0e61eb-4be6-4b0c-9d64-27248aeb09b7"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
                     <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="092beccf-6fc0-4b82-b646-35b225cdb1e7"/> the UUID, needs to be unique
                 </node>
