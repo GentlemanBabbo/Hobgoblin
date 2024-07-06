@@ -75,6 +75,13 @@ data "Sheathing" "DontChange"
 
 <!--------------------- Koalinth Passives --------------------->
 
+new entry "Passive_Amphibious"
+type "PassiveData"
+data "DisplayName" "h15b18569g9b7eg47d2ga9c9g56241b92f00e;2"
+data "Description" "hf09a4594gfa03g4ba8ga3e3gc7d5a4c14abc;2"
+data "Icon" "statIcons_RunningWater"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SUFFOCATING)"
 <!--------------------- Koalinth Spells --------------------->
 
 <!--------------------- Sunscorch Passives --------------------->
