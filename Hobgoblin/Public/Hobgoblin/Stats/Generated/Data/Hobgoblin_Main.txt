@@ -52,6 +52,27 @@ data "Sheathing" "Sheathed"
 
 <!--------------------- Strongblade Spells --------------------->
 
+new entry "Shout_Leadership_SBHobgoblin"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ActionSurge"
+data "Cooldown" "OncePerCombat"
+data "AIFlags" ""
+data "SpellProperties" "AI_IGNORE:TARGET:ApplyStatus(HOBGOBLIN_LEADERSHIP_AURA,100,5);AI_ONLY:TARGET:ApplyStatus(AI_STATUS_FAKE,100)"
+data "TargetConditions" "Self()"
+data "Icon" "Action_Mag_AuraOfLeadership"
+data "DisplayName" "ha5fe3331gf593g4a3bg8b72g0afb6acc741a;1"
+data "Description" "he0de2effgf009g4b8dgb45fg09c0263b41bb;4"
+data "DescriptionParams" "DealDamage(1d4,Force)"
+data "CastSound" "CrSpell_Cast_Leadership"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellAnimation" "5e57443f-284e-47b2-915e-5b6417db269c,,;d8b7f668-db2b-43b0-9707-5da2ed2cf27e,,;7521e279-1bb3-4105-b32d-8206234836a3,,;d172e037-7041-4352-9a20-5f4b185f9ef1,,;5bcdefbb-2194-46c2-ac77-0b2d8472a5f7,,;,,;5fdb66be-7506-411a-a7ea-c4783288aac8,,;,,;,,"
+data "SpellFlags" "IsEnemySpell;HasVerbalComponent"
+data "Requirements" ""
+data "PrepareEffect" "e3fa01d0-9a2f-4163-872b-001027e6d3bc"
+data "CastEffect" "880f6ce1-391c-4544-918d-4ca66d21f854"
+data "Sheathing" "DontChange"
+
 <!--------------------- Koalinth Passives --------------------->
 
 <!--------------------- Koalinth Spells --------------------->
