@@ -19,6 +19,11 @@
                     <attribute id="Spells" type="LSString" value="Target_SBHeartStopper"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="7474ac59-d525-4615-aa9d-3f4466ab7f55"/> the UUID, needs to be unique
                 </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="092beccf-6fc0-4b82-b646-35b225cdb1e7"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
