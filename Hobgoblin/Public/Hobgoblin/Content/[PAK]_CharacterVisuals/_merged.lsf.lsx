@@ -139,6 +139,8 @@
 										</node>
 									</children>
 								</node>
+							</children>
+						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="d68897bc-5312-49bf-9fc0-3d546e6f8e4f" />
@@ -215,6 +217,8 @@
 										</node>
 									</children>
 								</node>
+							</children>
+						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="97522fba-1dc1-4f2a-86fc-67c0ef80293d" />
