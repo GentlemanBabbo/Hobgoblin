@@ -189,7 +189,7 @@
                   <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_SunScorch_DraconicResilience" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
+                  <attribute id="Selectors" type="LSString" value="SelectPassives(59561db1-1f88-4d21-af34-0ee91b1b0729,1)" />
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="bf236089-1254-4285-9605-9c922e2ee17a" />  this one must be unique
