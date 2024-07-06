@@ -10,3 +10,15 @@ data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
 <!--------------------- Hobgoblin Spells --------------------->
+
+<!--------------------- Strongblade Passives --------------------->
+
+<!--------------------- Strongblade Spells --------------------->
+
+<!--------------------- Koalinth Passives --------------------->
+
+<!--------------------- Koalinth Spells --------------------->
+
+<!--------------------- Sunscorch Passives --------------------->
+
+<!--------------------- Sunscorch Spells --------------------->
