@@ -50,6 +50,15 @@ data "Sheathing" "Sheathed"
 
 <!--------------------- Strongblade Passives --------------------->
 
+new entry "Passive_SBPackTactics"
+type "PassiveData"
+data "DisplayName" "h48ea8a77g685dg4243g97fbg8bb20bd3d258;1"
+data "Description" "h2259652dg6d96g4f85g8aa0g9c9141897c94;1"
+data "DescriptionParams" " Distance(3)"
+data "Icon" "Action_DireWolfPack_Howl"
+data "Properties" "Highlighted"
+data "Boosts" "IF(HasAllyWithinRange('SG_Incapacitated',3)):Advantage(AttackRoll)"
+
 <!--------------------- Strongblade Spells --------------------->
 
 new entry "Shout_Leadership_SBHobgoblin"
