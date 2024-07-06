@@ -16,6 +16,16 @@
                 </node>
                 <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_MaglubiyetShout"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="e80b196a-2def-47ed-9476-da5ce36e4b03"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Target_GoblinHoard"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="b4cab9d1-7990-4738-ad77-13b6f8e0f4ad"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
                     <attribute id="Spells" type="LSString" value="Shout_Leadership_SBHobgoblin"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="eb00792d-b5fd-4121-ba20-30e96e894f79"/> the UUID, needs to be unique
                 </node>
