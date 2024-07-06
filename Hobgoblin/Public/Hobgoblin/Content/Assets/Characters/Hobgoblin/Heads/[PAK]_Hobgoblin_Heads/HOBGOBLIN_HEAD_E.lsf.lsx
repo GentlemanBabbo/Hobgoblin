@@ -2058,7 +2058,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="20e327c9-f4d0-d0b5-3c16-81960099ceb5" />
 							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Ears_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -2068,7 +2068,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 					</children>
