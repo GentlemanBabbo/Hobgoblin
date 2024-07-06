@@ -49,7 +49,7 @@
                   <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="Selectors" type="LSString" value="AddSpells(e80b196a-2def-47ed-9476-da5ce36e4b03,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="f808a590-060f-45b8-acd4-bde78801650d" />  this one must be unique
@@ -59,7 +59,7 @@
                   <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="Selectors" type="LSString" value="AddSpells(b4cab9d1-7990-4738-ad77-13b6f8e0f4ad,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="2ae1a961-8be5-4c69-b12d-cf0a961e62b6" />  this one must be unique
