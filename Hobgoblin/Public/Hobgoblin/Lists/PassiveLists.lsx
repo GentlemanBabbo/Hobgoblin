@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/> the passive list
-                    <attribute id="UUID" type="guid" value="673e6e89-9511-40c3-a7c9-2b114214f3ef"/> the UUID, needs to be unique
+                    <attribute id="Passives" type="LSString" value="SunScorchAncestry_Red,SunScorchAncestry_Black,SunScorchAncestry_Blue,SunScorchAncestry_White,SunScorchAncestry_Green,SunScorchAncestry_Gold,SunScorchAncestry_Silver,SunScorchAncestry_Bronze,SunScorchAncestry_Copper,SunScorchAncestry_Brass"/>
+                    <attribute id="UUID" type="guid" value="59561db1-1f88-4d21-af34-0ee91b1b0729"/>
                 </node>
             </children>
         </node>
