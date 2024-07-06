@@ -112,6 +112,17 @@ data "Description" "hf09a4594gfa03g4ba8ga3e3gc7d5a4c14abc;2"
 data "Icon" "statIcons_RunningWater"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(SUFFOCATING)"
+
+new entry "Passive_AquaticMovement"
+type "PassiveData"
+data "DisplayName" "h438e1d5cgc865g4418g8e65gd4245d05a8c4;2"
+data "Description" "h59e76832gd0abg4caagb964ga8f745868df0;2"
+data "DescriptionParams" "Distance(3)"
+data "Icon" "PassiveFeature_AspectOfTheBeast_Crocodile"
+data "Properties" "Highlighted"
+data "BoostContext" "OnPushed;OnMovedDistance"
+data "BoostConditions" "InSurface('SurfaceAlcohol') or InSurface('SurfaceBlood') or InSurface('SurfaceDeepWater') or InSurface('SurfaceDeepWaterRunning') or InSurface('SurfaceGrease') or InSurface('SurfaceOil') or InSurface('SurfaceWater') or InSurface('SurfaceWaterFrozen') or InSurface('SurfaceBloodFrozen')"
+data "Boosts" "StatusImmunity(SG_DifficultTerrain)"
 <!--------------------- Koalinth Spells --------------------->
 
 <!--------------------- Sunscorch Passives --------------------->
