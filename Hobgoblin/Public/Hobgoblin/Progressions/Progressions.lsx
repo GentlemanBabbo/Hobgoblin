@@ -169,7 +169,7 @@
                   <attribute id="Name" type="LSString" value="Koalinth" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
+                  <attribute id="Selectors" type="LSString" value="AddSpells(4a0e61eb-4be6-4b0c-9d64-27248aeb09b7,,,,AlwaysPrepared)" />
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="9d70bc30-ae21-49d7-b6a5-681e48d61bd5" />  this one must be unique
