@@ -9,6 +9,15 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
+
+new entry "Passive_WartimeTraining"
+type "PassiveData"
+data "DisplayName" "h9b2e6a18ge1dcg4c1dgb5a0g3e18d889807a;1"
+data "Description" "h6b64b74dgcfb5g433ag9068g5b8d69e6b675;1"
+data "Icon" "PassiveFeature_Resilient"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Proficiency(LightArmor);Proficiency(Mauls);Proficiency(Warhammers)"
+
 <!--------------------- Hobgoblin Spells --------------------->
 
 <!--------------------- Strongblade Passives --------------------->
