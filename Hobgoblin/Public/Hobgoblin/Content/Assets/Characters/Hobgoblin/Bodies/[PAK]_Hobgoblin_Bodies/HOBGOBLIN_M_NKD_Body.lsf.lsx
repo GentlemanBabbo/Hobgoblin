@@ -588,7 +588,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="bb4db85d-8b08-8f63-7c47-2545ce62ff41" />
+							<attribute id="MaterialID" type="FixedString" value="3ba9fe62-d132-58aa-dde2-5517e62c62eb" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Body.0" />
 						</node>
 					</children>
