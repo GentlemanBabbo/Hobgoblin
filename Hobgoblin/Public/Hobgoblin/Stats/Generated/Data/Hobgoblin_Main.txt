@@ -116,4 +116,15 @@ data "Boosts" "StatusImmunity(SUFFOCATING)"
 
 <!--------------------- Sunscorch Passives --------------------->
 
+new entry "Passive_SunScorch_DraconicResilience"
+type "PassiveData"
+data "DisplayName" "h2b56c3e6g3117g4d9dg84e3gff9843f2674f;1"
+data "Description" "h6ca40c86gb30cg4c3bgb696g81b5d135fb02;5"
+data "Icon" "PassiveFeature_DraconicResilience"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ACOverrideFormula(13,true,Dexterity)"
+
 <!--------------------- Sunscorch Spells --------------------->
+
