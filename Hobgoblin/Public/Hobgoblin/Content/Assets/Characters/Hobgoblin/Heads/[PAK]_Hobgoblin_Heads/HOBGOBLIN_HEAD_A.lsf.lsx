@@ -1566,12 +1566,12 @@
 			</children>
 		</node>
 	</region>
-	<!--<region id="MaterialBank">
+	<region id="MaterialBank">
 		<node id="MaterialBank">
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="4b938264-361f-4ef4-9420-53437c180373" />
+					<attribute id="ID" type="FixedString" value="e6509ca4-de00-43ea-8810-18ba40d7320b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_MS_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
@@ -1581,7 +1581,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="400151dc-6d2f-4151-b84f-b9c8e7e758bc" />
+							<attribute id="ID" type="FixedString" value="b116b54b-2228-484b-a744-885e02430f1c" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -1630,11 +1630,11 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="3d1382e1-531f-4679-bfa0-af65f05bde6d" />
+							<attribute id="ID" type="FixedString" value="f3420905-ccbb-4320-a92c-91d7dc5f5271" />
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="c70e9188-5ffc-4b83-a382-815bd20afd12" />
@@ -1658,7 +1658,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="3ee71b3c-b852-4179-a319-e169abc4c5f0" />
+							<attribute id="ID" type="FixedString" value="d10306eb-929c-4cc6-a8a0-89d3206f41b1" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 						<node id="Texture2DParameters">
@@ -1669,21 +1669,21 @@
 							<attribute id="ParameterName" type="FixedString" value="" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="2f72fffe-7602-05c4-b005-14bd527391f1" />
 							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="505e82ee-ed64-05cc-aa31-6b7057a5b75f" />
 							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="53dd046e-87ee-451d-811a-b2618b8731fa" />
@@ -1894,37 +1894,11 @@
 	</region>
 	<region id="TextureBank">
 		<node id="TextureBank">
-			<children>
+			<children>		
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="53dd046e-87ee-451d-811a-b2618b8731fa" />
-					<attribute id="Name" type="LSString" value="HobgoblinHead_M_BM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HobgoblinHead_M_BM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HobgoblinHead_M_BM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>	
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="c70e9188-5ffc-4b83-a382-815bd20afd12" />
-					<attribute id="Name" type="LSString" value="HobgoblinHead_M_MSK" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HobgoblinHead_M_MSK.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HobgoblinHead_M_MSK" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>				
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="400151dc-6d2f-4151-b84f-b9c8e7e758bc" />
+					<attribute id="ID" type="FixedString" value="b116b54b-2228-484b-a744-885e02430f1c" />
 					<attribute id="Name" type="LSString" value="HobgoblinHead_M_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HobgoblinHead_M_NM.DDS" />
@@ -1937,7 +1911,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="3ee71b3c-b852-4179-a319-e169abc4c5f0" />
+					<attribute id="ID" type="FixedString" value="d10306eb-929c-4cc6-a8a0-89d3206f41b1" />
 					<attribute id="Name" type="LSString" value="HobgoblinHead_M_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HobgoblinHead_M_HMVY.DDS" />
@@ -1950,7 +1924,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="3d1382e1-531f-4679-bfa0-af65f05bde6d" />
+					<attribute id="ID" type="FixedString" value="f3420905-ccbb-4320-a92c-91d7dc5f5271" />
 					<attribute id="Name" type="LSString" value="HobgoblinHead_M_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HobgoblinHead_M_CLEA.DDS" />
@@ -1962,7 +1936,7 @@
 				</node>
 			</children>
 		</node>
-	</region>-->
+	</region>
 	<region id="AnimationSetBank">
 		<node id="AnimationSetBank">
 			<children>
@@ -2031,7 +2005,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="20e327c9-f4d0-d0b5-3c16-81960099ceb5" />
+							<attribute id="MaterialID" type="FixedString" value="e6509ca4-de00-43ea-8810-18ba40d7320b" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_A.HOB_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
