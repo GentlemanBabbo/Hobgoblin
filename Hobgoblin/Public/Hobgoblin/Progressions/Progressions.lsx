@@ -136,7 +136,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
@@ -146,7 +146,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
@@ -156,7 +156,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
@@ -166,7 +166,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="7" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
@@ -176,7 +176,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
@@ -186,7 +186,7 @@
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="11" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscortch" /> just an internal name
+                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />
