@@ -10,14 +10,14 @@
 					<attribute id="ID" type="FixedString" value="80018b25-3e08-4f6a-b6dc-db8d6b517fd4" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_M_Head_BaseC" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_M_Head_BaseD" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/Hobgoblin_M_Head_BaseD.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/Hobgoblin_M_Head_baseD.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/Hobgoblin_M_Head_BaseD.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/Hobgoblin_M_Head_baseD.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -1610,7 +1610,7 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_Head_F" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="80018b25-3e08-4f6a-b6dc-db8d6b517fd4" />
+					<attribute id="SkeletonResource" type="FixedString" value="bc7d0438-c904-e03c-333c-14c0304e3fc9" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -1647,32 +1647,32 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f7601f42-123b-3cdb-687e-ad293a5940ee" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="20e327c9-f4d0-d0b5-3c16-81960099ceb5" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyeshadow_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 					</children>
 				</node>
