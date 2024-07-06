@@ -109,7 +109,7 @@
                   <attribute id="Name" type="LSString" value="Strongblade" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
+                  <attribute id="Selectors" type="LSString" value="AddSpells(7474ac59-d525-4615-aa9d-3f4466ab7f55,,,,AlwaysPrepared)" />
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="8ea52df9-3a4b-45a4-80e3-a048919afdb2" />  this one must be unique
