@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="ce17e804-895d-4e1b-887b-7112f0ad04a2" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Hobgoblin" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> half-orc
@@ -17,9 +17,6 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
 								</node>
 							</children>
 						</node>
@@ -40,10 +37,7 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>								
+								</node>							
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -63,9 +57,6 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
 								</node>
 							</children>
 						</node>
@@ -87,10 +78,7 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>								
+								</node>							
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -111,9 +99,6 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
 								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>
 							</children>
 						</node>
 						<node id="GameMaster" />
@@ -133,10 +118,7 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>								
+								</node>							
 							</children>
 						</node>
 						<node id="GameMaster" />
