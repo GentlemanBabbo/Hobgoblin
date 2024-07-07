@@ -5,6 +5,7 @@
         <node id="root">
             <children>
 		<!--Hobgoblin Heads-->
+		<!--Male Heads-->
 				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -81,6 +82,20 @@
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="c7f12302-7d3c-4204-89a3-def66551fb0f"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="2ae66642-160b-4052-90c4-10fe7edc7cbf"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+		<!--Female Heads-->
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - F
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="726437d0-1f4e-477d-a772-6ee61b3d06a0"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="7df3d8d6-cb25-4f17-b2e6-b11c6f1faf12"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Hair -->
