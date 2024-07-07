@@ -24,7 +24,7 @@
           <attribute id="Version64" type="int64" value="36028797018963968" />
           <children>
             <node id="PublishVersion">
-              <attribute id="Version64" type="int64" value="72057594037927936" />
+              <attribute id="Version64" type="int64" value="36028797018963968" />
             </node>
             <node id="Scripts" />
             <node id="TargetModes">
