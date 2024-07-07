@@ -115,7 +115,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf738ac56g6152g41fegaf78g1d7b6a5c0161" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -128,7 +128,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="haedf11d2g907fg4f25ga4a2g3a7c989760a8" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 					The UUID for the race you're making the head for. See below for a list.
@@ -141,7 +141,7 @@
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-                   			<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+                   			<attribute id="DisplayName" type="TranslatedString" handle="ha4b69385gb9d6g49acgb7abg56b34903a0c3" version="1"/> 
 					same as the handle in your Localization\English\custom_name_here.xml
 					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 					The UUID for the race you're making the head for. See below for a list.
