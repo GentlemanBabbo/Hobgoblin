@@ -60,7 +60,16 @@
 									<attribute id="GroupName" type="FixedString" value="" />
 									<attribute id="MaterialPresetResource" type="FixedString" value="" />
 								</node>
-								<node id="MaterialPresets" />
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+										</node>
+									</children>
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
