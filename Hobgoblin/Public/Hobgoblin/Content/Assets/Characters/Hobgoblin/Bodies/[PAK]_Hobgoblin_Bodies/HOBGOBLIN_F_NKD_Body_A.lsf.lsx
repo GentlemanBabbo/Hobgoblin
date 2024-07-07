@@ -466,7 +466,7 @@
 							<attribute id="ParameterName" type="FixedString" value="BaseColor_NonSkin" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="3e19b864-59b4-4105-a7d2-95f5e3f791b8" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -483,6 +483,19 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="3e19b864-59b4-4105-a7d2-95f5e3f791b8" />
+					<attribute id="Name" type="LSString" value="HOB_F_NKD_Body_A_BM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOB_F_NKD_Body_A_BM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="HOB_F_NKD_Body_A_BM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
