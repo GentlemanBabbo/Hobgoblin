@@ -41,6 +41,16 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -79,6 +89,21 @@
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="4ba9f25a-0270-1b1b-89da-bca465851b17" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
 				</node>
@@ -119,6 +144,21 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -157,6 +197,16 @@
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="f48fead3-8a9c-425e-9ae0-00d15f4f7d8f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
 				</node>
@@ -197,6 +247,21 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="aff5aa8e-757e-4151-b5bb-3ccbedc114e0" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
@@ -235,6 +300,16 @@
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="dbfbdf4c-0622-4413-87ea-114c4c2b0e56" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
 				</node>
