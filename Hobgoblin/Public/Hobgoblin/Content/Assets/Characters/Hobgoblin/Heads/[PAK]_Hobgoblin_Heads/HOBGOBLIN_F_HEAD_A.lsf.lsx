@@ -2079,7 +2079,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="cf7e5179-bb19-4704-bab4-0607b81ec13f" />
+							<attribute id="ID" type="FixedString" value="d4a24bb6-187a-45e1-9f9b-ebfab57e02d2" />
 							<attribute id="ParameterName" type="FixedString" value="WrinkleMapNormal" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2399,7 +2399,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="cf7e5179-bb19-4704-bab4-0607b81ec13f" />
+							<attribute id="ID" type="FixedString" value="d4a24bb6-187a-45e1-9f9b-ebfab57e02d2" />
 							<attribute id="ParameterName" type="FixedString" value="WrinkleMapNormal" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2771,6 +2771,19 @@
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
 				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="d4a24bb6-187a-45e1-9f9b-ebfab57e02d2" />
+					<attribute id="Name" type="LSString" value="HOB_F_Head_WM_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_WM_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="HOB_F_Head_WM_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node> 
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
