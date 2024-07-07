@@ -13,7 +13,7 @@
           <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
           <attribute id="RootTemplate" type="guid" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834"/>
           <attribute id="SubRaceUUID" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />                     
-          <attribute id="UUID" type="guid" value="99a2ba70-b7a8-4520-9aed-099746aa9b42"/>
+          <attribute id="UUID" type="guid" value="3522f07a-8fe4-4633-960d-7a72a15c9d6c"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
 				<node id="CharacterCreationPreset">
