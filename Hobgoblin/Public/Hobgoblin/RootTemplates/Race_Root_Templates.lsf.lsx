@@ -10,7 +10,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> half-orc
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" /> which models to load
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" /> define race as Custom Race
 					<children>
 						<node id="Tags">
