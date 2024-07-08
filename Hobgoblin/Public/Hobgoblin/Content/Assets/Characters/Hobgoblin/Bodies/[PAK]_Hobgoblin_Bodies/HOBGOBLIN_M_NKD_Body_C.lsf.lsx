@@ -489,7 +489,7 @@
 					<attribute id="ID" type="FixedString" value="f359e204-f1ba-4283-b828-c6196f7ef6a0" />
 					<attribute id="Name" type="LSString" value="HOBSun_M_NKD_Body_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_A_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_C_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSun_M_NKD_Body_A_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -502,7 +502,7 @@
 					<attribute id="ID" type="FixedString" value="828609d5-d7de-4117-9d5a-827e22ecea3f" />
 					<attribute id="Name" type="LSString" value="HOBSun_M_NKD_Body_A_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_A_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_C_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSun_M_NKD_Body_A_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -515,7 +515,7 @@
 					<attribute id="ID" type="FixedString" value="fb7c36f8-f649-4e5b-a52b-5adb384e0834" />
 					<attribute id="Name" type="LSString" value="HOBSun_M_NKD_Body_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_A_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_C_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSun_M_NKD_Body_A_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -528,7 +528,7 @@
 					<attribute id="ID" type="FixedString" value="7b338253-37df-495c-8a5b-5bc7a16bd330" />
 					<attribute id="Name" type="LSString" value="HOBSun_M_NKD_Body_A_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_A_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_C_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSun_M_NKD_Body_A_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -541,7 +541,7 @@
 					<attribute id="ID" type="FixedString" value="9e13ff50-6af2-4700-9105-549ac6c2b15d" />
 					<attribute id="Name" type="LSString" value="HOBSun_M_NKD_Body_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBSun_M_NKD_Body_C_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSun_M_NKD_Body_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
