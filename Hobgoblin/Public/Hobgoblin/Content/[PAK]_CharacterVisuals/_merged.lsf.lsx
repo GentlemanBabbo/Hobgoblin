@@ -266,7 +266,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
-					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" />
+					<attribute id="BodySetVisual" type="FixedString" value="d10589b0-2945-4ea0-9562-351200272a51" />
 					<attribute id="ID" type="FixedString" value="e11108ae-315b-4eb4-99c2-44865f900475" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Dragon" />					
