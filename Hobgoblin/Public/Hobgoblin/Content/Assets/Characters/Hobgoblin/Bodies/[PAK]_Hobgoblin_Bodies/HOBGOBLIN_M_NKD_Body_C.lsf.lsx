@@ -6,7 +6,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="4ba33a93-b472-476e-8694-62d1d9784df1" />
+					<attribute id="ID" type="FixedString" value="680193fe-04dc-468e-81e7-7c12eac7698e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_Body_Hobgoblin" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
@@ -588,7 +588,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="4ba33a93-b472-476e-8694-62d1d9784df1" />
+							<attribute id="MaterialID" type="FixedString" value="680193fe-04dc-468e-81e7-7c12eac7698e" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body_C.Body.0" />
 						</node>
 					</children>
