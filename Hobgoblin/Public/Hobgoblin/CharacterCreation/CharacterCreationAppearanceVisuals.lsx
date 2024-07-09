@@ -536,6 +536,15 @@
                     <attribute id="UUID" type="guid" value="b31a4fc1-dd33-44d3-95a4-60ff24e67d03"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84c2e232g4c9ag4f2bgaa4age8b2f1733c4c" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="5c85c64a-58de-4f31-97ac-8387db22d509"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
       </children>
     </node>
   </region>
