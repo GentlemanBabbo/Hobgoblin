@@ -387,7 +387,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="NonSkinColor" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
 							<attribute id="Value" type="fvec3" value="0.044398725 0.01316299 0.0006657844" />
 							<attribute id="BaseValue" type="fvec3" value="0.044398725 0.01316299 0.0006657844" />
 							<attribute id="IsColor" type="bool" value="True" />
