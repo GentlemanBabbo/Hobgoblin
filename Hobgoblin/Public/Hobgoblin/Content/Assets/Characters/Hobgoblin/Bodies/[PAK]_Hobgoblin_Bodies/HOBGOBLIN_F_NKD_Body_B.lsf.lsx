@@ -4,7 +4,7 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-			<!--Hobgoblin Male Body-->
+			<!--Hobgoblin Female Koalinth Body-->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
