@@ -2411,6 +2411,7 @@
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="Value" type="float" value="0" />
 							<attribute id="BaseValue" type="float" value="0" />
+						</node>
 						<node id="ScalarParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="ScarIndex" />
