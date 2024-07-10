@@ -309,6 +309,8 @@
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="GOB_WarchiefGrumpy" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="CanJoinCombat" type="bool" value="True" />					
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="98130e53-56eb-bf42-93f8-6217ab3a47fd" />
@@ -321,10 +323,11 @@
 					<attribute id="GroupID" type="uint32" value="7064" />
 					<attribute id="Icon" type="FixedString" value="98130e53-56eb-bf42-93f8-6217ab3a47fd-EQP_Goblin_Scimitar_Shield_(Icon_Goblin_Female)" />
 					<attribute id="IsLootable" type="bool" value="True" />
-					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="LevelOverride" type="int32" value="3" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="11" />
 					<attribute id="MapKey" type="FixedString" value="8972adae-36e0-40f5-af3e-47eefc92e6df" />
 					<attribute id="Name" type="LSString" value="GOB_Zurga" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />					
 					<attribute id="Stats" type="FixedString" value="GOB_Warchief" />
 					<attribute id="TemplateName" type="FixedString" value="32345211-0e02-4bf6-b8de-60ceadfc4a44" />
 					<attribute id="Title" type="TranslatedString" handle="h55cd925fg1695g48e2gb793g23150f2b38f6" version="1" />
@@ -406,28 +409,6 @@
 											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
 											<children>
 												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="LayerList">
-							<children>
-								<node id="Layers">
-									<children>
-										<node id="Object">
-											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
-											<children>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="c814d794-90d3-0614-84ce-be809f232673" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="6faf2a2e-6db4-5fda-5d5d-ab3cecd3bf35" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="9932f900-fd36-0539-2da3-6870290c75f5" />
-												</node>
 											</children>
 										</node>
 									</children>
@@ -516,6 +497,16 @@
 								</node>
 							</children>
 						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="608597d9-bf00-4ede-aabe-767457280925" /> Goblin Tag
+								</node>	
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" /> Trips_Goblin Tag
+								</node>															
+							</children>
+						</node>						
 						<node id="TradeTreasures">
 							<children>
 								<node id="TreasureItem">
@@ -523,16 +514,15 @@
 								</node>
 							</children>
 						</node>
-						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="310.48007 40.802696 -21.998611" />
-							<attribute id="RotationQuat" type="fvec4" value="0 0.4874692 0 0.8731402" />
-							<attribute id="Scale" type="float" value="1" />
-						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="GOB_Festivities" />
 					<attribute id="AnubisConfigName" type="FixedString" value="GOB_DrunkGoblin" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="CanJoinCombat" type="bool" value="True" />	
+					<attribute id="CanBeTeleported" type="bool" value="True" />
+					<attribute id="CanClimbLadders" type="bool" value="True" />									
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b4bf437b-8ecf-736a-defb-b0e484244ed3" />
 					<attribute id="CombatGroupID" type="FixedString" value="8785b25c-6875-c486-fb04-1c9bd0fa0456" />
 					<attribute id="CombatName" type="LSString" value="S_GOB_Goblin_EXT2_Champion_01" />
@@ -542,11 +532,12 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="b4bf437b-8ecf-736a-defb-b0e484244ed3-EQP_Goblin_Scimitar_Shield_(Icon_Goblin_Male)" />
 					<attribute id="IsLootable" type="bool" value="True" />
-					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="LevelOverride" type="int32" value="3" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="11" />
 					<attribute id="MapKey" type="FixedString" value="e4aa731e-c9e4-476c-ad5f-424228ae3ed0" />
-					<attribute id="Name" type="LSString" value="GOB_Crusher" />
+					<attribute id="Name" type="LSString" value="GOB_Crusher" />				
 					<attribute id="Stats" type="FixedString" value="GOB_Warchief" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />					
 					<attribute id="TemplateName" type="FixedString" value="b0f372f0-f74f-4c00-84e6-34ba09117578" />
 					<attribute id="Title" type="TranslatedString" handle="hbbc0649dgc2a7g4ab8g9d9ega3063ab8ebd0" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -589,25 +580,16 @@
 								</node>
 							</children>
 						</node>
-						<node id="LayerList">
+						<node id="Tags">
 							<children>
-								<node id="Layers">
-									<children>
-										<node id="Object">
-											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
-											<children>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="c814d794-90d3-0614-84ce-be809f232673" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="f0316a4e-59ae-0389-1e9e-7caa48a47b31" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="608597d9-bf00-4ede-aabe-767457280925" /> Goblin Tag
+								</node>	
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" /> Trips_Goblin Tag
+								</node>															
 							</children>
-						</node>
+						</node>							
 						<node id="LocomotionParams" />
 						<node id="TradeTreasures">
 							<children>
@@ -616,16 +598,13 @@
 								</node>
 							</children>
 						</node>
-						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-70.90318 11.8714285 439.0162" />
-							<attribute id="RotationQuat" type="fvec4" value="0 0.7788188 0 0.627249" />
-							<attribute id="Scale" type="float" value="1" />
-						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="GOB_Checkpoint_BackupGuard_001" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
+					<attribute id="CanFight" type="bool" value="True" />
+					<attribute id="CanJoinCombat" type="bool" value="True" />					
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="65983e6c-fa14-8409-fa74-fa4f6fe2319b" />
@@ -637,7 +616,9 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="65983e6c-fa14-8409-fa74-fa4f6fe2319b-EQP_Goblin_Shortbow_(Icon_Goblin_Female)" />
 					<attribute id="IsLootable" type="bool" value="True" />
-					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="11" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />					
 					<attribute id="MapKey" type="FixedString" value="6272b149-efa3-470b-b7bb-f59137d1edfe" />
 					<attribute id="Name" type="LSString" value="GOB_Sluck" />
 					<attribute id="TemplateName" type="FixedString" value="28eb9dbc-af0e-4272-b921-67363eeafede" />
@@ -682,25 +663,16 @@
 								</node>
 							</children>
 						</node>
-						<node id="LayerList">
+						<node id="Tags">
 							<children>
-								<node id="Layers">
-									<children>
-										<node id="Object">
-											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
-											<children>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="c814d794-90d3-0614-84ce-be809f232673" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="fff4cead-0a92-9631-b269-4432e29bb75f" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="608597d9-bf00-4ede-aabe-767457280925" /> Goblin Tag
+								</node>	
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" /> Trips_Goblin Tag
+								</node>															
 							</children>
-						</node>
+						</node>							
 						<node id="LocomotionParams" />
 						<node id="StatusList">
 							<children>
@@ -716,14 +688,10 @@
 								</node>
 							</children>
 						</node>
-						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-118.82911 16.652573 345.24707" />
-							<attribute id="RotationQuat" type="fvec4" value="0 -0.3266804 0 0.9451349" />
-							<attribute id="Scale" type="float" value="1" />
-						</node>
 					</children>
 				</node>
 			</children>
 		</node>
 	</region>
 </save>
+
