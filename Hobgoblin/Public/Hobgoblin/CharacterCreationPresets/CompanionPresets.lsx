@@ -4,6 +4,7 @@
   <region id="CompanionPresets">
     <node id="root">
       <children>
+      <!--F Guardian-->
 				<node id="CompanionPreset">
           <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="1"/>
