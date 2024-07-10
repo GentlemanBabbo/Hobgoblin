@@ -138,25 +138,50 @@
 						</node>
 			                        <node id="RealMaterialOverrides">
 			                            <children>
+							<!--FHeadA-->
 			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Mesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
 			                                </node>
 			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Eyes_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="17565df8-3eac-4e1c-fbd8-0c67aadd847b" />
+			                                </node>
+							<!--FHeadB-->
+			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_B.1GOB_F_NKD_Head_Sazza_Mesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
 			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="17565df8-3eac-4e1c-fbd8-0c67aadd847b" />
+			                                </node>
+							<!--FHeadC-->
 			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_C.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
 			                                </node>
 			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="17565df8-3eac-4e1c-fbd8-0c67aadd847b" />
+			                                </node>
+							<!--FHeadD-->
+			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_D.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
 			                                </node>
 			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="17565df8-3eac-4e1c-fbd8-0c67aadd847b" />
+			                                </node>
+							<!--FHeadE-->
+			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_E.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="17565df8-3eac-4e1c-fbd8-0c67aadd847b" />
 			                                </node>
 			                            </children>
 			                        </node>
