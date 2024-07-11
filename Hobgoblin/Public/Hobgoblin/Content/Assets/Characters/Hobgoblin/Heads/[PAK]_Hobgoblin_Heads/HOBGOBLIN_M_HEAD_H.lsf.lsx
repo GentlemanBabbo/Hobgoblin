@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="4ca2aab1-8ab8-468a-8bea-59c8bbbb5642" />
+					<attribute id="ID" type="FixedString" value="0331e94a-2d8f-4223-afc3-4f27050d4a42" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_M_Head_H_base" />
@@ -1610,7 +1610,7 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_Head_H" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="6d265585-712e-474a-9bba-df4ba5a9dfef" />
+					<attribute id="SkeletonResource" type="FixedString" value="0331e94a-2d8f-4223-afc3-4f27050d4a42" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
