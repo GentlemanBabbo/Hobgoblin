@@ -1610,7 +1610,7 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_Head_H" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="0331e94a-2d8f-4223-afc3-4f27050d4a42" />
+					<attribute id="SkeletonResource" type="FixedString" value="3d4c5620-2ae6-6235-fa28-aac394d646f9" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
