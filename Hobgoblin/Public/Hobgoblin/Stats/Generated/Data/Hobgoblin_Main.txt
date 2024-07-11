@@ -19,8 +19,8 @@ data "Boosts" "Proficiency(LightArmor);Proficiency(Mauls);Proficiency(Warhammers
 
 new entry "Passive_GoblinAdvantage"
 type "PassiveData"
-data "DisplayName" "h9b2e6a18ge1dcg4c1dgb5a0g3e18d889807a;1"
-data "Description" "h6b64b74dgcfb5g433ag9068g5b8d69e6b675;1"
+data "DisplayName" "h135cb42dgce5cg408egaa0dg1b76569b3f34;1"
+data "Description" "h4166373cg534cg4f92gae9fg27c29e2bf947;1"
 data "DescriptionParams" "Distance(30)"
 data "Icon" "PassiveFeature_DeepGnome_StoneCamouflage"
 data "Properties" "OncePerTurn;Highlighted;ForceShowInCC"
