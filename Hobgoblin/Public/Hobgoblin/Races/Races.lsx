@@ -2346,6 +2346,33 @@
                         <node id="SkinColors"> TIF_Pink_7
                             <attribute id="Object" type="guid" value="41839704-896f-4b29-a49f-c1d34ecee3cc" />
                         </node>
+                        <node id="SkinColors"> TIF_Pink_0
+                            <attribute id="Object" type="guid" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_1
+                            <attribute id="Object" type="guid" value="0de0e0cf-4630-ed66-8990-64b2b52ec06d" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_2
+                            <attribute id="Object" type="guid" value="a7823cd0-d8b2-0bc6-3bef-7876610d2b33" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_3
+                            <attribute id="Object" type="guid" value="694608f4-376c-fc0f-c493-bbc4596d4db0" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_4
+                            <attribute id="Object" type="guid" value="e1ec28ab-1c68-bdfe-d6dd-9e81fa2fa894" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_5
+                            <attribute id="Object" type="guid" value="309e39c7-0295-4b98-9d9b-edb6a98060a8" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_6
+                            <attribute id="Object" type="guid" value="e083a009-8eb9-acfb-a307-be61991bc094" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_7
+                            <attribute id="Object" type="guid" value="195a5be1-3bbb-72ae-51df-43e10d915ecc" />
+                        </node>
+                        <node id="SkinColors"> EFREETI_Orange_8
+                            <attribute id="Object" type="guid" value="e985ec62-aece-942b-145d-2b8739e421b3" />
+                        </node>
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e" />
                         </node>
