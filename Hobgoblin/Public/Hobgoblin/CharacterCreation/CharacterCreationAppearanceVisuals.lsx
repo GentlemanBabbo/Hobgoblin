@@ -460,6 +460,16 @@
 
 			<!--Female Hair-->
 				<!--Mod Specific-->
+		                <node id="CharacterCreationAppearanceVisual"> Hair A
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
+		                    <attribute id="BodyType" type="uint8" value="1"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+				    <attribute id="IconIdOverride" type="FixedString" value=""/>
+				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="baa2cbf8-1fd3-47a0-a0c5-5436952fd55c"/>
+		                    <attribute id="VisualResource" type="guid" value="e3fc41f4-1e08-4043-8bc2-aba55db2d1d0"/>
+		                </node>
 		                <node id="CharacterCreationAppearanceVisual"> Hair B - Dror Ragzlin
 		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="1"/>
