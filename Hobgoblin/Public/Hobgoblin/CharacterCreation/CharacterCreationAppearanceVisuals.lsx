@@ -473,12 +473,12 @@
 		                <node id="CharacterCreationAppearanceVisual"> Hair B - Dror Ragzlin
 		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="1"/>
-		                    <attribute id="DisplayName" type="TranslatedString" handle="hfa269152g6856g4a5fg8918g51a01c634f56" version="1"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="h10d00681g1d17g4f9fg9a71g34c1e30f5755" version="1"/>
 				    <attribute id="IconIdOverride" type="FixedString" value=""/>
 				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
 		                    <attribute id="UUID" type="guid" value="23cce540-8b03-45c6-be34-a1c3b54d3aa7"/>
-		                    <attribute id="VisualResource" type="guid" value="966b2d1a-bde4-97eb-14ee-98841b2e7286"/>
+		                    <attribute id="VisualResource" type="guid" value="78081249-1a0f-4312-9902-4b6e8c02b07d"/>
 		                </node>
 			<!--Beards-->
 
