@@ -4,7 +4,7 @@
     <region id="VisualBank"> <!-- you only need VisualBank if you don't plan on making custom textures or materials  -->
             <node id="VisualBank">
                 <children>
-                    <node id="Resource"> Fiery Hair A
+                    <node id="Resource"> Hair A
                         <attribute id="AttachBone" type="FixedString" value="" />
                         <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                         <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
