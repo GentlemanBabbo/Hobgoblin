@@ -9,7 +9,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" /> body model
 					<attribute id="ID" type="FixedString" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="BASE_Main_Male_Hobgoblin" />	localised name
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Strongblade" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -27,7 +27,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
 										</node>
 									</children>
 								</node>
@@ -62,7 +62,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
 					<attribute id="ID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="BASE_Main_Female_Hobgoblin" />					
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Strongblade" />					
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -80,7 +80,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
 										</node>
 									</children>
 								</node>
