@@ -152,7 +152,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="4a8acfaa-aedd-f680-8a8c-c1fd222fcb48" />
 										</node>
 									</children>
 								</node>
@@ -270,7 +270,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="4a8acfaa-aedd-f680-8a8c-c1fd222fcb48" />
 										</node>
 									</children>
 								</node>
@@ -415,7 +415,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="1a21505f-c391-9e6e-9c9e-eb20c6402615" />
 										</node>
 									</children>
 								</node>
@@ -509,7 +509,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="1a21505f-c391-9e6e-9c9e-eb20c6402615" />
 										</node>
 									</children>
 								</node>
