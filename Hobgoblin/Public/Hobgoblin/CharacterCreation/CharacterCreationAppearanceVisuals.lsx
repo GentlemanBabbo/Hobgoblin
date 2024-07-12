@@ -211,7 +211,7 @@
 				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
 		                    <attribute id="UUID" type="guid" value="390d1a17-9cdc-4a94-8f88-39f0c7a3460e"/>
-		                    <attribute id="VisualResource" type="guid" value="966b2d1a-bde4-97eb-14ee-98841b2e7286"/>
+		                    <attribute id="VisualResource" type="guid" value="0ca1a42c-443a-40f6-bc9b-8aaf7ead72a4"/>
 		                </node>
 				<!--Bard-->
 		                <node id="CharacterCreationAppearanceVisual">
