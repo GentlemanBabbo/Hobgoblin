@@ -132,7 +132,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" /> body model
 					<attribute id="ID" type="FixedString" value="483b5e09-d54b-46d3-915f-c6947346b337" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Water" />	localised name
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Koalinth" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -150,7 +150,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="b67abd6a-302c-448e-ba59-8bd4c7f8cae8" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -241,7 +241,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
 					<attribute id="ID" type="FixedString" value="d8fff46f-8cae-4c62-a937-75409a393afc" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Water" />					
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Koalinth" />					
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -259,7 +259,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="b67abd6a-302c-448e-ba59-8bd4c7f8cae8" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -381,7 +381,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="06ee596e-fc2a-497a-98ed-ed21298cc496" /> body model
 					<attribute id="ID" type="FixedString" value="9d63cf18-5360-434a-93c7-3b2798378ddb" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Dragon" />	localised name
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscorch" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -400,7 +400,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -442,7 +442,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="d10589b0-2945-4ea0-9562-351200272a51" />
 					<attribute id="ID" type="FixedString" value="e11108ae-315b-4eb4-99c2-44865f900475" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Dragon" />					
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Sunscorch" />					
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -460,7 +460,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="41839704-896f-4b29-a49f-c1d34ecee3cc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
