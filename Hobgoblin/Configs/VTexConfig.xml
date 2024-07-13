@@ -20,6 +20,7 @@
 	</Layers>
 
 	<Textures>
+		<!--Strongblade-->
 		<Texture Name="fe53539b82e642618b9b4855b65adcda">
 			<Layer Name="Albedo" Source="HOB_F_NKD_Body_A_CLEA.DDS" />
 			<Layer Name="Normal" Source="HOB_F_NKD_Body_A_NM.DDS" />
@@ -29,6 +30,28 @@
 			<Layer Name="Albedo" Source="HOB_M_NKD_Body_A_CLEA.DDS" />
 			<Layer Name="Normal" Source="HOB_M_NKD_Body_A_NM.DDS" />
 			<Layer Name="Physical" Source="HOB_M_NKD_Body_A_HMVY.DDS" />
+		</Texture>
+		<!--Koalinth-->
+		<Texture Name="fcd6d32b3bbc45119612937f4c576e66">
+			<Layer Name="Albedo" Source="HOBFISH_F_NKD_Body_B_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBFISH_F_NKD_Body_B_NM.DDS" />
+			<Layer Name="Physical" Source="HOBFISH_F_NKD_Body_B_HMVY.DDS" />
+		</Texture>
+		<Texture Name="16db50e2bd4144ec8484b816d6766fc9">
+			<Layer Name="Albedo" Source="HOBFISH_M_NKD_Body_B_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBFISH_M_NKD_Body_B_NM.DDS" />
+			<Layer Name="Physical" Source="HOBFISH_M_NKD_Body_B_HMVY.DDS" />
+		</Texture>
+		<!--Sunscorched-->
+		<Texture Name="f4936f3ae3af443b9b68ac5489655dd1">
+			<Layer Name="Albedo" Source="HOBSun_F_NKD_Body_C_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBSun_F_NKD_Body_C_NM.DDS" />
+			<Layer Name="Physical" Source="HOBSun_F_NKD_Body_C_HMVY.DDS" />
+		</Texture>
+		<Texture Name="0a753845be8c449cbcd985340ae43358">
+			<Layer Name="Albedo" Source="HOBSun_M_NKD_Body_C_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBSun_M_NKD_Body_C_NM.DDS" />
+			<Layer Name="Physical" Source="HOBSun_M_NKD_Body_C_HMVY.DDS" />
 		</Texture>
 	</Textures>
 </TileSet>
