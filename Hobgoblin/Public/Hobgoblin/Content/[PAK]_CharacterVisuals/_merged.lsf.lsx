@@ -232,6 +232,15 @@
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
 			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
 			                                </node>
+							<!--FHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.1HeadMesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
 			                            </children>
 			                        </node>
 						<node id="Slots">
@@ -488,6 +497,11 @@
 							<!--FHeadH-->
 			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.3Eyes.2" />
 			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
 			                                </node>
 			                            </children>
