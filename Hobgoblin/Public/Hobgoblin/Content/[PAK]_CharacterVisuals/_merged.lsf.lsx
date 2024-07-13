@@ -216,6 +216,15 @@
 			                                </node>
 							<!--FHeadG-->
 			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.1HRC_F_NKD_Head_C_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.3HRC_F_NKD_Head_C_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadH-->
+			                                <node id="Object">
 			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.1HeadMesh.0" />
 			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
 			                                </node>
