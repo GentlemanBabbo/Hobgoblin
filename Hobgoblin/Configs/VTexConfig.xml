@@ -25,5 +25,10 @@
 			<Layer Name="Normal" Source="HOB_F_NKD_Body_A_NM.DDS" />
 			<Layer Name="Physical" Source="HOB_F_NKD_Body_A_HMVY.DDS" />
 		</Texture>
+		<Texture Name="717e6967112042619a2c267a031bf472">
+			<Layer Name="Albedo" Source="HOB_M_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOB_M_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="HOB_M_NKD_Body_A_HMVY.DDS" />
+		</Texture>
 	</Textures>
 </TileSet>
