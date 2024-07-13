@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TileSet Version="2" Name="KazUT">
+<TileSet Version="2" Name="Hobgoblin">
 	<TileSetConfig>
         <Compression>LZ4</Compression>
         <OneFilePerGTex>false</OneFilePerGTex>
