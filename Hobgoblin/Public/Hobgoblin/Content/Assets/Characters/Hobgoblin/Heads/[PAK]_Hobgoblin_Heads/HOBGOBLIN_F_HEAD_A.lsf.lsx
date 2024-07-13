@@ -2072,7 +2072,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="df4039d8-9d0d-4266-b740-6dbee796b665" />
+							<attribute id="ID" type="FixedString" value="b7441cf5-a4b7-4d58-b580-f7e72ceb14bc" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2121,7 +2121,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="c16617c1-fc86-43cb-972d-09d13221e17e" />
+							<attribute id="ID" type="FixedString" value="b4c384ab-5ab1-4fe3-91eb-62dbff2d186c" />
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2149,7 +2149,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="c3fe2457-06de-4045-b8b8-f0b63b3522d9" />
+							<attribute id="ID" type="FixedString" value="aa954c2e-7dae-4008-99cd-30fd20687e45" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 						<node id="Texture2DParameters">
@@ -3133,7 +3133,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="df4039d8-9d0d-4266-b740-6dbee796b665" />
+					<attribute id="ID" type="FixedString" value="b7441cf5-a4b7-4d58-b580-f7e72ceb14bc" />
 					<attribute id="Name" type="LSString" value="HOB_F_Head_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_NM.DDS" />
@@ -3146,7 +3146,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="c3fe2457-06de-4045-b8b8-f0b63b3522d9" />
+					<attribute id="ID" type="FixedString" value="aa954c2e-7dae-4008-99cd-30fd20687e45" />
 					<attribute id="Name" type="LSString" value="HOB_F_Head_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_HMVY.DDS" />
@@ -3159,7 +3159,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="c16617c1-fc86-43cb-972d-09d13221e17e" />
+					<attribute id="ID" type="FixedString" value="b4c384ab-5ab1-4fe3-91eb-62dbff2d186c" />
 					<attribute id="Name" type="LSString" value="HOB_F_Head_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_CLEA.DDS" />
