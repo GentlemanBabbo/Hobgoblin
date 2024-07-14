@@ -2227,11 +2227,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="06f697d5-18a7-48c6-9e72-749cc7105009" />
-					<attribute id="Name" type="LSString" value="HOBSkin_Atlas_Head_SHR_Makeup_A_MSK--4k" />
+					<attribute id="Name" type="LSString" value="HOB_Skin_Atlas_Head_SHR_Makeup_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOBSkin_Atlas_Head_SHR_Makeup_A_MSK--4k.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_Skin_Atlas_Head_SHR_Makeup_A_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOBSkin_Atlas_Head_SHR_Makeup_A_MSK--4k" />
+					<attribute id="Template" type="FixedString" value="HOB_Skin_Atlas_Head_SHR_Makeup_A_MSK" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
