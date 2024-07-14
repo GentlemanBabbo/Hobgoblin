@@ -427,7 +427,7 @@
 							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
@@ -438,7 +438,7 @@
 							<attribute id="ParameterName" type="FixedString" value="DetailNormalMap" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="8b42733e-91ef-d267-d846-124187296633" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
