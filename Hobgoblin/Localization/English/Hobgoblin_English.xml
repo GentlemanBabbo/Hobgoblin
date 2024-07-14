@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf177ee8dga90dg49a4g9f2ag278527d5eb2e" version="1">Hobgoblin</content>
+	<content contentuid="h46c751d7ge77ag415aga746g4294c078169d" version="1">War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don't feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.</content>
+	<content contentuid="hf155fevdea123449a4g9f2ag278527d12345" version="1">Strongblade Hobgoblin</content>
+	<content contentuid="hg154fefdea123449a4g9f2ag212121d54321" version="1">Trained in the art of war from birth, these goblinoids are raised to become Generals of destruction. They view the world as a currency to steal; a land to conquer. In time, all will know the sting of the Strongblade's might.</content>
+	<content contentuid="h0592f28ag2c77g4f61g8084g1e509c11a4dc" version="1">Koalinth Hobgoblin</content>
+	<content contentuid="hb086e865g9258g4d72g8b42g3ea4d1264ca9" version="1">Koalinth are marine goblinoids, Koalinth believe that they were created from surface hobgoblins by Maglubiyet, who sought to conquer the ocean depths. However, the newly-created koalinth were approached by Panzuriel, the Lord of Krakens, who proved himself the true master of the deep and the koalinth remain his loyal servants to this day. </content>
+	<content contentuid="ha68d4c59g4573g4ea9g96e9ga3e6fa8919d5" version="1">Sunscorch Hobgoblin</content>
+	<content contentuid="hcc1dcf48gee8cg4ea3gbb16g2025162384f8" version="1">These Hobgoblins often ally with powerful dragons, supplying the drake with treasure and sometimes a lair in exchange for assistance in battle. Of all the chromatic dragons, blue dragons are the most common hobgoblin allies.</content>
+	<content contentuid="h05e40912g0959g41c4g8a0dg8b73273ca07d" version="1">Blurg</content>
+	<content contentuid="hf062604cg05ceg4016g93dfg932d1b3679e1" version="1">The Gobbler</content>
+	<content contentuid="h69effaa9g0fd7g4a5bgb118g407133da32db" version="1">Dror Ragzlin</content>
+	<content contentuid="h36872165ge514g4722gb3f5gbd0cfb509c3e" version="1">There's Something in my Eye.</content>
+	<content contentuid="h3cf0f5cfg1df1g4cd9g8b7ag9053345bae3c" version="1">Vanguard</content>
+	<content contentuid="h9b2e6a18ge1dcg4c1dgb5a0g3e18d889807a" version="1">War-Time Preparation</content>
+	<content contentuid="h6b64b74dgcfb5g433ag9068g5b8d69e6b675" version="1">Your clan has trained you well in the art of combat. You are proficient in Light Armor, and can wield Warhammers and Mauls with ease.</content>
+	<content contentuid="h135cb42dgce5cg408egaa0dg1b76569b3f34" version="1">Goblin Advantage</content>
+	<content contentuid="h4166373cg534cg4f92gae9fg27c29e2bf947" version="1">Once per turn, the hobgoblin can deal an extra 1d10 damage to a creature it hits with a weapon attack. The hobgoblin must have a Goblin ally.</content>
+	<content contentuid="hfebb5db4g1f19g4414g9f0agb374f04d042a" version="1">Fey Gift: Help</content>
+	<content contentuid="hb97426b2g8841g49cdg811bg84f371ed2236" version="1">Maglubiyet's War Cry</content>
+	<content contentuid="h82f24c40g628eg4ef5ga7e0g3a1afd700edc" version="1">Invoke the fury of Maglubiyet with a powerful shout that frigthens your enemies.</content>
+	<content contentuid="h720f194fg611bg4cb4ga4d2g1a70ed04aefe" version="1">Goblin Horde</content>
+	<content contentuid="h546f6939ga7aeg47f4gaecbg26e08a61d012" version="1">Summon a group of goblin soldiers at your commmand</content>
+	<content contentuid="h15b18569g9b7eg47d2ga9c9g56241b92f00e" version="1">Amphibious</content>
+	<content contentuid="hf09a4594gfa03g4ba8ga3e3gc7d5a4c14abc" version="1">Your lungs carry the capacity to breathe on land, and in the water. You are immune to suffocation. You are immune to Difficult Terrain when submerged in bodies of water. Additionally, you are proficient with Tridents.</content>
+	<content contentuid="h48ea8a77g685dg4243g97fbg8bb20bd3d258" version="1">Goblin Pack Tactics</content>
+	<content contentuid="h2259652dg6d96g4f85g8aa0g9c9141897c94" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against a target if one of your allies is within [1] of the target and isn't Incapacitated.</content>
+	<content contentuid="h438e1d5cgc865g4418g8e65gd4245d05a8c4" version="1">Aquatic Advantage</content>
+	<content contentuid="h59e76832gd0abg4caagb964ga8f745868df0" version="1">Your peak ability is in the water. When you become wet, +1 to all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and most &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h2d451eddg743ag4146g9ff0gb10151bb632d" version="1">Immune to wet terrain.</content>
+	<content contentuid="hf3a89608gc0fdg4b17gbe6bgce1a6962b352" version="1">When you become wet, +1 to all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and most &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>	
+	<content contentuid="hd6665509g44c3g4e51g9b53g33946ac0ce0e" version="1">Tsunami Flash</content>
+	<content contentuid="h92761355ga54dg4a12g9f12g62873b766005" version="1">Rush forward like a powerful wave, creating an vortex of air and water that blasts foes and possibly inflicts &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt;.</content>	
+	<content contentuid="h7117c972ge588g48deg8928g5f32a0992ba3" version="1">Choose your dragon ancestor or benfactor. The damage type associated with that dragon will influence you ability.</content>
+	<content contentuid="h9e429dc1g70e4g4df5ga5c7gc6f386c5bb59" version="1">Your draconic powers allow you to spew forth a cone of acid.</content>
+	<content contentuid="hb27f0a48g8d04g4e5agb5b6ga7bc434a009b" version="1">Your draconic powers allow you to spew forth a cone of lightning.</content>
+	<content contentuid="h04182b0egfbadg47bbga7dbg3f6765ed42e5" version="1">Your draconic powers allow you to spew forth a column of fire.</content>
+	<content contentuid="h327787c0g0b06g408bg80ecg7a2f4edc111a" version="1">Your draconic powers allow you to spew forth a cone of lightning.</content>
+	<content contentuid="h188d3ef2gb5dbg4e58ga536gdcf3128a4d94" version="1">Your draconic powers allow you to spew forth a cone of acid.</content>
+	<content contentuid="h0314f475ge54cg49b3ga5d1gc413ad452b88" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
+	<content contentuid="h26b7756ag6535g4cfag8a7cg5336407ba244" version="1">Your draconic powers allow you to spew forth a cone of poison.</content>
+	<content contentuid="h9b15f1caga01bg4134g9264gce7c38009521" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
+	<content contentuid="h0ad02bc5gd275g4280g9379g64e4b0c25199" version="1">Your draconic powers allow you to spew forth a cone of ice.</content>
+	<content contentuid="h8639a873g6f7cg4bcag8592g0d3f518760f6" version="1">Your draconic powers allow you to spew forth a cone of ice.</content>
+	<content contentuid="h85088222g411bg42ceg8915g20f5595b6730" version="1">Dova Beam</content>
+	<content contentuid="h65ddbdf1g15e6g4af3ga8a8g520b8f4d33f7" version="1">Your maw crackles with radiant energy; unleash a wave of light upon your foes.</content>
+	<content contentuid="h745ab658gd192g43bdgaee6g7d33fbe3a1a5" version="1">Plunderer</content>
+	<content contentuid="h61a6d7c5g3bc5g42a3gba3bge0b286808df4" version="1">Mild Mannered</content>
+	<content contentuid="h67851b4bga5a0g45cagaefcg51945fea8516" version="1">Big Sazza</content>
+	<content contentuid="ha4b69385gb9d6g49acgb7abg56b34903a0c3" version="1">Matriarch</content>
+	<content contentuid="hf738ac56g6152g41fegaf78g1d7b6a5c0161" version="1">Feral</content>
+	<content contentuid="haedf11d2g907fg4f25ga4a2g3a7c989760a8" version="1">Bertha</content>
+	<content contentuid="ha0e3f19bg2048g4139ga0f8g92d4e4cf7f00" version="1">Dwarf Eater</content>
+	<content contentuid="h8efd6aeeg8b80g41abg86dagec81f7aa154f" version="1">Chicken Chaser</content>
+	<content contentuid="h71d3f62eg787ag4fe5gac49g18f08ad2147b" version="1">Conqueror</content>
+	<content contentuid="h71cbe566g6efdg4390ga72ag9e4a4e0c64c7" version="1">Akuma</content>
+	<content contentuid="hfa269152g6856g4a5fg8918g51a01c634f56" version="1">Goblin King</content>
+	<content contentuid="h10d00681g1d17g4f9fg9a71g34c1e30f5755" version="1">Goblin Queen</content>
+	<content contentuid="h19267467g247dg45c7gb567g5a5fb6838b54" version="1">Elder Shaman</content>
+	<content contentuid="h71bda96bg0a0bg4e61ga042g765bea033ac3" version="1">Gluttony</content>
+	<content contentuid="h0bace558g1c16g4ef5gb847g50379bad44b6" version="1">Diva</content>
+	<content contentuid="h179d795dg0e1eg412fgb637g7c61acb20719" version="1">Krolla</content>
+	<content contentuid="hf0a29caeg7fe9g4bb9ga0f6ga55ea1058cd9" version="1">Nose Taker</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>
