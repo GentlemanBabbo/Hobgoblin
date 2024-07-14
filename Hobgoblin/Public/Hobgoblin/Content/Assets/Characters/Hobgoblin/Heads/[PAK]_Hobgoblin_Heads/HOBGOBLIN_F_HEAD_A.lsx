@@ -3132,7 +3132,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="ed72945e-4d04-43f6-b7b6-ea23bdee57de" />
 					<attribute id="Name" type="LSString" value="HOBSkin_Atlas_Head_SHR_Makeup_A_MSK--4k" />
 					<attribute id="SRGB" type="bool" value="False" />
@@ -3140,7 +3140,7 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HOBSkin_Atlas_Head_SHR_Makeup_A_MSK--4k" />
 					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
 				</node>
 				<node id="Resource">
