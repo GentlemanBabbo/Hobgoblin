@@ -639,6 +639,21 @@
                         </node>
                     </children>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hadaa8058g415eg428egba49gff306eb39a4f" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="ed6d5882-6b6b-4931-a5a6-02dee4fa345c"/>
+                    <attribute id="VisualResource" type="guid" value="b1392667-7883-8206-a2ef-207d5c3bda91"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
                 <node id="CharacterCreationAppearanceVisual"> FS
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -654,7 +669,20 @@
                         </node>
                     </children>
                 </node>
-
+		<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h765abce7g0c81g42e4g9212ga080a34c7818" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="2968b1f9-a224-476b-8a10-4b70aa0ce5f1"/>
+                    <attribute id="VisualResource" type="guid" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
         <!--Tails-->
 
 		<!--Horns-->
