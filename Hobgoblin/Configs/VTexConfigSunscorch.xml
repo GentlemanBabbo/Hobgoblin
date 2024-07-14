@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="HobgoblinSunscorch">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<!--Sunscorched-->
+		<Texture Name="f4936f3ae3af443b9b68ac5489655dd1">
+			<Layer Name="Albedo" Source="HOBSun_F_NKD_Body_C_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBSun_F_NKD_Body_C_NM.DDS" />
+			<Layer Name="Physical" Source="HOBSun_F_NKD_Body_C_HMVY.DDS" />
+		</Texture>
+		<Texture Name="0a753845be8c449cbcd985340ae43358">
+			<Layer Name="Albedo" Source="HOBSun_M_NKD_Body_C_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBSun_M_NKD_Body_C_NM.DDS" />
+			<Layer Name="Physical" Source="HOBSun_M_NKD_Body_C_HMVY.DDS" />
+		</Texture>
+	</Textures>
+</TileSet>

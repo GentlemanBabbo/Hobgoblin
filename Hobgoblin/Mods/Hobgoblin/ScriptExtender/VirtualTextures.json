@@ -2,11 +2,27 @@
   "Mappings": [
       {
         "GTexName": "fe53539b82e642618b9b4855b65adcda",
-        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/Hobgoblin.gts"
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinStrongblade.gts"
       },
       {
         "GTexName": "717e6967112042619a2c267a031bf472",
-        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/Hobgoblin.gts"
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinStrongblade.gts"
+      },
+      {
+        "GTexName": "f4936f3ae3af443b9b68ac5489655dd1",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinSunscorch.gts"
+      },
+      {
+        "GTexName": "0a753845be8c449cbcd985340ae43358",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinSunscorch.gts"
+      },
+      {
+        "GTexName": "fcd6d32b3bbc45119612937f4c576e66",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinKoalinth.gts"
+      },
+      {
+        "GTexName": "16db50e2bd4144ec8484b816d6766fc9",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinKoalinth.gts"
       }
   ]
 }

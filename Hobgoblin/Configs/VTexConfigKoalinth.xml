@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="HobgoblinKoalinth">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<!--Koalinth-->
+		<Texture Name="fcd6d32b3bbc45119612937f4c576e66">
+			<Layer Name="Albedo" Source="HOBFISH_F_NKD_Body_B_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBFISH_F_NKD_Body_B_NM.DDS" />
+			<Layer Name="Physical" Source="HOBFISH_F_NKD_Body_B_HMVY.DDS" />
+		</Texture>
+		<Texture Name="16db50e2bd4144ec8484b816d6766fc9">
+			<Layer Name="Albedo" Source="HOBFISH_M_NKD_Body_B_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOBFISH_M_NKD_Body_B_NM.DDS" />
+			<Layer Name="Physical" Source="HOBFISH_M_NKD_Body_B_HMVY.DDS" />
+		</Texture>
+	</Textures>
+</TileSet>

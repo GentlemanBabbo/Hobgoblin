@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="HobgoblinStrongblade">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>
+		<!--Strongblade-->
+		<Texture Name="fe53539b82e642618b9b4855b65adcda">
+			<Layer Name="Albedo" Source="HOB_F_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOB_F_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="HOB_F_NKD_Body_A_HMVY.DDS" />
+		</Texture>
+		<Texture Name="717e6967112042619a2c267a031bf472">
+			<Layer Name="Albedo" Source="HOB_M_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOB_M_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="HOB_M_NKD_Body_A_HMVY.DDS" />
+		</Texture>
+	</Textures>
+</TileSet>
