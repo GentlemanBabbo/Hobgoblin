@@ -54,7 +54,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -412,7 +412,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -631,7 +631,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
