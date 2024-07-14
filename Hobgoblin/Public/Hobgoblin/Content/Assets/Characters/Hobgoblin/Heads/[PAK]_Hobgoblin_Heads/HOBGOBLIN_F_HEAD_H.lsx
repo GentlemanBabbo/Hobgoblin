@@ -2163,7 +2163,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="2f72fffe-7602-05c4-b005-14bd527391f1" />
+							<attribute id="ID" type="FixedString" value="ed72945e-4d04-43f6-b7b6-ea23bdee57de" />
 							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
 						</node>
 						<node id="Texture2DParameters">
