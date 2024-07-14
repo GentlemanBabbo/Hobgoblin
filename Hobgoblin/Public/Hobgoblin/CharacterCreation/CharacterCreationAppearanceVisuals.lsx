@@ -642,7 +642,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hadaa8058g415eg428egba49gff306eb39a4f" version="1"/>
                     <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
