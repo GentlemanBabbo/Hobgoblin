@@ -530,8 +530,6 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="a0fd404d-95e0-f243-717d-6022f8d6b897" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="Initialized" type="bool" value="True" />
-					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="ID" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_M_NKD_Body" />
