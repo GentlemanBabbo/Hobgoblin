@@ -64,7 +64,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
+					<attribute id="BaseVisual" type="FixedString" value="f29d2d4d-f8c0-4c1e-942e-062d32e3168a" />
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
 					<attribute id="ID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" />
 					<attribute id="Localized" type="bool" value="False" />
