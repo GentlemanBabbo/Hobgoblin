@@ -10,7 +10,7 @@
 	
 	<Paths>
 		<SourceTextures>Conversion\Textures</SourceTextures>
-		<VirtualTextures>Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+		<VirtualTextures>Hobgoblin\Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
 	</Paths>
 	
 	<Layers>
