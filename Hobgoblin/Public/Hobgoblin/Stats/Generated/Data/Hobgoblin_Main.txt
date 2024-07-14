@@ -66,7 +66,7 @@ data "PrepareEffect" "9342eaf4-6a20-44c6-a740-863b0f9c2475"
 data "CastEffect" "2f5ddf2b-5151-4bd9-ab15-c712d2e0e823"
 data "TargetEffect" "3283b94c-bece-4835-a62b-de3a8c34d515"
 
-new entry "RUSH_Headbuttt"
+new entry "Rush_Headbuttt"
 type "SpellData"
 data "SpellType" "Rush"
 using "Rush_Rush"
