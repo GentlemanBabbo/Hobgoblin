@@ -8,7 +8,7 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Hobgoblin_Basic_Passives;FeyAncestry;Passive_WartimeTraining;MartialAdvantage;Passive_GoblinAdvantage" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Hobgoblin_Basic_Passives;FeyAncestry;Passive_WartimeTraining;MartialAdvantage" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(8055873d-3029-45d8-93bd-0345d458d0db,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
