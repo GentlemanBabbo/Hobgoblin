@@ -414,3 +414,9 @@ data "TargetEffect" "ddc1430f-4a0d-42c3-9ac8-ec4c3deaed35"
 data "BeamEffect" "94cab8bc-58f3-450d-8138-c1852ce28ee7"
 data "DamageType" "Radiant"
 data "SpellSoundMagnitude" "Big"
+
+<!--------------------- Weapons --------------------->
+new entry "WPN_Koalinth_Trident"
+type "Weapon"
+using "WPN_Trident"
+data "RootTemplate" "2aa3493f-7d4f-4f7b-b472-63e56b1de62b"
