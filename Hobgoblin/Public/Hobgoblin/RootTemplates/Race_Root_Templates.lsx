@@ -509,6 +509,38 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="Description" type="TranslatedString" handle="h9b583bb3g151fg4891gb943g6d4d7a1ef4ff" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hff1d5cfcgd58dg452dg9f6eg529ffaaf8250" version="2" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_Kuotoa_Javelin_A_0" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2aa3493f-7d4f-4f7b-b472-63e56b1de62b" />
+					<attribute id="Name" type="LSString" value="WPN_Koalinth_Trident" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a20a96d6-cc50-442c-b278-60d8b30de397" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="b30cebe1-a7df-632d-0577-23438f2f2fdb" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="871f1b8a-5edb-a961-9e44-557c35c273f5" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758161" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace" />
+								<node id="ShortHair" />
+								<node id="Visuals" />
+							</children>
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
