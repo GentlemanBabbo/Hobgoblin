@@ -1,0 +1,11 @@
+new equipment "EQ_Hobgoblin"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Githyanki"
+
+new equipment "EQ_Koalinth"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Githyanki"
+add equipmentgroup
+add equipment entry "ARM_KuoToa_Shield_A"
+add equipmentgroup
+add equipment entry "WPN_KoalinthTrident"
