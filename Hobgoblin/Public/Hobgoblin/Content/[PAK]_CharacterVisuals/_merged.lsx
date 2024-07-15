@@ -278,7 +278,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
+					<attribute id="BaseVisual" type="FixedString" value="b9651b69-84b5-4157-b118-85d134c8e443" />
 					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
 					<attribute id="ID" type="FixedString" value="d8fff46f-8cae-4c62-a937-75409a393afc" />
 					<attribute id="Localized" type="bool" value="False" />
