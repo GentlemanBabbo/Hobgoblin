@@ -578,7 +578,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="7336c70a-63b8-4fd9-aa2a-928b7711d26d" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_M_Base" />
+					<attribute id="Name" type="LSString" value="HobgoblinStrongblade_M_Base" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
