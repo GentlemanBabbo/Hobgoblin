@@ -55,7 +55,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
 					<attribute id="ID" type="FixedString" value="783210b7-86dc-4bb0-8148-19b9ef658e84" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Hobgoblin_Daisy" />					
@@ -212,7 +212,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" /> body model
+					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" /> body model
 					<attribute id="ID" type="FixedString" value="186679de-d357-4815-b76e-49cfaff447bc" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Dragon_Daisy" />	localised name
