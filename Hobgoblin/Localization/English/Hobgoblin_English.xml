@@ -38,7 +38,7 @@
 	<content contentuid="h04182b0egfbadg47bbga7dbg3f6765ed42e5" version="1">Your draconic powers allow you to spew forth a column of fire.</content>
 	<content contentuid="h327787c0g0b06g408bg80ecg7a2f4edc111a" version="1">Your draconic powers allow you to spew forth a cone of lightning.</content>
 	<content contentuid="h188d3ef2gb5dbg4e58ga536gdcf3128a4d94" version="1">Your draconic powers allow you to spew forth a cone of acid.</content>
-	<content contentuid="h0314f475ge54cg49b3ga5d1gc413ad452b88" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
+	<content contentuid="h0314f475ge54cg49b3ga5d1gc413ad452b88" version="1">Your draconic powersversion allow you to spew forth a cone of fire.</content>
 	<content contentuid="h26b7756ag6535g4cfag8a7cg5336407ba244" version="1">Your draconic powers allow you to spew forth a cone of poison.</content>
 	<content contentuid="h9b15f1caga01bg4134g9264gce7c38009521" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
 	<content contentuid="h0ad02bc5gd275g4280g9379g64e4b0c25199" version="1">Your draconic powers allow you to spew forth a cone of ice.</content>
@@ -63,6 +63,7 @@
 	<content contentuid="h179d795dg0e1eg412fgb637g7c61acb20719" version="1">Krolla</content>
 	<content contentuid="hf0a29caeg7fe9g4bb9ga0f6ga55ea1058cd9" version="1">Nose Taker</content>
 	<content contentuid="hb132888egf706g431egaa80g134e3f8effac" version="1">Bandit</content>
+	<content contentuid="hf947828ec7f4a4539a45ebb013eee732654g" version="1">Bez</content>
 	<content contentuid="hff1d5cfcgd58dg452dg9f6eg529ffaaf8250" version="1">Koalinth Trident</content>
 	<content contentuid="h9b583bb3g151fg4891gb943g6d4d7a1ef4ff" version="1">The cut-off pincer of some poor, unfortunate crustacean adhered to a bone shaft, creating a make-shift trident. </content>
 	<content contentuid="" version="1"></content>
