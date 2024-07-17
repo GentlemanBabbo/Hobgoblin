@@ -267,6 +267,19 @@
 					<attribute id="VisualResource" type="guid" value="cc911f56-1cbc-49e5-83f0-b84128e38f70"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - K
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf947828ec7f4a4539a45ebb013eee732654g" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="9d03f224-f50d-4cc1-9ed3-0f0fab6efa02"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="c3bdcd38-b5b2-4199-a61e-c4d0e6be1e85"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Hair -->
 		
 			<!--Male Hair-->
