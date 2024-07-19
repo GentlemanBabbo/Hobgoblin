@@ -471,7 +471,7 @@
 		<node id="VirtualTextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="GTexFileName" type="FixedString" value="52aee0863f034718bdb68c390faae071" />
+					<attribute id="GTexFileName" type="FixedString" value="921c1418ef0a406f9461f00ae7ac7d2c" />
 					<attribute id="ID" type="FixedString" value="c542d2f1-f9a3-4252-b638-7586de59688e" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="HOB_M_NKD_Body_D" />
