@@ -6,52 +6,16 @@
         <node id="root">
           <children>
             <node id="EquipmentRace">
-              <attribute id="Name" value="Strongblade Strong Female" type="22" />
+              <attribute id="Name" value="Hobgoblin Strong Female" type="22" />
               <attribute id="Guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" type="31" />
               <attribute id="DefaultParent" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" type="31" />              
               <attribute id="CharacterVisual" value="d1dc6034-39ff-71bb-ebf6-383e35007dae" type="31" />
             </node>             
             <node id="EquipmentRace">
-              <attribute id="Name" value="Strongblade Strong Male" type="22" />
+              <attribute id="Name" value="Hobgoblin Strong Male" type="22" />
               <attribute id="Guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" type="31" />
               <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
               <attribute id="CharacterVisual" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" type="31" />
-            </node> 
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Koalinth Strong Female" type="22" />
-              <attribute id="Guid" value="31adfbda-8dd8-4215-9841-a6a1c3f2b086" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="27de39df-053c-41e4-bc82-e1f787f585a9" type="31" />
-            </node>             
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Koalinth Strong Male" type="22" />
-              <attribute id="Guid" value="eabad3a0-4fa3-4bf0-bf19-7afccf251d1f" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" type="31" />
-            </node> 
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Sunscorched Strong Female" type="22" />
-              <attribute id="Guid" value="58d50f57-0c14-4572-9646-f07b40bdff10" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="97f04693-b9ed-490e-9920-0d273dcfc3be" type="31" />
-            </node>             
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Sunscorched Strong Male" type="22" />
-              <attribute id="Guid" value="a68568cc-4cec-4334-904f-8c78dbd52e2f" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="7e3c9586-a838-446f-ba16-5e824d18afec" type="31" />
-            </node>   
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Harrower Strong Female" type="22" />
-              <attribute id="Guid" value="7f6ad850-4cdc-4590-b88b-8ed701efd454" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="851e247f-fa01-431e-bd73-ca417041ad11" type="31" />
-            </node>             
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Harrower Strong Male" type="22" />
-              <attribute id="Guid" value="29b92c6c-3d62-470e-82dc-92b830fc5366" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" type="31" />
             </node> 
           </children>
         </node>
