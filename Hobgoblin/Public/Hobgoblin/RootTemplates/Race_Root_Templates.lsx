@@ -126,6 +126,48 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="25b28ddd-09d5-4fb8-90e7-edf0b59d4ae8" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" /> DGB
+					<attribute id="Stats" type="FixedString" value="Playable_F_Harrower" />
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c01dc4a6-10eb-4488-af69-ccdb17bdb719" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" /> DGB
+					<attribute id="Stats" type="FixedString" value="Playable_M_Harrower" />
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="GOB_WarchiefGrumpy" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanFight" type="bool" value="True" />
