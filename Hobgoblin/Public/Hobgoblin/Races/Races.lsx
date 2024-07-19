@@ -2864,6 +2864,27 @@
                 <attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />          
                 <attribute id="UUID" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> 
         </node>
+        <node id="Race">
+                <attribute id="Description" type="TranslatedString" handle="hafcba9cag4cd9g45eag8e9cgcca21fcd530b" version="1" />  
+                <attribute id="DisplayName" type="TranslatedString" handle="h9e1fd390g1480g4b05gb561gb64b0e99d1ad" version="1" />   
+                <attribute id="DisplayTypeUUID" type="guid" value="99c33978-f236-4f5b-a8d8-59aeeaf6140f"/>
+                <attribute id="Name" type="FixedString" value="Hobgoblin_Harrower" />    
+                <attribute id="ParentGuid" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />     
+                <attribute id="ProgressionTableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />    
+                <attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />          
+                <attribute id="UUID" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> 
+                <children>
+				<!--Race Tags-->
+					<!--Beastial-->
+				        	<node id="Tags">
+						        <attribute id="Object" type="guid" value="92aae5aa-4595-4f1c-96d2-9e2499d35c6f"/>
+					        </node>
+					<!--Rare-->
+					        <node id="Tags">
+						        <attribute id="Object" type="guid" value="d2f86ec3-c41f-47e1-8acd-984872a4d7d5"/>
+				        	</node>
+			        	</children>
+		    </node>
       </children>
     </node>
   </region>
