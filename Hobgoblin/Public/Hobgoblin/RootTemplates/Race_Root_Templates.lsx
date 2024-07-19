@@ -157,7 +157,7 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" /> which models to load
 					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
-					<attribute id="EquipmentRace" type="guid" value="eabad3a0-4fa3-4bf0-bf19-7afccf251d1f" />	
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
 							<children>
@@ -239,7 +239,7 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" /> which models to load
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
-					<attribute id="EquipmentRace" type="guid" value="a68568cc-4cec-4334-904f-8c78dbd52e2f" />	
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
 							<children>
@@ -325,7 +325,7 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" /> which models to load
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
-					<attribute id="EquipmentRace" type="guid" value="29b92c6c-3d62-470e-82dc-92b830fc5366" />	
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
 							<children>
