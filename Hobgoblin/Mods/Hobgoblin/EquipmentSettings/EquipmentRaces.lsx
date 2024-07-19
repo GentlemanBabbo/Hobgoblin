@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="1" time="0" />
+    <version major="1" minor="0" revision="0" build="0" />
+    <region id="EquipmentRaces">
+        <node id="root">
+          <children>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Strongblade Female" type="22" />
+              <attribute id="Guid" value="3292ea2f-1241-49a9-b5c9-bdce5185fc26" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Strongblade Male" type="22" />
+              <attribute id="Guid" value="6d42fd03-601a-456f-ad69-1b957b76b263" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Strongblade Strong Female" type="22" />
+              <attribute id="Guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" type="31" />
+              <attribute id="DefaultParent" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" type="31" />              
+              <attribute id="CharacterVisual" value="d1dc6034-39ff-71bb-ebf6-383e35007dae" type="31" />
+            </node>             
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Strongblade Strong Male" type="22" />
+              <attribute id="Guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" type="31" />
+            </node> 
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Koalinth Female" type="22" />
+              <attribute id="Guid" value="764ddef9-d32e-4d2d-be35-0b04d5b171c8" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="483b5e09-d54b-46d3-915f-c6947346b337" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Koalinth Male" type="22" />
+              <attribute id="Guid" value="dceb3417-db86-4a90-a77c-34bde79d6185" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="d8fff46f-8cae-4c62-a937-75409a393afc" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Koalinth Strong Female" type="22" />
+              <attribute id="Guid" value="31adfbda-8dd8-4215-9841-a6a1c3f2b086" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="27de39df-053c-41e4-bc82-e1f787f585a9" type="31" />
+            </node>             
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Koalinth Strong Male" type="22" />
+              <attribute id="Guid" value="eabad3a0-4fa3-4bf0-bf19-7afccf251d1f" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" type="31" />
+            </node> 
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Sunscorched Female" type="22" />
+              <attribute id="Guid" value="b4d3e9c4-f144-457b-9f38-58a2f77706af" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="9d63cf18-5360-434a-93c7-3b2798378ddb" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Sunscorched Male" type="22" />
+              <attribute id="Guid" value="83c46810-8a40-4c91-8a11-e4860c015dee" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="e11108ae-315b-4eb4-99c2-44865f900475" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Sunscorched Strong Female" type="22" />
+              <attribute id="Guid" value="58d50f57-0c14-4572-9646-f07b40bdff10" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="97f04693-b9ed-490e-9920-0d273dcfc3be" type="31" />
+            </node>             
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Sunscorched Strong Male" type="22" />
+              <attribute id="Guid" value="a68568cc-4cec-4334-904f-8c78dbd52e2f" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="7e3c9586-a838-446f-ba16-5e824d18afec" type="31" />
+            </node>                             
+          </children>
+        </node>
+    </region>
+</save>
