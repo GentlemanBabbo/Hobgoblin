@@ -184,7 +184,67 @@
 							</children>
 						</node>
 					</children>
-				</node>		
+				</node>	
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1c679d9e-1b71-4686-b177-0ac47ced7cb4" /> must be unique
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower_Daisy" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834" />
+					<attribute id="Icon" type="FixedString" value="9702283b-b072-9e09-e64f-d0bee5b8626d-EQP_Daisy_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="91bdbcd1-84d4-410f-a3cf-3664a77edbca" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="09f929b5-e7de-446b-85f9-1fb229ef4c49" /> must be unique
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower_Daisy" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="33c141ea-86e8-4f1e-82af-46f9470f62f2" />
+					<attribute id="Icon" type="FixedString" value="a4faeb04-33a7-ddee-ff77-ebf460eaf904-EQP_Daisy_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="77645116-5101-482d-a35a-056c020e209d" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

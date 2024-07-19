@@ -6,12 +6,33 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834" /> must be unique
-					<attribute id="Name" type="LSString" value="BASE_Main_Female_Hobgoblin" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Strongblade" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> half-orc
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" /> which models to load
+					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" /> define race as Custom Race				
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c033b4f8-aafb-4be5-81c1-cb448f3e0fb8" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Strongblade" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834" /> half-orc
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" /> which models to load
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />	
 					<children>
 						<node id="Tags">
 							<children>
@@ -26,12 +47,33 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="33c141ea-86e8-4f1e-82af-46f9470f62f2" /> must be unique
-					<attribute id="Name" type="LSString" value="BASE_Main_Male_Hobgoblin" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Strongblade" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" /> half-orc
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" /> which models to load
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="611c9a7b-1c06-4eea-90a0-15541eaa3669" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Strongblade" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="33c141ea-86e8-4f1e-82af-46f9470f62f2" /> half-orc
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" /> which models to load
+					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
 							<children>
@@ -52,6 +94,27 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="483b5e09-d54b-46d3-915f-c6947346b337" /> which models to load
 					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1cb17eb7-1484-4758-b248-e8793e7e2966" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Koalinth" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b4940c29-68b6-490c-9def-e87a1e9541f9" /> half-orc
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="27de39df-053c-41e4-bc82-e1f787f585a9" /> which models to load
+					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />	
 					<children>
 						<node id="Tags">
 							<children>
@@ -86,6 +149,28 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="96a9a7a5-8b15-430f-aeb7-34da1e3aeb99" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Koalinth" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="ab854660-d992-41db-a108-ba5c682759df" /> half-orc
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" /> which models to load
+					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="4148f1b6-5af6-41ea-80ba-add9465d1def" /> must be unique
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscorch" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -106,6 +191,27 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="91a3eb84-fd1e-48c1-8f7a-4ec32c29f569" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Sunscorch" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4148f1b6-5af6-41ea-80ba-add9465d1def" /> half-orc
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="97f04693-b9ed-490e-9920-0d273dcfc3be" /> which models to load
+					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />	
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="7f84bf8b-518d-4017-a38b-a96ef8a4eb4e" /> must be unique
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Sunscorch" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -113,6 +219,113 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e11108ae-315b-4eb4-99c2-44865f900475" /> which models to load
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fcb2b79d-d619-430d-bddc-04f1d77453a0" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Sunscorch" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7f84bf8b-518d-4017-a38b-a96ef8a4eb4e" /> half-orc
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" /> which models to load
+					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="25b28ddd-09d5-4fb8-90e7-edf0b59d4ae8" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" /> half-orc
+					<attribute id="Stats" type="FixedString" value="Playable_F_Harrower" />
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3a6523ed-5f3d-4e4f-ba5f-c2cf16400808" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="25b28ddd-09d5-4fb8-90e7-edf0b59d4ae8" /> half-orc
+					<attribute id="Stats" type="FixedString" value="Playable_F_Harrower" />
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="851e247f-fa01-431e-bd73-ca417041ad11" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />	
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="c01dc4a6-10eb-4488-af69-ccdb17bdb719" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" /> half-orc
+					<attribute id="Stats" type="FixedString" value="Playable_M_Harrower" />
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" /> Custom Race tag
+								</node>							
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="aef3188d-c851-4888-894b-bc5f34ac6285" /> must be unique
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Harrower" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c01dc4a6-10eb-4488-af69-ccdb17bdb719" /> half-orc
+					<attribute id="Stats" type="FixedString" value="Playable_M_Harrower" />
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" /> which models to load
+					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" /> define race as Custom Race
+					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
 							<children>

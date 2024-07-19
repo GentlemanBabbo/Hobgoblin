@@ -8,6 +8,8 @@
 	<content contentuid="hb086e865g9258g4d72g8b42g3ea4d1264ca9" version="1">Koalinth are marine goblinoids, Koalinth believe that they were created from surface hobgoblins by Maglubiyet, who sought to conquer the ocean depths. However, the newly-created koalinth were approached by Panzuriel, the Lord of Krakens, who proved himself the true master of the deep and the koalinth remain his loyal servants to this day. </content>
 	<content contentuid="ha68d4c59g4573g4ea9g96e9ga3e6fa8919d5" version="1">Sunscorch Hobgoblin</content>
 	<content contentuid="hcc1dcf48gee8cg4ea3gbb16g2025162384f8" version="1">These Hobgoblins often ally with powerful dragons, supplying the drake with treasure and sometimes a lair in exchange for assistance in battle. Of all the chromatic dragons, blue dragons are the most common hobgoblin allies.</content>
+	<content contentuid="h9e1fd390g1480g4b05gb561gb64b0e99d1ad" version="1">Harrower Hobgoblin</content>
+	<content contentuid="hafcba9cag4cd9g45eag8e9cgcca21fcd530b" version="1">Conscripted and transformed by the Fey, these hobgoblins are ferocious guardians of the natural order. The danger of their role has kept them rare, with their beastial nature marking them as anomolies to the modern world. It is not known if these wardens of the wilds are prisoners to the Fey in their own right, but it is clear that their effeciency as a protector is not to be questioned.</content>
 	<content contentuid="h05e40912g0959g41c4g8a0dg8b73273ca07d" version="1">Blurg</content>
 	<content contentuid="hf062604cg05ceg4016g93dfg932d1b3679e1" version="1">The Gobbler</content>
 	<content contentuid="h69effaa9g0fd7g4a5bgb118g407133da32db" version="1">Dror Ragzlin</content>
@@ -38,7 +40,7 @@
 	<content contentuid="h04182b0egfbadg47bbga7dbg3f6765ed42e5" version="1">Your draconic powers allow you to spew forth a column of fire.</content>
 	<content contentuid="h327787c0g0b06g408bg80ecg7a2f4edc111a" version="1">Your draconic powers allow you to spew forth a cone of lightning.</content>
 	<content contentuid="h188d3ef2gb5dbg4e58ga536gdcf3128a4d94" version="1">Your draconic powers allow you to spew forth a cone of acid.</content>
-	<content contentuid="h0314f475ge54cg49b3ga5d1gc413ad452b88" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
+	<content contentuid="h0314f475ge54cg49b3ga5d1gc413ad452b88" version="1">Your draconic powersversion allow you to spew forth a cone of fire.</content>
 	<content contentuid="h26b7756ag6535g4cfag8a7cg5336407ba244" version="1">Your draconic powers allow you to spew forth a cone of poison.</content>
 	<content contentuid="h9b15f1caga01bg4134g9264gce7c38009521" version="1">Your draconic powers allow you to spew forth a cone of fire.</content>
 	<content contentuid="h0ad02bc5gd275g4280g9379g64e4b0c25199" version="1">Your draconic powers allow you to spew forth a cone of ice.</content>
@@ -63,9 +65,10 @@
 	<content contentuid="h179d795dg0e1eg412fgb637g7c61acb20719" version="1">Krolla</content>
 	<content contentuid="hf0a29caeg7fe9g4bb9ga0f6ga55ea1058cd9" version="1">Nose Taker</content>
 	<content contentuid="hb132888egf706g431egaa80g134e3f8effac" version="1">Bandit</content>
+	<content contentuid="h575d4f96ga057g4d79ga31eg084dac7b1928" version="1">Spike</content>
+	<content contentuid="hf947828ec7f4a4539a45ebb013eee732654g" version="1">Bez</content>
 	<content contentuid="hff1d5cfcgd58dg452dg9f6eg529ffaaf8250" version="1">Koalinth Trident</content>
 	<content contentuid="h9b583bb3g151fg4891gb943g6d4d7a1ef4ff" version="1">The cut-off pincer of some poor, unfortunate crustacean adhered to a bone shaft, creating a make-shift trident. </content>
-	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

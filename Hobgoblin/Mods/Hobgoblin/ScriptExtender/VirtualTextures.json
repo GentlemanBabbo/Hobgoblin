@@ -23,6 +23,10 @@
       {
         "GTexName": "16db50e2bd4144ec8484b816d6766fc9",
         "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinKoalinth.gts"
+      },
+      {
+        "GTexName": "921c1418ef0a406f9461f00ae7ac7d2c",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinHarrower.gts"
       }
   ]
 }

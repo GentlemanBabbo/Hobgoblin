@@ -313,6 +313,109 @@
 						</node>
 					</children>
 				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" /> body model
+					<attribute id="ID" type="FixedString" value="77645116-5101-482d-a35a-056c020e209d" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower_Daisy" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="53239f69-f007-4755-a554-7858685f88b9" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="b801b19c-a373-0c0b-0a8c-30758b460178" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="0e396e65-5051-5e4f-390a-430299070142" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
+					<attribute id="BodySetVisual" type="FixedString" value="b275c982-acab-4db5-9a6f-e3aec5b7f843" />
+					<attribute id="ID" type="FixedString" value="91bdbcd1-84d4-410f-a3cf-3664a77edbca" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower_Daisy" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="d71b304f-8fb9-4db3-a61d-84eca69ab989" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="4ba9f25a-0270-1b1b-89da-bca465851b17" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
