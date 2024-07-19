@@ -76,7 +76,31 @@
               <attribute id="Guid" value="a68568cc-4cec-4334-904f-8c78dbd52e2f" type="31" />
               <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
               <attribute id="CharacterVisual" value="7e3c9586-a838-446f-ba16-5e824d18afec" type="31" />
-            </node>                             
+            </node>   
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Harrower Female" type="22" />
+              <attribute id="Guid" value="2d2e31fc-2d62-4433-9c0d-ed2b84e0b35c" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="a006f7f7-34e3-4ab5-9647-90dae565146e" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Harrower Male" type="22" />
+              <attribute id="Guid" value="a45c5b0f-68f6-49d6-b14f-9af179c5d891" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" type="31" />
+			      </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Harrower Strong Female" type="22" />
+              <attribute id="Guid" value="7f6ad850-4cdc-4590-b88b-8ed701efd454" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="851e247f-fa01-431e-bd73-ca417041ad11" type="31" />
+            </node>             
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Harrower Strong Male" type="22" />
+              <attribute id="Guid" value="29b92c6c-3d62-470e-82dc-92b830fc5366" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
+              <attribute id="CharacterVisual" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" type="31" />
+            </node> 
           </children>
         </node>
     </region>
