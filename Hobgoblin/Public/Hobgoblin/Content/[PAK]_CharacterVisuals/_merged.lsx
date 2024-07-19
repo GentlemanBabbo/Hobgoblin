@@ -64,6 +64,65 @@
 					</children>
 				</node>
 				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="7336c70a-63b8-4fd9-aa2a-928b7711d26d" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" /> body model
+					<attribute id="ID" type="FixedString" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Strongblade" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e1ec28ab-1c68-bdfe-d6dd-9e81fa2fa894" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="0655eed2-46ce-4e6c-8ad6-20b394b70178" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="12e7fe15-0549-44e6-8de4-95b7230b6d18" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="8f39531e-cdf1-c4bd-a1fd-fabb6f44e1f3" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="f29d2d4d-f8c0-4c1e-942e-062d32e3168a" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
 					<attribute id="ID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" />
@@ -124,11 +183,234 @@
 					</children>
 				</node>
 				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="f29d2d4d-f8c0-4c1e-942e-062d32e3168a" />
+					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
+					<attribute id="ID" type="FixedString" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Strongblade" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="e1ec28ab-1c68-bdfe-d6dd-9e81fa2fa894" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="d71b304f-8fb9-4db3-a61d-84eca69ab989" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="2621eaab-e0ad-4ae4-9199-f24cb765a899" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="861e2c7e-86ca-4f08-b401-358d5c18a09e" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" /> body model
 					<attribute id="ID" type="FixedString" value="483b5e09-d54b-46d3-915f-c6947346b337" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Koalinth" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="4a8acfaa-aedd-f680-8a8c-c1fd222fcb48" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+			                        <node id="RealMaterialOverrides">
+			                            <children>
+							<!--FHeadA-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadB-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_B.1GOB_F_NKD_Head_Sazza_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_B.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadC-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_C.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_C.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadD-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_D.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_D.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadE-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_E.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_E.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadF-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_F.1GOB_F_NKD_Elder_Head_A_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_F.3GOB_F_NKD_Elder_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadG-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.1HRC_F_NKD_Head_C_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.3HRC_F_NKD_Head_C_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadH-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.1HeadMesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.1HeadMesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadJ-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_J.1GOB_F_NKD_Head_Sazza_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_J.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--FHeadK-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.1GOB_F_NKD_Head_C_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="e074f46b-fb34-4b2d-9815-83fc4aa417e0" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.3GOB_F_NKD_Head_C_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+			                            </children>
+			                        </node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="7df3d8d6-cb25-4f17-b2e6-b11c6f1faf12" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="2db044c9-cc4e-4de2-8c7e-9b57273b2dfe" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="861e2c7e-86ca-4f08-b401-358d5c18a09e" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" /> body model
+					<attribute id="ID" type="FixedString" value="27de39df-053c-41e4-bc82-e1f787f585a9" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Koalinth" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -449,11 +731,292 @@
 					</children>
 				</node>
 				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="b9651b69-84b5-4157-b118-85d134c8e443" />
+					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
+					<attribute id="ID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Koalinth" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="4a8acfaa-aedd-f680-8a8c-c1fd222fcb48" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+			                        <node id="RealMaterialOverrides">
+			                            <children>
+							<!--MHeadA-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_A.HOB_M_NKD_Head_A_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_A.HOB_M_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadB-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_B.HOB_M_NKD_Head_B_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_B.HOB_M_NKD_Head_B_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadC-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_C.HOB_M_NKD_Head_Dror_Ragzlin_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_C.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadD-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_D.HOB_M_NKD_Head_Dror_Ragzlin_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_D.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadE-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_E.HOB_M_NKD_Head_Dror_Ragzlin_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyes_Mesh.6" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadF-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_F.HOB_M_NKD_Head_Dror_Ragzlin_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadG-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_G.HOB_M_NKD_Head_G_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_G.HOB_M_NKD_Head_G_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadH-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_H.1Head.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_H.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_I.HOB_M_NKD_Head_Dror_Ragzlin_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_I.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadJ-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_J.1HRC_M_NKD_Head_E_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_J.3HRC_M_NKD_Head_E_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+							<!--MHeadK-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_K.GOB_M_NKD_Head_Torturer_Spike_Mesh.0" />
+			                                    <attribute id="MapValue" type="FixedString" value="731f84ff-20f8-403b-842b-1a5443eaaf53" />
+			                                </node>
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_K.GOB_M_NKD_Head_Torturer_Spike_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
+			                                </node>
+			                            </children>
+			                        </node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="d68897bc-5312-49bf-9fc0-3d546e6f8e4f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="0ca1a42c-443a-40f6-bc9b-8aaf7ead72a4" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="061bf3d6-10a4-7772-7bd2-f0008850a73f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e5e04512-05eb-4b8a-9e1d-103ef8c786ea" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="06ee596e-fc2a-497a-98ed-ed21298cc496" /> body model
 					<attribute id="ID" type="FixedString" value="9d63cf18-5360-434a-93c7-3b2798378ddb" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscorch" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="1a21505f-c391-9e6e-9c9e-eb20c6402615" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+			                        <node id="RealMaterialOverrides">
+			                            <children>
+							<!--FHeadA-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadB-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_B.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadC-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_C.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadD-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_D.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadE-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_E.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadF-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_F.3GOB_F_NKD_Elder_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadG-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.3HRC_F_NKD_Head_C_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadH-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.3Eyes.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadJ-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.1GOB_F_NKD_Head_C_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--FHeadK-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.3GOB_F_NKD_Head_C_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+			                            </children>
+			                        </node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="7d223825-a0af-4a3f-8d65-e389100208a8" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="7a3c383a-8b5c-4d97-b89c-91d6bf407364" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="e5e04512-05eb-4b8a-9e1d-103ef8c786ea" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="06ee596e-fc2a-497a-98ed-ed21298cc496" /> body model
+					<attribute id="ID" type="FixedString" value="97f04693-b9ed-490e-9920-0d273dcfc3be" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Sunscorch" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -683,6 +1246,120 @@
 					</children>
 				</node>
 				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="2e26c820-33ac-48c4-bc47-eb4299614474" />
+					<attribute id="BodySetVisual" type="FixedString" value="d10589b0-2945-4ea0-9562-351200272a51" />
+					<attribute id="ID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Sunscorch" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="bf5ed6a9-d174-a0dc-d987-3a084d373917" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="1a21505f-c391-9e6e-9c9e-eb20c6402615" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+			                        <node id="RealMaterialOverrides">
+			                            <children>
+							<!--MHeadA-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_A.HOB_M_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadB-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_B.HOB_M_NKD_Head_B_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadC-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_C.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadD-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_D.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadE-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyes_Mesh.6" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadF-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadG-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_G.HOB_M_NKD_Head_G_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+							<!--MHeadH-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_H.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+						<!--MHeadI-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_I.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+						<!--MHeadJ-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_J.3HRC_M_NKD_Head_E_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+						<!--MHeadK-->
+			                                <node id="Object">
+			                                    <attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_K.GOB_M_NKD_Head_Torturer_Spike_Eyes_Mesh.2" />
+			                                    <attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
+			                                </node>
+			                            </children>
+			                        </node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="97522fba-1dc1-4f2a-86fc-67c0ef80293d" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="7a3c383a-8b5c-4d97-b89c-91d6bf407364" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" /> body model
 					<attribute id="ID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" /> must be unique		
@@ -799,7 +1476,124 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" /> body model
+					<attribute id="ID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" /> must be unique		
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Harrower" />	localised name
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+								<!--MHeadA-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_A.HOB_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadB-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_B.HOB_M_NKD_Head_B_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadC-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_C.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadD-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_D.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadE-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_Abs.HRC_M_NKD_Head_A_Eyes_Mesh.6" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadF-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_F.HRC_M_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadG-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_G.HOB_M_NKD_Head_G_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadH-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_H.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadI-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_I.HOB_M_NKD_Head_Dror_Ragzlin_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadJ-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_J.3HRC_M_NKD_Head_E_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--MHeadK-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_M_Head_K.GOB_M_NKD_Head_Torturer_Spike_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="0655eed2-46ce-4e6c-8ad6-20b394b70178" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="4a2e83f3-6e6a-caf9-0d6d-4ff760be0d42" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
+						</node>
+					</children>
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
@@ -807,6 +1601,125 @@
 					<attribute id="ID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower" />					
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2b5e1ad2-301d-c0ce-4829-eaf376ba6e3c" />
+										</node>
+										<node id="Object">
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides">
+							<children>
+								<!--FHeadA-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_A.HOB_F_NKD_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadB-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_B.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadC-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_C.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadD-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_D.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadE-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_E.3ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadF-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_F.3GOB_F_NKD_Elder_Head_A_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadG-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_G.3HRC_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadH-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadI-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_I.3Eyes.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadJ-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.1GOB_F_NKD_Head_C_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+								<!--FHeadK-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.3GOB_F_NKD_Head_C_Eyes_Mesh.2" />
+									<attribute id="MapValue" type="FixedString" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+								</node>
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="d71b304f-8fb9-4db3-a61d-84eca69ab989" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="2621eaab-e0ad-4ae4-9199-f24cb765a899" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="74a70979-673a-3abf-0149-06d37f19697c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
+					<attribute id="BodySetVisual" type="FixedString" value="b275c982-acab-4db5-9a6f-e3aec5b7f843" />
+					<attribute id="ID" type="FixedString" value="851e247f-fa01-431e-bd73-ca417041ad11" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Harrower" />					
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
