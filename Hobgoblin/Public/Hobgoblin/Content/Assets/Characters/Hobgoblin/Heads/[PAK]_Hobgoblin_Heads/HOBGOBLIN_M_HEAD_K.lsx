@@ -1649,7 +1649,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="09713120-54d0-13a8-fbb0-655a634a8df7" />
+							<attribute id="MaterialID" type="FixedString" value="20e327c9-f4d0-d0b5-3c16-81960099ceb5" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_K.GOB_M_NKD_Head_Torturer_Spike_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
