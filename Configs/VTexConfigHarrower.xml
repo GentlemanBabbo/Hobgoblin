@@ -21,15 +21,5 @@
 
 	<Textures>
 		<!--Harrower-->
-		<Texture Name="cabe139b79dc44d49c45c63943e83f5c">
-			<Layer Name="Albedo" Source="HOB_F_NKD_Body_D_CLEA.DDS" />
-			<Layer Name="Normal" Source="HOB_F_NKD_Body_D_NM.DDS" />
-			<Layer Name="Physical" Source="HOB_F_NKD_Body_D_HMVY.DDS" />
-		</Texture>
-		<Texture Name="921c1418ef0a406f9461f00ae7ac7d2c">
-			<Layer Name="Albedo" Source="HOB_M_NKD_Body_D_CLEA.DDS" />
-			<Layer Name="Normal" Source="HOB_M_NKD_Body_D_NM.DDS" />
-			<Layer Name="Physical" Source="HOB_M_NKD_Body_D_HMVY.DDS" />
-		</Texture>
 	</Textures>
 </TileSet>
