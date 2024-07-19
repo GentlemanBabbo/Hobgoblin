@@ -65,7 +65,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="7336c70a-63b8-4fd9-aa2a-928b7711d26d" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" /> body model
+					<attribute id="BodySetVisual" type="FixedString" value="c0ce1e5c-9103-4a56-94c5-db15c5ddacd4" /> body model
 					<attribute id="ID" type="FixedString" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Strongblade" />	localised name
