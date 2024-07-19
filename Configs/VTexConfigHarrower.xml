@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="HobgoblinHarrower">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Hobgoblin\Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
 
+	<Textures>
+		<!--Harrower-->
+		<Texture Name="cabe139b79dc44d49c45c63943e83f5c">
+			<Layer Name="Albedo" Source="HOB_F_NKD_Body_D_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOB_F_NKD_Body_D_NM.DDS" />
+			<Layer Name="Physical" Source="HOB_F_NKD_Body_D_HMVY.DDS" />
+		</Texture>
+		<Texture Name="921c1418ef0a406f9461f00ae7ac7d2c">
+			<Layer Name="Albedo" Source="HOB_M_NKD_Body_D_CLEA.DDS" />
+			<Layer Name="Normal" Source="HOB_M_NKD_Body_D_NM.DDS" />
+			<Layer Name="Physical" Source="HOB_M_NKD_Body_D_HMVY.DDS" />
+		</Texture>
+	</Textures>
+</TileSet>
