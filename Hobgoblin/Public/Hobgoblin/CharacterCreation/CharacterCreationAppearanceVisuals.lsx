@@ -6,6 +6,7 @@
             <children>
 		<!--Hobgoblin Heads-->
 		<!--Male Heads-->
+				<!--Type 1 and Type 2-->
 				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -149,7 +150,152 @@
 					<attribute id="VisualResource" type="guid" value="ec5e8972-72ed-4ae2-889d-7fbc06c7c361"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<!--Type 3 and Type 4-->
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - A
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h05e40912g0959g41c4g8a0dg8b73273ca07d" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="b9ac7caf-bd46-4009-854c-ed49432b70c6"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="53239f69-f007-4755-a554-7858685f88b9"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - B
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf062604cg05ceg4016g93dfg932d1b3679e1" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="00bc2ea9-d001-4780-a5cd-b95519a811f7"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="d68897bc-5312-49bf-9fc0-3d546e6f8e4f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - C
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h69effaa9g0fd7g4a5bgb118g407133da32db" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="e7ae7ef4-5087-41ec-b4e4-88357ba6eb5e"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="50124b6c-47b2-414a-b3ce-09a119f070ba"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - D
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h36872165ge514g4722gb3f5gbd0cfb509c3e" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="f40b78d3-fd75-4c40-9ee3-c44145738557"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="a6bd875a-6521-496a-864d-e410a55e5d65"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - E
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h3cf0f5cfg1df1g4cd9g8b7ag9053345bae3c" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="fcb9f0f1-8cab-4709-aedb-e2cb991c1b1e"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="97522fba-1dc1-4f2a-86fc-67c0ef80293d"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - F
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h61a6d7c5g3bc5g42a3gba3bge0b286808df4" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="af17c8e2-9fef-42dc-b7e4-4bf79c2305ea"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="2ae66642-160b-4052-90c4-10fe7edc7cbf"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - G
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="ha0e3f19bg2048g4139ga0f8g92d4e4cf7f00" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="5699bcc5-30a3-4fad-80c5-087bfb43d107"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="3804101b-3e1b-491a-bb29-58abc42f211e"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - H
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h8efd6aeeg8b80g41abg86dagec81f7aa154f" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="30c2e338-dd54-4fa7-b40c-abe41b16f3c4"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="c11b6868-a30a-4930-96e5-70cdedfb10b8"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - I
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h71d3f62eg787ag4fe5gac49g18f08ad2147b" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="0eb9dfe0-6bf6-4b2e-baf9-e60fb1b0c9b4"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="0655eed2-46ce-4e6c-8ad6-20b394b70178"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - J
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h71bda96bg0a0bg4e61ga042g765bea033ac3" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="b14f0429-4054-48bd-a473-acb0fd9f92ff"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="975ef5d1-dd62-4300-b16c-d1b89c3bacb0"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Male - K
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h575d4f96ga057g4d79ga31eg084dac7b1928" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="90176a0f-6ba7-4acf-a1ae-e87a38c7494e"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="ec5e8972-72ed-4ae2-889d-7fbc06c7c361"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Female Heads-->
+				<!--Type 1 and Type 2-->
 				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
@@ -293,10 +439,155 @@
 					<attribute id="VisualResource" type="guid" value="c3bdcd38-b5b2-4199-a61e-c4d0e6be1e85"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+				<!--Type 3 and Type 4-->
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - A
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h745ab658gd192g43bdgaee6g7d33fbe3a1a5" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a495536d-358b-4b77-bc14-eed47dbf2510"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="7df3d8d6-cb25-4f17-b2e6-b11c6f1faf12"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - B
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h67851b4bga5a0g45cagaefcg51945fea8516" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="3a076dbf-e4e9-43d0-88f1-22ea964c96fc"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="d71b304f-8fb9-4db3-a61d-84eca69ab989"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - C
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf738ac56g6152g41fegaf78g1d7b6a5c0161" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="57f1be16-1e4b-474a-9517-63b6e237e346"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="7d223825-a0af-4a3f-8d65-e389100208a8"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - D
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="haedf11d2g907fg4f25ga4a2g3a7c989760a8" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="e5717868-a68e-4f46-8cb4-80951001eb82"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="eeb51b12-d80c-4270-8748-1ece4b3e7c0e"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - E
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="ha4b69385gb9d6g49acgb7abg56b34903a0c3" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="bdbc45ec-79c2-4b21-a8e9-60abd1fe2171"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="ec550108-e0f1-4890-9112-ac35c9d575af"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - F
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h19267467g247dg45c7gb567g5a5fb6838b54" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a5e3626e-f229-4281-a064-4f5d1bc565f1"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="54d079e0-d6da-43bb-8a69-9c6ca9bfd5bf"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - G
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h0bace558g1c16g4ef5gb847g50379bad44b6" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="8b9d3a86-ba48-4041-94f8-d8246775f0f2"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="adfa8a66-e2b0-4e5c-a83c-c6485331e867"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - H
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="h179d795dg0e1eg412fgb637g7c61acb20719" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="6ed6cdd3-4d89-427e-aa87-b73f223cdc23"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="74f414a4-d6a2-41d8-98f9-eaa4d3d63ec9"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - I
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf0a29caeg7fe9g4bb9ga0f6ga55ea1058cd9" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="a754af79-5b03-42b7-bbe4-664acbfe0de6"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="fdab07a4-d961-46a4-85e6-7bc1c2b6d98f"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - J
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hb132888egf706g431egaa80g134e3f8effac" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="337b007a-f220-4a04-910e-3c016546b2d4"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="cc911f56-1cbc-49e5-83f0-b84128e38f70"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Hobgoblin Female - K
+					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
+					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
+					<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+                   			<attribute id="DisplayName" type="TranslatedString" handle="hf947828ec7f4a4539a45ebb013eee732654g" version="1"/> 
+					same as the handle in your Localization\English\custom_name_here.xml
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+					The UUID for the race you're making the head for. See below for a list.
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="c3cb43aa-36d3-49f9-8beb-a169095a69f6"/> <!--Unique UUID -->
+					<attribute id="VisualResource" type="guid" value="c3bdcd38-b5b2-4199-a61e-c4d0e6be1e85"/>
+					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
+				</node>
 		<!--Hair -->
 		
 			<!--Male Hair-->
 				<!--Mod Specific-->
+				<!--Type 1 and Type 2-->
 		                <node id="CharacterCreationAppearanceVisual"> Hair A
 		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="0"/>
@@ -315,6 +606,27 @@
 				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
 		                    <attribute id="UUID" type="guid" value="390d1a17-9cdc-4a94-8f88-39f0c7a3460e"/>
+		                    <attribute id="VisualResource" type="guid" value="0ca1a42c-443a-40f6-bc9b-8aaf7ead72a4"/>
+		                </node>
+				<!--Type 3 and Type 4-->
+		                <node id="CharacterCreationAppearanceVisual"> Hair A
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="0"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="h71cbe566g6efdg4390ga72ag9e4a4e0c64c7" version="1"/>
+				    <attribute id="IconIdOverride" type="FixedString" value=""/>
+				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="bdc873ac-8040-4dbe-9e9e-3f411263d0c8"/>
+		                    <attribute id="VisualResource" type="guid" value="56cec407-084d-4969-ae0f-a244b76386e7"/>
+		                </node>
+		                <node id="CharacterCreationAppearanceVisual"> Hair B - Dror Ragzlin
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="0"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="hfa269152g6856g4a5fg8918g51a01c634f56" version="1"/>
+				    <attribute id="IconIdOverride" type="FixedString" value=""/>
+				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="9a1abd39-dd2f-464a-a837-f7fb890c44a6"/>
 		                    <attribute id="VisualResource" type="guid" value="0ca1a42c-443a-40f6-bc9b-8aaf7ead72a4"/>
 		                </node>
 				<!--Bard-->
@@ -564,6 +876,7 @@
 
 			<!--Female Hair-->
 				<!--Mod Specific-->
+				<!--Type 1 and Type 2-->
 		                <node id="CharacterCreationAppearanceVisual"> Hair A
 		                    <attribute id="BodyShape" type="uint8" value="0"/>
 		                    <attribute id="BodyType" type="uint8" value="1"/>
@@ -582,6 +895,27 @@
 				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
 		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
 		                    <attribute id="UUID" type="guid" value="23cce540-8b03-45c6-be34-a1c3b54d3aa7"/>
+		                    <attribute id="VisualResource" type="guid" value="78081249-1a0f-4312-9902-4b6e8c02b07d"/>
+		                </node>
+				<!--Type 3 and Type 4-->
+		                <node id="CharacterCreationAppearanceVisual"> Hair A
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="1"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="h71cbe566g6efdg4390ga72ag9e4a4e0c64c7" version="1"/>
+				    <attribute id="IconIdOverride" type="FixedString" value=""/>
+				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="abf2f92a-1b6f-4424-aa15-7fbe4b107a03"/>
+		                    <attribute id="VisualResource" type="guid" value="e3fc41f4-1e08-4043-8bc2-aba55db2d1d0"/>
+		                </node>
+		                <node id="CharacterCreationAppearanceVisual"> Hair B - Dror Ragzlin
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="1"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="h10d00681g1d17g4f9fg9a71g34c1e30f5755" version="1"/>
+				    <attribute id="IconIdOverride" type="FixedString" value=""/>
+				    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="7b1d4216-3888-4a93-a788-fc327b106f2f"/>
 		                    <attribute id="VisualResource" type="guid" value="78081249-1a0f-4312-9902-4b6e8c02b07d"/>
 		                </node>
 			<!--Beards-->
@@ -663,7 +997,7 @@
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
         <!--Fake Genitals-->
-                <node id="CharacterCreationAppearanceVisual"> MS
+                <node id="CharacterCreationAppearanceVisual"> M
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
@@ -677,7 +1011,7 @@
                         </node>
                     </children>
                 </node>
-                <node id="CharacterCreationAppearanceVisual"> FS
+                <node id="CharacterCreationAppearanceVisual"> F
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
@@ -691,7 +1025,36 @@
                         </node>
                     </children>
                 </node>
+                <node id="CharacterCreationAppearanceVisual"> MS
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="fa6bbe52-c570-4533-8d16-fcdfbd1b19cb"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> FS
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12514d5g455ag4bd1ga00age3a4f753ab37" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="f46511a2-a195-46b3-8f33-2227d6daf483"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
 	<!--Genitals-->
+		<!--Vagina-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
@@ -806,6 +1169,122 @@
                         </node>
                     </children>
                 </node>
+		<!--Type 3-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h765abce7g0c81g42e4g9212ga080a34c7818" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="cb0d2bb5-020b-41d7-b639-7395bc40c19f"/>
+                    <attribute id="VisualResource" type="guid" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1cd997aeg3ec7g4101gb382geade7baeecdd" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="98edc1dd-d881-487a-b1a6-c42724ff6dff"/>
+                    <attribute id="VisualResource" type="guid" value="b6333ae0-90ab-785c-582c-2e40a7dc2e1f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h33856a57ge5edg4971g8f81g21f061c7705d" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="156595cd-0acd-4f86-98f5-515f1dc27d20"/>
+                    <attribute id="VisualResource" type="guid" value="96031c7d-7b42-e471-6401-242aaa990e5a"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc3887d08g6818g4acbgbc40gf9c0c0c9ae9d" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="31e18407-2192-41a2-9670-0ad2ab0154fc"/>
+                    <attribute id="VisualResource" type="guid" value="b7f9c4ed-b6ca-ae7e-68de-a2f5dd9d1701"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9e11cb71g760dg4f02gbfc4gfdc689b6cc2a" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="e183d0ab-6aa9-4c23-8ce4-17385e112670"/>
+                    <attribute id="VisualResource" type="guid" value="b7f9c4ed-b6ca-ae7e-68de-a2f5dd9d1701"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h47269c3fg0e9dg4b6fg9a39g175351117a51" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="eef47eab-8398-4a9b-a969-249f7b09a2aa"/>
+                    <attribute id="VisualResource" type="guid" value="17fbc77e-e502-2f5c-52ed-52998d61bd90"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5bd710c9gfa89g4aaag9e16g492e8dae4858" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="70ae0376-119e-4b4f-88c3-4d534033ec25"/>
+                    <attribute id="VisualResource" type="guid" value="ae5985a3-d6ac-e50d-5a29-ec2ba8c16619"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1e1e7068g0b6dg42c8gbbf6g1afb23e1a862" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="4f4c0860-a075-467b-8332-0a893944686e"/>
+                    <attribute id="VisualResource" type="guid" value="9396107e-9b6e-d9e2-87c7-cb8ec86f7879"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+		<!--Penis-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
@@ -920,6 +1399,121 @@
                         </node>
                     </children>
                 </node>
+		<!--Type 4-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h58ff380cg639ag4275g84a1g454eb6e3fab3" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="785ab7f3-4feb-4fea-a12b-87c697209d08"/>
+                    <attribute id="VisualResource" type="guid" value="b1392667-7883-8206-a2ef-207d5c3bda91"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hadaa8058g415eg428egba49gff306eb39a4f" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="4e536d7e-b1a5-4f6c-a7c0-a9702fe6cff0"/>
+                    <attribute id="VisualResource" type="guid" value="b1392667-7883-8206-a2ef-207d5c3bda91"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcf57c4d8g3423g4e00gb044gdee26b950175" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="ff5d018a-71ab-4f96-82c0-833073ee27b3"/>
+                    <attribute id="VisualResource" type="guid" value="de1498ff-c91e-f53c-f1b3-84b691a2d0a6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9b877d68g0685g44e5gb5f1g24ee6acfa4d1" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="6267bf2d-5283-44b3-9d5d-58b14168e1c6"/>
+                    <attribute id="VisualResource" type="guid" value="0e396e65-5051-5e4f-390a-430299070142"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h22585135g2a8dg422bg894eg9fc59968a994" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="4adc599f-d3ed-4f67-9bdf-b83a1d68f128"/>
+                    <attribute id="VisualResource" type="guid" value="0e396e65-5051-5e4f-390a-430299070142"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3792d01dge6bag456dgaa2fg837e5da7ab6a" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="6304e11b-42ee-419a-8e88-9dac0028c0c6"/>
+                    <attribute id="VisualResource" type="guid" value="f16de3b8-2e2d-20cf-82dc-7dbb1efc5091"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h56b82094g3502g42b7g8a24g9f5279391ff4" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="ae940c71-7c8c-4aa5-a7cc-17e625f187bb"/>
+                    <attribute id="VisualResource" type="guid" value="ab0b3c35-d773-5512-dc09-f99655568f48"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h29725722gb8b0g4f0fg8703gb823a0bc3a2a" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="b61e4f2c-9834-4100-b9ff-4f1d3d8c9aea"/>
+                    <attribute id="VisualResource" type="guid" value="e8eb488a-f7a9-edb6-d6d2-c5070742e549"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="d27831df-2891-42e4-b615-ae555404918b"/>
+                        </node>
+                    </children>
+                </node>
         <!--Tails-->
 
 		<!--Horns-->
@@ -940,6 +1534,24 @@
                     <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
                     <attribute id="SlotName" type="FixedString" value="Horns"/>
                     <attribute id="UUID" type="guid" value="5c85c64a-58de-4f31-97ac-8387db22d509"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84c2e232g4c9ag4f2bgaa4age8b2f1733c4c" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="ddbb48b1-5cad-4157-84d2-7d618bce63b9"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+				<node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h84c2e232g4c9ag4f2bgaa4age8b2f1733c4c" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="61eea68c-45f8-4956-9570-4f918cd44300"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                 </node>
       </children>
