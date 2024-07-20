@@ -8,7 +8,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="ba130fd1-81ec-4b9d-a615-e31aa197c886" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="Colorable_Body_HobgoblinStrongblade" />
+					<attribute id="Name" type="LSString" value="Colorable_Body_HobgoblinHarrower" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body_GM.lsf" />
 					<children>						
 						<node id="ScalarParameters">
