@@ -9,7 +9,7 @@
 					<attribute id="ID" type="FixedString" value="b10acec2-58b6-4f5b-84eb-c38559c7629a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_Body_HobgoblinHarrower" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body_GM.lsf" />
 					<children>						
 						<node id="ScalarParameters">
 							<attribute id="Enabled" type="bool" value="False" />
