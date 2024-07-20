@@ -536,11 +536,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
 					<attribute id="ID" type="FixedString" value="8e5eac3d-d577-445d-9824-b3c62c2259dd" />
-					<attribute id="Name" type="LSString" value="HOB_M_NKD_Body_D_GM" />
+					<attribute id="Name" type="LSString" value="HOBHarrower_MS_NKD_Body_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOB_M_NKD_Body_D_GM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/HOBHarrower_MS_NKD_Body_GM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOB_M_NKD_Body_D_GM" />
+					<attribute id="Template" type="FixedString" value="HOBHarrower_MS_NKD_Body_GM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
