@@ -152,11 +152,10 @@
 					<attribute id="MapKey" type="FixedString" value="96a9a7a5-8b15-430f-aeb7-34da1e3aeb99" /> must be unique
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Koalinth" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />					
-					<attribute id="ParentTemplateId" type="FixedString" value="ab854660-d992-41db-a108-ba5c682759df" /> half-orc
+					<attribute id="ParentTemplateId" type="FixedString" value="7f84bf8b-518d-4017-a38b-a96ef8a4eb4e" /> half-orc
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" /> which models to load
-					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" /> define race as Custom Race
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />	
 					<children>
 						<node id="Tags">
