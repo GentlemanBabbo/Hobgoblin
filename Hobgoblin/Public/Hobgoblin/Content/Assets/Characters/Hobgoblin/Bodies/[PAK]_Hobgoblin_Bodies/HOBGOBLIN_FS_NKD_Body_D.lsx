@@ -173,9 +173,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="7df148d5-3118-0b2a-79bc-c9947cb0cc18" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_F_NKD.Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_FS_NKD.Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_F_NKD.Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_FS_NKD.Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>						
 						<node id="AnimationWaterfall">
@@ -186,12 +186,12 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
 							<attribute id="MaterialID" type="FixedString" value="b10acec2-58b6-4f5b-84eb-c38559c7629a" />
-							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_NKD_Body.Body.0" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_FS_NKD_Body.Body.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
 							<attribute id="MaterialID" type="FixedString" value="9e9dcbc3-c93a-12ae-52c6-a21530f483e2" />
-							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_NKD_Body.Nails.1" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_FS_NKD_Body.Nails.1" />
 						</node>
 					</children>
 				</node>
