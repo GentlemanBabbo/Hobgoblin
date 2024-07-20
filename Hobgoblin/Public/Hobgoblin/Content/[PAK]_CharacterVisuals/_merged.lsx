@@ -1247,7 +1247,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="2e26c820-33ac-48c4-bc47-eb4299614474" />
-					<attribute id="BodySetVisual" type="FixedString" value="d10589b0-2945-4ea0-9562-351200272a51" />
+					<attribute id="BodySetVisual" type="FixedString" value="615d37e2-e7c7-4143-8ec2-a0b54c846515" />
 					<attribute id="ID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Sunscorch" />					
