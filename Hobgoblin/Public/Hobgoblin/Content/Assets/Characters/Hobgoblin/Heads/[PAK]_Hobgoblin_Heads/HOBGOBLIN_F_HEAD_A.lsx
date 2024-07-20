@@ -2002,11 +2002,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="a250a7ef-b68d-49e1-8744-d739c1ffe41b" />
-					<attribute id="Name" type="LSString" value="HOBHarrower_F_FishHead_GM" />
+					<attribute id="Name" type="LSString" value="HOBHarrower_F_Head_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOBHarrower_F_FishHead_GM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOBHarrower_F_Head_GM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOBHarrower_F_FishHead_GM" />
+					<attribute id="Template" type="FixedString" value="HOBHarrower_F_Head_GM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
