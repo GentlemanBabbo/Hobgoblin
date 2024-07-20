@@ -1012,8 +1012,8 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="e5e04512-05eb-4b8a-9e1d-103ef8c786ea" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="06ee596e-fc2a-497a-98ed-ed21298cc496" /> body model
+					<attribute id="BaseVisual" type="FixedString" value="68a2d301-c4e0-4c21-925e-ee83f89a139b" /> base animations
+					<attribute id="BodySetVisual" type="FixedString" value="34a89d68-07ab-442c-a54b-4c3c4696eef9" /> body model
 					<attribute id="ID" type="FixedString" value="97f04693-b9ed-490e-9920-0d273dcfc3be" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Sunscorch" />	localised name
