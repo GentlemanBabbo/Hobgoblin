@@ -1,50 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="3" revision="0" build="300"/>
-    <region id="SpellLists">
-        <node id="root">
-            <children>               
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Target_FeyGiftHelp;Target_WhacAGoblin;Rush_Headbuttt"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="730de094-5135-427f-8e4b-bfaae6095bdc"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Target_HobgoblinRally"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="ed490030-a957-489f-ba91-c7c4f9cca5df"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Shout_MaglubiyetShout"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="e80b196a-2def-47ed-9476-da5ce36e4b03"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Target_GoblinHoard"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="b4cab9d1-7990-4738-ad77-13b6f8e0f4ad"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Leadership_SBHobgoblin"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="eb00792d-b5fd-4121-ba20-30e96e894f79"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Target_SBHeartStopper"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="7474ac59-d525-4615-aa9d-3f4466ab7f55"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Rush_TsunamiFlash"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="4a0e61eb-4be6-4b0c-9d64-27248aeb09b7"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="092beccf-6fc0-4b82-b646-35b225cdb1e7"/> the UUID, needs to be unique
-                </node>
-            </children>
-        </node>
-    </region>
+	<version major="4" minor="3" revision="0" build="300" lslib_meta="v1,bswap_guids" />
+	<region id="SpellLists">
+		<node id="root">
+			<children>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Target_FeyGiftHelp;Target_WhacAGoblin;Rush_Headbuttt" />
+					<attribute id="UUID" type="guid" value="730de094-5135-427f-8e4b-bfaae6095bdc" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Target_HobgoblinRally" />
+					<attribute id="UUID" type="guid" value="ed490030-a957-489f-ba91-c7c4f9cca5df" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Shout_MaglubiyetShout" />
+					<attribute id="UUID" type="guid" value="e80b196a-2def-47ed-9476-da5ce36e4b03" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Target_GoblinHoard" />
+					<attribute id="UUID" type="guid" value="b4cab9d1-7990-4738-ad77-13b6f8e0f4ad" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Shout_Leadership_SBHobgoblin" />
+					<attribute id="UUID" type="guid" value="eb00792d-b5fd-4121-ba20-30e96e894f79" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Target_SBHeartStopper" />
+					<attribute id="UUID" type="guid" value="7474ac59-d525-4615-aa9d-3f4466ab7f55" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Rush_TsunamiFlash" />
+					<attribute id="UUID" type="guid" value="4a0e61eb-4be6-4b0c-9d64-27248aeb09b7" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Zone_Dovabeam" />
+					<attribute id="UUID" type="guid" value="092beccf-6fc0-4b82-b646-35b225cdb1e7" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

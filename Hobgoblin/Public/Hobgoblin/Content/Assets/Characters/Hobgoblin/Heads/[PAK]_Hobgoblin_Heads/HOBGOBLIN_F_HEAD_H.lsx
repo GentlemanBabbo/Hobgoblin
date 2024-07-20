@@ -3129,7 +3129,7 @@
 	</region>
 	<region id="TextureBank">
 		<node id="TextureBank">
-			<children>		
+			<children>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
@@ -3207,7 +3207,7 @@
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node> 
+				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
@@ -3320,7 +3320,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a3408a78-e44c-47cd-986f-ec6a9621ec24" /> <!-- krolla specific -->
+							<attribute id="MaterialID" type="FixedString" value="a3408a78-e44c-47cd-986f-ec6a9621ec24" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_head_H.1HeadMesh.0" />
 						</node>
 						<node id="Objects">
@@ -3330,12 +3330,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="2e955649-ebc0-1f0a-60ad-88a58a93ce2e" /> <!-- og f7601f42-123b-3cdb-687e-ad293a5940ee -->
+							<attribute id="MaterialID" type="FixedString" value="2e955649-ebc0-1f0a-60ad-88a58a93ce2e" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_head_H.3Eyes.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a3408a78-e44c-47cd-986f-ec6a9621ec24" /> <!-- krolla specific -->
+							<attribute id="MaterialID" type="FixedString" value="a3408a78-e44c-47cd-986f-ec6a9621ec24" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_head_H.4Ears.3" />
 						</node>
 						<node id="Objects">

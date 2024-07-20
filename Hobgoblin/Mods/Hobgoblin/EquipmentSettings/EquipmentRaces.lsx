@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <header version="1" time="0" />
-    <version major="1" minor="0" revision="0" build="0" />
-    <region id="EquipmentRaces">
-        <node id="root">
-          <children>
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Hobgoblin Strong Female" type="22" />
-              <attribute id="Guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" type="31" />
-              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />              
-              <attribute id="CharacterVisual" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" type="31" />
-            </node>             
-            <node id="EquipmentRace">
-              <attribute id="Name" value="Hobgoblin Strong Male" type="22" />
-              <attribute id="Guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" type="31" />
-              <attribute id="DefaultParent" value="e39505f7-f576-4e70-a99e-8e29cd381a11" type="31" />              
-              <attribute id="CharacterVisual" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" type="31" />
-            </node> 
-          </children>
-        </node>
-    </region>
+	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EquipmentRaces">
+		<node id="root">
+			<children>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Hobgoblin Strong Female" />
+					<attribute id="Guid" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="CharacterVisual" type="guid" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Hobgoblin Strong Male" />
+					<attribute id="Guid" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
+					<attribute id="DefaultParent" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisual" type="guid" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

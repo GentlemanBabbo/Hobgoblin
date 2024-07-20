@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
-	<!-- SkeletonBank inherited from vanilla HRC_F_NKD_Head_D, as referenced in VisualBank below -->
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>

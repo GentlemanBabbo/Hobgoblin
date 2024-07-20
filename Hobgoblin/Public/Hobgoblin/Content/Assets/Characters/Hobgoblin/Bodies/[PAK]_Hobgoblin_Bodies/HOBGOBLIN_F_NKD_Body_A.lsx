@@ -10,7 +10,7 @@
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_Body_HobgoblinStrongblade" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
-					<children>						
+					<children>
 						<node id="ScalarParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="DetailNormalTiling" />
@@ -669,7 +669,6 @@
 						<node id="ClothProxyMapping" />
 					</children>
 				</node>
-			<!--Hobgoblin Female Body-->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -693,19 +692,19 @@
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_F_NKD.Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-					<children>						
+					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
 						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 
+							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="5ec1cc32-1b3a-42e1-a603-6dfce67b1c34" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Body.0" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 
+							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="9e9dcbc3-c93a-12ae-52c6-a21530f483e2" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Nails.1" />
 						</node>

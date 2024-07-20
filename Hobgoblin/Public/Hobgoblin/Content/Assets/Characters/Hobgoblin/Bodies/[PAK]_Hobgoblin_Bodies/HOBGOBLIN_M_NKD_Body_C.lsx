@@ -10,7 +10,7 @@
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Colorable_Body_HobgoblinSunscorched" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
-					<children>						
+					<children>
 						<node id="ScalarParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="DetailNormalTiling" />
@@ -661,7 +661,6 @@
 						<node id="ClothProxyMapping" />
 					</children>
 				</node>
-			<!--Hobgoblin Male Body-->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -685,14 +684,14 @@
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Body/Hobgoblin_Body/Hobgoblin_M_NKD.Body_C.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-					<children>						
+					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
 						</node>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" /> 
+							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="680193fe-04dc-468e-81e7-7c12eac7698e" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body_C.Body.0" />
 						</node>

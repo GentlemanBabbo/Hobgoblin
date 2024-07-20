@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="0" revision="9" build="307"/>
-    <region id="PassiveLists">
-        <node id="root">
-            <children>
-                <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="SunScorchAncestry_Red,SunScorchAncestry_Black,SunScorchAncestry_Blue,SunScorchAncestry_White,SunScorchAncestry_Green,SunScorchAncestry_Gold,SunScorchAncestry_Silver,SunScorchAncestry_Bronze,SunScorchAncestry_Copper,SunScorchAncestry_Brass"/>
-                    <attribute id="UUID" type="guid" value="59561db1-1f88-4d21-af34-0ee91b1b0729"/>
-                </node>
-            </children>
-        </node>
-    </region>
+	<version major="4" minor="0" revision="9" build="307" lslib_meta="v1,bswap_guids" />
+	<region id="PassiveLists">
+		<node id="root">
+			<children>
+				<node id="PassiveList">
+					<attribute id="Passives" type="LSString" value="SunScorchAncestry_Red,SunScorchAncestry_Black,SunScorchAncestry_Blue,SunScorchAncestry_White,SunScorchAncestry_Green,SunScorchAncestry_Gold,SunScorchAncestry_Silver,SunScorchAncestry_Bronze,SunScorchAncestry_Copper,SunScorchAncestry_Brass" />
+					<attribute id="UUID" type="guid" value="59561db1-1f88-4d21-af34-0ee91b1b0729" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

@@ -1,190 +1,190 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="Progressions">
-    <node id="root">                 
-      <children>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Hobgoblin_Basic_Passives;FeyAncestry;Passive_WartimeTraining;MartialAdvantage" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(8055873d-3029-45d8-93bd-0345d458d0db,2)" />see below for explanation
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="575fa3d3-cf83-4716-8cc3-8d971666b051" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(730de094-5135-427f-8e4b-bfaae6095bdc,,,,AlwaysPrepared)" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="debf0057-05e5-478c-9870-4dde6fecf976" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="DangerSense" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="12754c3c-eea8-4c99-a7a3-c01782c00c69" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(ed490030-a957-489f-ba91-c7c4f9cca5df,,,,AlwaysPrepared)" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="47aa1b60-bb60-4b83-8d62-5367dda4e8b5" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(e80b196a-2def-47ed-9476-da5ce36e4b03,,,,AlwaysPrepared)" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="f808a590-060f-45b8-acd4-bde78801650d" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="11" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Hobgoblin" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(b4cab9d1-7990-4738-ad77-13b6f8e0f4ad,,,,AlwaysPrepared)" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="2ae1a961-8be5-4c69-b12d-cf0a961e62b6" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Strongblade" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_SBPackTactics" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="732cd9b6-9374-425a-9b34-517a0337fcb0" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Strongblade" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(eb00792d-b5fd-4121-ba20-30e96e894f79,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="1b35c12c-9ccd-4cfe-8615-4d3b4b1f4494" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Strongblade" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(7474ac59-d525-4615-aa9d-3f4466ab7f55,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="8ea52df9-3a4b-45a4-80e3-a048919afdb2" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Koalinth" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_Amphibious;Proficiency_Tridents" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="ee4bfcdd-6d8b-4c79-a044-f9bed7136e7d" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Koalinth" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_AquaticAdvantage" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="a8e454e0-a8ad-49b5-8cdd-f17f045e02bc" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Koalinth" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(4a0e61eb-4be6-4b0c-9d64-27248aeb09b7,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="9d70bc30-ae21-49d7-b6a5-681e48d61bd5" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_SunScorch_DraconicResilience" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="bf236089-1254-4285-9605-9c922e2ee17a" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectPassives(59561db1-1f88-4d21-af34-0ee91b1b0729,1,SunScorchAncestry)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="7dd4f503-6b11-4de3-ae3c-e19ef3e427b9" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Sunscorch" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(092beccf-6fc0-4b82-b646-35b225cdb1e7,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="0689cfe8-dfaf-4aba-9208-79771e3d2a1d" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_HulkingHob;Passive_Brute_HulkingHob" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(adaf5cde-7cff-4ca2-8943-d02cb7efe015,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="98da0193-6729-4364-bb5c-b13475edb3c7" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(ab0365b1-415a-448d-ab1d-619f6d1ef25b,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="b065e4b1-2f62-4846-b120-d6469061afcd" />  this one must be unique
-          </node>
-        <node id="Progression">
-                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Harrower" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="AddSpells(600019c9-2a14-4968-a6df-6ba9ed6a65d1,,,,AlwaysPrepared)" />
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="9bbe7dc7-beb5-4992-b39f-77e4ef584553" />  this one must be unique
-          </node>
-      </children>
-    </node>
-  </region>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Progressions">
+		<node id="root">
+			<children>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Hobgoblin_Basic_Passives;FeyAncestry;Passive_WartimeTraining;MartialAdvantage" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(8055873d-3029-45d8-93bd-0345d458d0db,2)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="575fa3d3-cf83-4716-8cc3-8d971666b051" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="3" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(730de094-5135-427f-8e4b-bfaae6095bdc,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="debf0057-05e5-478c-9870-4dde6fecf976" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="DangerSense" />
+					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="12754c3c-eea8-4c99-a7a3-c01782c00c69" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="7" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(ed490030-a957-489f-ba91-c7c4f9cca5df,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="47aa1b60-bb60-4b83-8d62-5367dda4e8b5" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(e80b196a-2def-47ed-9476-da5ce36e4b03,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="f808a590-060f-45b8-acd4-bde78801650d" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="Hobgoblin" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(b4cab9d1-7990-4738-ad77-13b6f8e0f4ad,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
+					<attribute id="UUID" type="guid" value="2ae1a961-8be5-4c69-b12d-cf0a961e62b6" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Strongblade" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_SBPackTactics" />
+					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" />
+					<attribute id="UUID" type="guid" value="732cd9b6-9374-425a-9b34-517a0337fcb0" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Strongblade" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(eb00792d-b5fd-4121-ba20-30e96e894f79,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" />
+					<attribute id="UUID" type="guid" value="1b35c12c-9ccd-4cfe-8615-4d3b4b1f4494" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Strongblade" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(7474ac59-d525-4615-aa9d-3f4466ab7f55,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="810f7e5a-717c-4caa-8df9-92cc659b4a81" />
+					<attribute id="UUID" type="guid" value="8ea52df9-3a4b-45a4-80e3-a048919afdb2" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Koalinth" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_Amphibious;Proficiency_Tridents" />
+					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" />
+					<attribute id="UUID" type="guid" value="ee4bfcdd-6d8b-4c79-a044-f9bed7136e7d" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Koalinth" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_AquaticAdvantage" />
+					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" />
+					<attribute id="UUID" type="guid" value="a8e454e0-a8ad-49b5-8cdd-f17f045e02bc" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Koalinth" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(4a0e61eb-4be6-4b0c-9d64-27248aeb09b7,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="4dcdfcfb-0617-4434-ba2d-e8f392eea881" />
+					<attribute id="UUID" type="guid" value="9d70bc30-ae21-49d7-b6a5-681e48d61bd5" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Sunscorch" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_SunScorch_DraconicResilience" />
+					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" />
+					<attribute id="UUID" type="guid" value="bf236089-1254-4285-9605-9c922e2ee17a" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Sunscorch" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="SelectPassives(59561db1-1f88-4d21-af34-0ee91b1b0729,1,SunScorchAncestry)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" />
+					<attribute id="UUID" type="guid" value="7dd4f503-6b11-4de3-ae3c-e19ef3e427b9" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Sunscorch" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(092beccf-6fc0-4b82-b646-35b225cdb1e7,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" />
+					<attribute id="UUID" type="guid" value="0689cfe8-dfaf-4aba-9208-79771e3d2a1d" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="1" />
+					<attribute id="Name" type="LSString" value="Harrower" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="Passive_HulkingHob;Passive_Brute_HulkingHob" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(adaf5cde-7cff-4ca2-8943-d02cb7efe015,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
+					<attribute id="UUID" type="guid" value="98da0193-6729-4364-bb5c-b13475edb3c7" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5" />
+					<attribute id="Name" type="LSString" value="Harrower" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(ab0365b1-415a-448d-ab1d-619f6d1ef25b,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
+					<attribute id="UUID" type="guid" value="b065e4b1-2f62-4846-b120-d6469061afcd" />
+				</node>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="9" />
+					<attribute id="Name" type="LSString" value="Harrower" />
+					<attribute id="Boosts" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(600019c9-2a14-4968-a6df-6ba9ed6a65d1,,,,AlwaysPrepared)" />
+					<attribute id="ProgressionType" type="uint8" value="2" />
+					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
+					<attribute id="UUID" type="guid" value="9bbe7dc7-beb5-4992-b39f-77e4ef584553" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>

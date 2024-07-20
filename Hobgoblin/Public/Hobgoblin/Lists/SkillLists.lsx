@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-    <version major="4" minor="0" revision="0" build="55"/>
-    <region id="SkillLists">
-        <node id="root">
-            <children>
-                <node id="SkillList">
-                    <attribute id="Skills" type="LSString" value="Deception, Insight, Intimidation, Performance, Arcana, Survival, Athletics, Investigation"/> The list of skills to pick from
-                    <attribute id="UUID" type="guid" value="8055873d-3029-45d8-93bd-0345d458d0db"/> The UUID, needs to be unique
-                </node>		
-            </children>
-        </node>
-    </region>
+	<version major="4" minor="0" revision="0" build="55" lslib_meta="v1,bswap_guids" />
+	<region id="SkillLists">
+		<node id="root">
+			<children>
+				<node id="SkillList">
+					<attribute id="Skills" type="LSString" value="Deception, Insight, Intimidation, Performance, Arcana, Survival, Athletics, Investigation" />
+					<attribute id="UUID" type="guid" value="8055873d-3029-45d8-93bd-0345d458d0db" />
+				</node>
+			</children>
+		</node>
+	</region>
 </save>
