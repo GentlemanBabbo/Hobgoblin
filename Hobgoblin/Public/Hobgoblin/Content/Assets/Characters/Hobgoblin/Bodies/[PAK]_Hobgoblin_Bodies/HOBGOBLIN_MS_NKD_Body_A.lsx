@@ -479,7 +479,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="Texture Map" />
-							<attribute id="ID" type="FixedString" value="b472a7d6-ba47-4531-999d-7cd9489a445a" />
+							<attribute id="ID" type="FixedString" value="097b7c3e-6659-4fc6-b176-a4b228827ceb" />
 							<attribute id="Index" type="int32" value="0" />
 							<attribute id="ParameterName" type="FixedString" value="virtualtexture" />
 						</node>
@@ -493,7 +493,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="GTexFileName" type="FixedString" value="921c1418ef0a406f9461f00ae7ac7d2c" />
-					<attribute id="ID" type="FixedString" value="b472a7d6-ba47-4531-999d-7cd9489a445a" />
+					<attribute id="ID" type="FixedString" value="097b7c3e-6659-4fc6-b176-a4b228827ceb" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="HOB_MS_NKD_Body_A" />
 					<attribute id="Prefetch" type="bool" value="False" />
