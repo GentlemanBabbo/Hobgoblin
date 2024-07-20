@@ -548,7 +548,7 @@
 			</children>
 		</node>
 	</region>	
-	region id="VisualBank">
+	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
 			<node id="Resource">
