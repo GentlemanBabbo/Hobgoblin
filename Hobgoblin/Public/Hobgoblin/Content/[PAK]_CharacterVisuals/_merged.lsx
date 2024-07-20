@@ -732,7 +732,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="b9651b69-84b5-4157-b118-85d134c8e443" />
-					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
+					<attribute id="BodySetVisual" type="FixedString" value="86415507-5398-480d-b9ab-11b32e6a08ec" />
 					<attribute id="ID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Koalinth" />					
