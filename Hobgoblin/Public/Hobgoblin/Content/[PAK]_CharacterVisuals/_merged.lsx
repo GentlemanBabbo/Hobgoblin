@@ -1479,7 +1479,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" /> base animations
-					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" /> body model
+					<attribute id="BodySetVisual" type="FixedString" value="8d2e8198-2e15-4a29-ad98-ce51d7b0dce9" /> body model
 					<attribute id="ID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Harrower" />	localised name
