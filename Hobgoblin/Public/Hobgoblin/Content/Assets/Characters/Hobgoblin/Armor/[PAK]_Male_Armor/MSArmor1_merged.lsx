@@ -37052,7 +37052,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="ca6ceb12-5cdb-4f12-9a98-56febf2d7d79" />
+					<attribute id="ID" type="FixedString" value="0ee6279c-15d6-4ead-9b05-7cbd129f974d" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="HOB_MS_ARM_Barbarian_A_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -37062,9 +37062,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="AnimationWaterfall">
