@@ -3602,9 +3602,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Robe_B_2_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Robe_B_2_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Robe_B_2_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Robe_B_2_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -37062,9 +37062,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Hobgoblin/Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Armor/HOB_MS_ARM_Barbarian_A_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="AnimationWaterfall">
