@@ -63,7 +63,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="7336c70a-63b8-4fd9-aa2a-928b7711d26d" />
 					<attribute id="BodySetVisual" type="FixedString" value="c0ce1e5c-9103-4a56-94c5-db15c5ddacd4" />
 					<attribute id="ID" type="FixedString" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" />
@@ -121,7 +121,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="f29d2d4d-f8c0-4c1e-942e-062d32e3168a" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
@@ -182,7 +182,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c65ec00e-6bd5-402e-8d8d-6883f2eba95c" />
 					<attribute id="BodySetVisual" type="FixedString" value="83b0a073-59bd-40a9-b789-3167d584ecdd" />
 					<attribute id="ID" type="FixedString" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" />
@@ -241,7 +241,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="861e2c7e-86ca-4f08-b401-358d5c18a09e" />
 					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" />
@@ -394,7 +394,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a99b6661-cb35-47a6-8682-8995e74085cf" />
 					<attribute id="BodySetVisual" type="FixedString" value="73b61e34-6c1a-42b3-8de9-08b33aa0cd6a" />
 					<attribute id="ID" type="FixedString" value="27de39df-053c-41e4-bc82-e1f787f585a9" />
@@ -545,7 +545,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="b9651b69-84b5-4157-b118-85d134c8e443" />
 					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
@@ -697,7 +697,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="b9651b69-84b5-4157-b118-85d134c8e443" />
 					<attribute id="BodySetVisual" type="FixedString" value="86415507-5398-480d-b9ab-11b32e6a08ec" />
 					<attribute id="ID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" />
@@ -847,7 +847,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e5e04512-05eb-4b8a-9e1d-103ef8c786ea" />
 					<attribute id="BodySetVisual" type="FixedString" value="06ee596e-fc2a-497a-98ed-ed21298cc496" />
@@ -956,7 +956,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="68a2d301-c4e0-4c21-925e-ee83f89a139b" />
 					<attribute id="BodySetVisual" type="FixedString" value="34a89d68-07ab-442c-a54b-4c3c4696eef9" />
 					<attribute id="ID" type="FixedString" value="97f04693-b9ed-490e-9920-0d273dcfc3be" />
@@ -1063,7 +1063,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="2e26c820-33ac-48c4-bc47-eb4299614474" />
 					<attribute id="BodySetVisual" type="FixedString" value="d10589b0-2945-4ea0-9562-351200272a51" />
@@ -1167,7 +1167,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="2e26c820-33ac-48c4-bc47-eb4299614474" />
 					<attribute id="BodySetVisual" type="FixedString" value="615d37e2-e7c7-4143-8ec2-a0b54c846515" />
 					<attribute id="ID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" />
@@ -1269,7 +1269,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" />
 					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" />
@@ -1421,7 +1421,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" />
 					<attribute id="BodySetVisual" type="FixedString" value="8d2e8198-2e15-4a29-ad98-ce51d7b0dce9" />
 					<attribute id="ID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" />
@@ -1571,7 +1571,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
 					<attribute id="BodySetVisual" type="FixedString" value="522b7e15-97fb-4c1a-85b7-7bbab8a36295" />
@@ -1724,7 +1724,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e85e8219-3219-4e96-b5ea-e8e3bbc23060" />
 					<attribute id="BodySetVisual" type="FixedString" value="eea29c77-69c8-4cf5-b3e1-96ff7d3e954d" />
 					<attribute id="ID" type="FixedString" value="851e247f-fa01-431e-bd73-ca417041ad11" />
@@ -1875,7 +1875,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 			</children>
 		</node>
 	</region>
