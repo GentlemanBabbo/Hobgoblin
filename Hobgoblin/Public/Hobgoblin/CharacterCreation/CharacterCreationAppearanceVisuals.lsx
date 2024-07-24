@@ -104,6 +104,15 @@
 					<attribute id="VisualResource" type="guid" value="ec5e8972-72ed-4ae2-889d-7fbc06c7c361" />
 				</node>
 				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0" />
+					<attribute id="BodyType" type="uint8" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf558828ecss4op766945ebb013eee132874f" version="1" />
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />
+					<attribute id="SlotName" type="FixedString" value="Head" />
+					<attribute id="UUID" type="guid" value="ed964d22-ab82-4c64-85d3-326b84c2e96c" />
+					<attribute id="VisualResource" type="guid" value="42df18e1-7802-4020-aaff-32a3c6659dac" />
+				</node>
+				<!--<node id="CharacterCreationAppearanceVisual">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h05e40912g0959g41c4g8a0dg8b73273ca07d" version="1" />
@@ -193,6 +202,15 @@
 					<attribute id="UUID" type="guid" value="b14f0429-4054-48bd-a473-acb0fd9f92ff" />
 					<attribute id="VisualResource" type="guid" value="975ef5d1-dd62-4300-b16c-d1b89c3bacb0" />
 				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="1" />
+					<attribute id="BodyType" type="uint8" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf558828ecss4op766945ebb013eee132874f" version="1" />
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />
+					<attribute id="SlotName" type="FixedString" value="Head" />
+					<attribute id="UUID" type="guid" value="75e1ded7-782d-4996-b6fe-2f179166eb76" />
+					<attribute id="VisualResource" type="guid" value="42df18e1-7802-4020-aaff-32a3c6659dac" />
+				</node>-->
 				<node id="CharacterCreationAppearanceVisual">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="0" />
