@@ -1605,7 +1605,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="ec5e8972-72ed-4ae2-889d-7fbc06c7c361" />
+					<attribute id="ID" type="FixedString" value="42df18e1-7802-4020-aaff-32a3c6659dac" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Head_L" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
