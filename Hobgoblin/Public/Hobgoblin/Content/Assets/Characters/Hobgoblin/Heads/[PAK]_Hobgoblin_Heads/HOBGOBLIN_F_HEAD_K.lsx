@@ -9,7 +9,7 @@
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="ID" type="FixedString" value="7963ae29-e2c7-418b-976d-dd889feef862" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
-					<attribute id="Name" type="LSString" value="HRC_F_NKD_Head_A_Base" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_F_head_K_base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
@@ -37,7 +37,7 @@
 													</children>
 												</node>
 											</children>
-										</node>
+										</node>/
 									</children>
 								</node>
 							</children>
