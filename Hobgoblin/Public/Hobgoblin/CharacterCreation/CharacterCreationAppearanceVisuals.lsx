@@ -319,6 +319,15 @@
 					<attribute id="UUID" type="guid" value="9d03f224-f50d-4cc1-9ed3-0f0fab6efa02" />
 					<attribute id="VisualResource" type="guid" value="c3bdcd38-b5b2-4199-a61e-c4d0e6be1e85" />
 				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0" />
+					<attribute id="BodyType" type="uint8" value="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2e76de70eaba46bfaab911b1f1ed94b52f92" version="1" />
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />
+					<attribute id="SlotName" type="FixedString" value="Head" />
+					<attribute id="UUID" type="guid" value="87916203-d512-4e62-a002-a0ace8161c12" />
+					<attribute id="VisualResource" type="guid" value="e39e0d1f-7e17-4786-b864-6484e2999263" />
+				</node>
 				<!--<node id="CharacterCreationAppearanceVisual">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="1" />
