@@ -930,7 +930,7 @@
 									<attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
 								</node>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_K.1GOB_F_NKD_Head_C_Mesh.2" />
+									<attribute id="MapKey" type="FixedString" value="Hobgoblin_F_head_J.3GOB_F_NKD_Head_Sazza_Eyes_Mesh.2" />
 									<attribute id="MapValue" type="FixedString" value="2fc5705d-6764-4d55-d3a2-91c6fac3eb70" />
 								</node>
 								<node id="Object">
