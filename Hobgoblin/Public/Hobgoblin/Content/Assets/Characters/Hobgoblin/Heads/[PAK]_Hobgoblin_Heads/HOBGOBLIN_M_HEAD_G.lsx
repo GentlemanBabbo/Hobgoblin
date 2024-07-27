@@ -1669,7 +1669,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="MaterialID" type="FixedString" value="92b941dc-921d-27a1-5003-089dd532da71" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_Head_G.HOB_M_NKD_Head_G_Scalp_Mesh.7" />
 						</node>
 					</children>
