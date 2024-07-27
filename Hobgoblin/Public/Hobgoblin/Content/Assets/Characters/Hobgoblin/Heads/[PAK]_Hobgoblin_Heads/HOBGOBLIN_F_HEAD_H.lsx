@@ -3134,11 +3134,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="453c3d9e-1948-49a4-aa55-83605f56f9ec" />
-					<attribute id="Name" type="LSString" value="HOB_F_head_H_NM" />
+					<attribute id="Name" type="LSString" value="HOB_F_Head_H_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_head_H_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_H_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOB_F_head_H_NM" />
+					<attribute id="Template" type="FixedString" value="HOB_F_Head_H_NM" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -3147,11 +3147,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="d5168cc0-ca90-4172-87ad-877797f88eaa" />
-					<attribute id="Name" type="LSString" value="HOB_F_head_H_HMVY" />
+					<attribute id="Name" type="LSString" value="HOB_F_Head_H_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_head_H_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_H_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOB_F_head_H_HMVY" />
+					<attribute id="Template" type="FixedString" value="HOB_F_Head_H_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
@@ -3160,11 +3160,11 @@
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="73ce0f38-d502-40f6-8f25-efe42fece462" />
-					<attribute id="Name" type="LSString" value="HOB_F_head_H_CLEA" />
+					<attribute id="Name" type="LSString" value="HOB_F_Head_H_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_head_H_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Head/Hobgoblin_Head/HOB_F_Head_H_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="HOB_F_head_H_CLEA" />
+					<attribute id="Template" type="FixedString" value="HOB_F_Head_H_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
