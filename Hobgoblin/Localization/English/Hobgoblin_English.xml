@@ -4,7 +4,7 @@
 	<content contentuid="h46c751d7ge77ag415aga746g4294c078169d" version="1">War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don't feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal.</content>
 	<content contentuid="hf155fevdea123449a4g9f2ag278527d12345" version="1">Strongblade Hobgoblin</content>
 	<content contentuid="hg154fefdea123449a4g9f2ag212121d54321" version="1">Trained in the art of war from birth, these goblinoids are raised to become Generals of destruction. They view the world as a currency to steal; a land to conquer. In time, all will know the sting of the Strongblade's might.</content>
-	<content contentuid="h0592f28ag2c77g4f61g8084g1e509c11a4dc" version="1">Koalinth Hobgoblin</content>
+	<content contentuid="h0592f28ag2c77g4f61g8084g1e509c11a4dc" version="1">Koalinth</content>
 	<content contentuid="hb086e865g9258g4d72g8b42g3ea4d1264ca9" version="1">Koalinth are marine goblinoids, Koalinth believe that they were created from surface hobgoblins by Maglubiyet, who sought to conquer the ocean depths. However, the newly-created koalinth were approached by Panzuriel, the Lord of Krakens, who proved himself the true master of the deep and the koalinth remain his loyal servants to this day. </content>
 	<content contentuid="ha68d4c59g4573g4ea9g96e9ga3e6fa8919d5" version="1">Sunscorch Hobgoblin</content>
 	<content contentuid="hcc1dcf48gee8cg4ea3gbb16g2025162384f8" version="1">These Hobgoblins often ally with powerful dragons, supplying the drake with treasure and sometimes a lair in exchange for assistance in battle. Of all the chromatic dragons, blue dragons are the most common hobgoblin allies.</content>
@@ -69,8 +69,8 @@
 	<content contentuid="h575d4f96ga057g4d79ga31eg084dac7b1928" version="1">Spike</content>
 	<content contentuid="hf947828ec7f4a4539a45ebb013eee732654g" version="1">Bez</content>
 	<content contentuid="hf558828ecss4op766945ebb013eee132874f" version="1">Assoluto</content>	
-	<content contentuid="hff1d5cfcgd58dg452dg9f6eg529ffaaf8250" version="1">Koalinth Trident</content>
-	<content contentuid="h9b583bb3g151fg4891gb943g6d4d7a1ef4ff" version="1">The cut-off pincer of some poor, unfortunate crustacean adhered to a bone shaft, creating a make-shift trident. </content>
+	<content contentuid="h47627d459da34780b1242c58a57c9282c63e" version="1">Koalinth Trident</content>
+	<content contentuid="h89247778db8e4e539612f5a6590b9f99c1e5" version="1">The cut-off pincer of some poor, unfortunate crustacean adhered to a bone shaft, creating a make-shift trident. </content>
 	<content contentuid="h4dd18099gc333g4138g83bcg6284a6803e74" version="1">Hulking Hobgoblin</content>
 	<content contentuid="h35174beag626ag439eg9b25g382eba7ccf25" version="1">Your massive size compared to your fellow goblins has its benefits. You are one size larger than other creatures, and your carrying capacity is increased.</content>
 	<content contentuid="hd265aea2gd2a0g4defg85eeg47394afc176f" version="1">Brutish Bulk</content>
@@ -78,21 +78,67 @@
 	<content contentuid="hc31e2540g0cfbg4381g96efg3b18e27e2d4c" version="1">Beastly Throw</content>
 	<content contentuid="hc1411646ga650g4fc3g9409gd8ee179e8b87" version="1">Booming Bellow</content>
 	<content contentuid="h1c7762bfg2f8ag4ea7gb4a6g8c7766bccbbc" version="1">Unleash a magic-laced howl; your vocals vibrate with thunderous fury. Blow away those in front of you with concussive force.</content>
+	<content contentuid="h938212ebe8d5484aa6be9c461c799fce7979" version="1">Strongblade Hobgoblin</content>
+	<content contentuid="h7eb49aa17733480abbf9876133d6b2fe4deb" version="1">Koalinth</content>
+	<content contentuid="hd1485fcf5862447cba6a6e020810be00g44e" version="1">Sunscorch Hobgoblin</content>
+	<content contentuid="h757072611d0d4dd2b8593e6852f4e0d0ag99" version="1">Harrower</content>
+	<content contentuid="h039e41e9a43a474b941a3bd365fae737d2g2" version="1">Maglubyit</content>
+	<content contentuid="h2e24039c34eb438689254e977470f1bc0623" version="1">The Lord of Depths and Darkness</content>
+	<content contentuid="h0312962188ca481f8226a298e8a21559dbb1" version="1">Sons of Maglubyit</content>
+	<content contentuid="h7ac32742b23f485c93282cc7eb08e9d99f6b" version="1">Blue Dragon</content>
+	<content contentuid="h6f15cc3404004e9a8c41732176eaa33a03d5" version="1">Battle Lord's Axe</content>
+	<content contentuid="hbaba8453b86b453687e8e736f7dad7c1a305" version="1">Elixir of Hobgoblin Power: Chosen</content>
+	<content contentuid="h63491069018b4feba3a5a9c7e814f785eb15" version="1">One of Blood Vendor Araj Obladra's elixirs, distilled from a specific sanguine quality, and with properties aligned to an equally specific race.</content>
+	<content contentuid="h84a7907bef164ce58753512d46524ae5fd1d" version="1">Elixir of Hobgoblin Power: Treacherous</content>
+	<content contentuid="he7e470970b0e42cfbe55d9f5e0fa1472g7a1" version="1">One of Blood Vendor Araj Obladra's elixirs, distilled from a specific sanguine quality, and with properties aligned to an equally specific race.</content>
+	<content contentuid="hce4bc8fab4ea459eb2daf340ec14e959aa11" version="1">Elixir of Hobgoblin Power: Azure</content>
+	<content contentuid="h78d4fed8a40d4fbaa0256ce33cb814447893" version="1">One of Blood Vendor Araj Obladra's elixirs, distilled from a specific sanguine quality, and with properties aligned to an equally specific race.</content>
+	<content contentuid="h2ef168f7fd444d349db436b1c6fa3275cb20" version="1">Elixir of Hobgoblin Power: Boon</content>
+	<content contentuid="hd770347b3e4e4e00b78f0df162be6c7203e9" version="1">One of Blood Vendor Araj Obladra's elixirs, distilled from a specific sanguine quality, and with properties aligned to an equally specific race.</content>
+	<content contentuid="h10867ed7450e4259bc6dbf86362fa6098660" version="1">Hobgoblin Power: Chosen</content>
+	<content contentuid="h3e3b31d825e04162a2e95083cfc94f696917" version="1">This blood is blessed by the Great One and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Target_Summon_Maglubiyet"&gt;Summon Maglubyit&lt;/LSTag&gt;</content>
+	<content contentuid="hf116fe1ad4864887a82abc3491ec4585ef28" version="1">Hobgoblin Power: Treacherous</content>
+	<content contentuid="h1a278d6a05f84a8d890e42e390cb8bc347f9" version="1">This blood is blessed with Panzuriel legacy and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Target_Drown_Koalinth"&gt;Summon Maglubyit&lt;/LSTag&gt;</content>	
+	<content contentuid="h9e87dd18e13842b9999a56e432f2c2e05983" version="1">Hobgoblin Power: Azure</content>
+	<content contentuid="h3e8e95a38644457f8bb5390ce1ff53bf4cd7" version="1">This blood is affected by an Azure benefactor and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Sunscorch"&gt;Wildshape: Blue Dragon&lt;/LSTag&gt;</content>
+	<content contentuid="hfc402b1d390f412ab76aa432746eca1e6dcg" version="1">Hobgoblin Power: Boon</content>
+	<content contentuid="h9bd12f34bdfd4d6797b356b47a3cd24142de" version="1">This blood is riled with Fey magic and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Shout_FeyGiftAura"&gt;Fey Gift: Aura&lt;/LSTag&gt;</content>
+	<content contentuid="hb66e8f2a8b29468c98322fc96132ff562aa4" version="1">Summon Maglubyit</content>
+	<content contentuid="h2757b59ed0e248e3aa80691a258d7e402262" version="1">Summon The Conquering God, Maglubyit to fight along side you.</content>
+	<content contentuid="h8260faff95b444ff9d245998d4e6243fg3ag" version="1">Banish to Grashmog</content>
+	<content contentuid="h656b5e2fc7ae45678fe3f229c099ed4169ff" version="1">Banish your target to the dungeouns of Grashmog, your fortress on Clangor.</content>
+	<content contentuid="h329297e371314f57bbd5fab36e5d38c514ce" version="1">The Infinite Battlefield of Acheron</content>
+	<content contentuid="h32d66555e56847d38920652e516794644b07" version="1">Create a bridge to the Outer Plane bringing the battlefields of Avalas to your location. </content>	
+	<content contentuid="hf033f42dg112cg4d47g88cagf83db6d29361" version="1">Eternal Battle</content>
+	<content contentuid="h86b94c1131034345b97186654f23ca365667" version="1">Affected entity deals an additional on all hits.</content>
+	<content contentuid="he0ed41226417416588cf8e7b22b6accb0bc6" version="1">Drown</content>
+	<content contentuid="h37cabe1a85214f40a858bb67979fd979cfa6" version="1">Dive deep and pull affected enties underwater while they suffer the various effects of drowning.</content>
+	<content contentuid="h9a1e19427ef94a0288878580be09bcff90fe" version="1">Drowning</content>
+	<content contentuid="h78f1d92e8d7441ddb9b19242d9e0f3678043" version="1">Affected entity is suffering damage while being dragged underwater by a Koalinth</content>		
+	<content contentuid="h3e98e81692ac4128ab2c6a24bbe6ba01a37d" version="1">Wild Shape: Blue Dragon</content>
+	<content contentuid="hd8a8d5f93ce04b01b4d2c33e4bd8276b0g74" version="1">Blue Dragon</content>
+	<content contentuid="h40085804227a4dcf84752681deaf69bd7a3f" version="1">Fey Gift: Auras</content>
+	<content contentuid="h5a77f77427ac4e74a18f7b7d8a97bb17ff41" version="1"></content>
+	<content contentuid="h188c6ed9c8f344e2a04198ea17aac89e8bbe" version="1">Aura Of Hospitality</content>
+	<content contentuid="h4544dd2e86844ce1a3f1f76d1181ca00d06f" version="1"></content>	
+	<content contentuid="h960689abeb454c0ba88ea2e4398dbc503fb2" version="1"></content>
+	<content contentuid="h205f69191c3c4db78bcfd9ce15c69d158649" version="1"></content>
+	<content contentuid="h7c9895e0bc13478ea3102d52aa56cb851304" version="1">Aura Of Passage</content>
+	<content contentuid="hfa01148e110b44ed9de0c6cc06fd8e49632b" version="1"></content>
+	<content contentuid="h0d892a38480f40c88708f660fd05ea569b70" version="1">Aura Of Passage</content>
+	<content contentuid="hfac589d71e6d4092a398832e0ac10782d3d7" version="1"></content>	
+	<content contentuid="h3bb41b5f838545f98da8f21f6f769eaa99d8" version="1">Aura Of Spite</content>
+	<content contentuid="h24dec88f44c743e9a5550282fed4d30fbeb6" version="1"></content>
+	<content contentuid="hd1720e821e3d47149512ab5818753f33a1ae" version="1">Aura Of Spite</content>
+	<content contentuid="h57ff6bce9db6460b89732be94110fd07c62c" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>		
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -104,6 +150,5 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>		
 </contentList>
