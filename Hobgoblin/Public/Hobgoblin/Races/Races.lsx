@@ -17,6 +17,9 @@
 						<node id="Tags">
 							<attribute id="Object" type="guid" value="193938c4-ed1c-4648-af3f-f4b59152ec92" />
 						</node>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="7167bff3-cafc-46bf-b75c-a823d08374b8" />
+						</node>						
 						<node id="EyeColors">
 							<attribute id="Object" type="guid" value="b3c6b283-d4ba-48e1-99fc-e45623880b33" />
 						</node>
