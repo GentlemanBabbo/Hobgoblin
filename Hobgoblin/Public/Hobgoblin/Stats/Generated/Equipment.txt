@@ -1,4 +1,4 @@
-new equipment "EQ_SBHobgoblin"
+new equipment "EQ_Strongblade"
 add equipmentgroup
 add equipment entry "ARM_Underwear_HalfOrcs_Orange"
 
@@ -10,6 +10,14 @@ add equipment entry "ARM_KuoToa_Shield_A"
 add equipmentgroup
 add equipment entry "WPN_Koalinth_Trident"
 
-new equipment "EQ_SBHobgoblin"
+new equipment "EQ_Sunscorch"
+add equipmentgroup
+add equipment entry "ARM_Underwear_Tiefling"
+
+new equipment "EQ_Harrower"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Incubus"
+
+new equipment "EQP_Maglubiyet"
+add equipmentgroup
+add equipment entry "MAG_Maglubyit_BattleAxe"
