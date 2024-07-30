@@ -1928,6 +1928,35 @@
 						</node>
 					</children>
 				</node>-->
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="dbea338e-cde8-4ab3-aa86-9110272cea4f" />
+					<attribute id="BodySetVisual" type="FixedString" value="786af485-0c92-49be-91a4-d1e72be060c6" />
+					<attribute id="ID" type="FixedString" value="d0422e6e-b9f4-45cf-9ddc-82b6fdf9123d" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="DRAGON_Blue_Body_A" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+							</children>
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="7cfe74cf-f21d-4cc6-a5da-457faca06b42" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="5b95095c-8875-4557-b937-9761f8aa5435" />
+						</node>
+					</children>
+				</node>				
 			</children>
 		</node>
 	</region>

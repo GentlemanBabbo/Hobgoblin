@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|Hobgoblin, Shapeshifted or not|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h46c751d7ge77ag415aga746g4294c078169d" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="hf177ee8dga90dg49a4g9f2ag278527d5eb2e" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ha1c39b0e064448c9962698d32f887c04ddf4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ha1c39b0e064448c9962698d32f887c04ddf4" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="ReallyHobgoblin" />
 			<attribute id="UUID" type="guid" value="f85c00d4-ea79-4415-8d5e-b3f509729515" />

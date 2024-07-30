@@ -27,6 +27,18 @@
       {
         "GTexName": "921c1418ef0a406f9461f00ae7ac7d2c",
         "GTS": "Public/Hobgoblin/Assets/VirtualTextures/HobgoblinHarrower.gts"
-      }
+      },
+      {
+        "GTexName": "b6b33b1cc233463f8d64ff89b470da01",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/BlueDragonVT.gts"
+      },
+      {
+        "GTexName": "597a0940c84846ea8f93cc6bb740b7cc",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/BlueDragonVT.gts"
+      },
+      {
+        "GTexName": "0018c4d7c396-45c2bdc690f2d95e0ffa",
+        "GTS": "Public/Hobgoblin/Assets/VirtualTextures/BlueDragonHead.gts"
+      }     
   ]
 }
