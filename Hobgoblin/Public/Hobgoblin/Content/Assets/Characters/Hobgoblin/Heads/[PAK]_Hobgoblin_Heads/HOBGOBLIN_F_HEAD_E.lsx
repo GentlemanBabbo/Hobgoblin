@@ -48,7 +48,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="702fef42-2ae9-428b-9daa-f92d6f2ff67d" />
+							<attribute id="MaterialID" type="FixedString" value="a0670079-fbf0-486d-875f-b0749754bea4" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_Head_E.1ELF_FS_NKD_Head_A_Remap_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -63,7 +63,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="20e327c9-f4d0-d0b5-3c16-81960099ceb5" />
+							<attribute id="MaterialID" type="FixedString" value="a0670079-fbf0-486d-875f-b0749754bea4" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_F_Head_E.4GOB_F_NKD_Head_Sazza_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
