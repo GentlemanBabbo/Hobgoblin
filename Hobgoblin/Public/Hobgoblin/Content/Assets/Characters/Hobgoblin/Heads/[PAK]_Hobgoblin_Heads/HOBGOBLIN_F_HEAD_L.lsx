@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="b3a3a965-c3bb-4aeb-b3ff-9c195b9a46f8" />
+					<attribute id="ID" type="FixedString" value="2bac4bfa-22d4-4881-bbfb-9b4ad10453ed" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_F_Head_L_base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
@@ -37,7 +37,7 @@
 													</children>
 												</node>
 											</children>
-										</node>/
+										</node>
 									</children>
 								</node>
 							</children>
@@ -3305,7 +3305,7 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_F_Head_L" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="0655b200-219a-5ff6-c2fe-d6a3057bb9dd" /> <!-- change later -->
+					<attribute id="SkeletonResource" type="FixedString" value="2bac4bfa-22d4-4881-bbfb-9b4ad10453ed" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
