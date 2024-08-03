@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TileSet Version="2" Name="BlueDragonVTHead">
+	<TileSetConfig>
+        <Compression>LZ4</Compression>
+        <OneFilePerGTex>false</OneFilePerGTex>
+        <BackfillPages>true</BackfillPages>
+        <DeduplicateTiles>true</DeduplicateTiles>
+        <ZeroBorders>false</ZeroBorders>
+	</TileSetConfig>
+	
+	<Paths>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Hobgoblin\Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+	</Paths>
+	
+	<Layers>
+		<Layer Name="Albedo" Type="R8G8B8A8_SRGB" />
+		<Layer Name="Normal" Type="X8Y8Z8W8" />
+		<Layer Name="Physical" Type="X8Y8Z8W8" />
+	</Layers>
+
+	<Textures>	
+		<Texture Name="aa893743e9d741cea9d303433a665100">
+			<Layer Name="Albedo" Source="Dragon_Blue_Head_BM.DDS" />
+			<Layer Name="Normal" Source="Dragon_Blue_Head_NM.DDS" />
+			<Layer Name="Physical" Source="Dragon_Blue_Head_PM.DDS" />
+		</Texture>				
+	</Textures>
+</TileSet>
