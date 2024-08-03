@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="fec1afc8-35fa-4156-adb1-bdc27c5d252a" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Icons_Skills" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Hobgoblin/Assets/Textures/Icons/Hobgoblin_Icons_Skills.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Icons_Skills" />
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="1a765ccd-6b6e-4140-a7c8-2ee62585e0d0" /> <!-- The .dds's UUID; should match the UUID listed in the ModName_Icons.lsx -->
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_CCIcons" /> <!-- The name of the .dds file but without the ".dds" part -->
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Hobgoblin/Assets/Textures/Icons/Hobgoblin_CCIcons.DDS" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Hobgoblin_CCIcons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
