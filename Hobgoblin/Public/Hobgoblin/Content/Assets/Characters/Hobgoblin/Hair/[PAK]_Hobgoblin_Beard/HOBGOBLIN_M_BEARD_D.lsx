@@ -25,16 +25,16 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_M_Beard_D.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_Beard_D.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_M_Beard_D.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_Beard_D.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
 					<children>
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f4d7213e-8e22-b480-d12c-36534e253b24" />
-							<attribute id="ObjectID" type="FixedString" value="HOB_M_Beard_D.HOB_M_Beard_D.0" />
+							<attribute id="ObjectID" type="FixedString" value="HOB_Beard_D.HOB_M_Beard_D.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
