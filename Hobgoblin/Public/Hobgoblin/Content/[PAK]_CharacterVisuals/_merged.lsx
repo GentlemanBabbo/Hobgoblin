@@ -1180,6 +1180,10 @@
 							<attribute id="VisualResource" type="FixedString" value="7a3c383a-8b5c-4d97-b89c-91d6bf407364" />
 						</node>
 						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="05a8784e-df20-46cf-abb2-9c9e4bbbb79d" />
+						</node>
+						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="b1392667-7883-8206-a2ef-207d5c3bda91" />
