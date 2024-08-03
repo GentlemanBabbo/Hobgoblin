@@ -450,6 +450,16 @@
 				<node id="CharacterCreationAppearanceVisual">
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8632acefg4c0fg43e1g9c57g2b860b729a14" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="" />
+					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />
+					<attribute id="SlotName" type="FixedString" value="Beard" />
+					<attribute id="UUID" type="guid" value="25195af2-0466-4220-808e-afc2ebe379c9" />
+					<attribute id="VisualResource" type="guid" value="cdcadf35-16f8-456d-91df-aad730dd42e6" />
+				</node>
+				<node id="CharacterCreationAppearanceVisual">
+					<attribute id="BodyShape" type="uint8" value="0" />
+					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h71cbe566g6efdg4390ga72ag9e4a4e0c64c7" version="1" />
 					<attribute id="IconIdOverride" type="FixedString" value="" />
 					<attribute id="RaceUUID" type="guid" value="b11a68d4-936a-4106-bb0d-ba7da61fbd91" />
