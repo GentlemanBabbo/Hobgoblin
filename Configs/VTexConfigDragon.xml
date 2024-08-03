@@ -9,8 +9,8 @@
 	</TileSetConfig>
 	
 	<Paths>
-		<SourceTextures>Public\Hobgoblin\Assets\Textures</SourceTextures>
-		<VirtualTextures>Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
+		<SourceTextures>Conversion\Textures</SourceTextures>
+		<VirtualTextures>Hobgoblin\Public\Hobgoblin\Assets\VirtualTextures</VirtualTextures>
 	</Paths>
 	
 	<Layers>
@@ -29,6 +29,11 @@
 			<Layer Name="Albedo" Source="Dragon_Blue_2_BM.DDS" />
 			<Layer Name="Normal" Source="Dragon_Blue_2_NM.DDS" />
 			<Layer Name="Physical" Source="Dragon_Blue_2_PM.DDS" />
-		</Texture>						
+		</Texture>		
+		<Texture Name="aa893743e9d741cea9d303433a665100">
+			<Layer Name="Albedo" Source="Dragon_Blue_Head_BM.DDS" />
+			<Layer Name="Normal" Source="Dragon_Blue_Head_NM.DDS" />
+			<Layer Name="Physical" Source="Dragon_Blue_Head_PM.DDS" />
+		</Texture>				
 	</Textures>
 </TileSet>
