@@ -49,7 +49,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Beard" />
-							<attribute id="VisualResource" type="FixedString" value="56cec407-084d-4969-ae0f-a244b76386e7" />
+							<attribute id="VisualResource" type="FixedString" value="272813b4-2d2a-4fa7-9e97-f0594f669faf" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
