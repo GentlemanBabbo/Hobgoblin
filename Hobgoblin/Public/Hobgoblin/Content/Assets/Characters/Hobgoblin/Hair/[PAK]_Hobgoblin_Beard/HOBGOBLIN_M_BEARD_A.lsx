@@ -5,15 +5,15 @@
 		<node id="VisualBank">
 			<children>
 				<node id="Resource">
-					<attribute id="AttachBone" type="FixedString" value="" />
+						<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.116603665 2.221769 0.13287266" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.11731623 1.7970554 -0.1336706" />
+					<attribute id="BoundsMax" type="fvec3" value="0.09457651 1.832633 -0.01727213" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.09677925 1.582687 -0.2248065" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="e29b5434-fa09-7456-a085-4dbc50d82702" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="56cec407-084d-4969-ae0f-a244b76386e7" />
+					<attribute id="ID" type="FixedString" value="272813b4-2d2a-4fa7-9e97-f0594f669faf" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
@@ -21,27 +21,20 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="3e6dba32-dbab-5666-2720-0e2f999a753b" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_M_NKD_Beard_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_Beard_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_M_NKD_Beard_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Hobgoblin/[PAK]_Hobgoblin_Hair/Hobgoblin_Hair/HOB_Beard_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
 					<children>
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f4d7213e-8e22-b480-d12c-36534e253b24" />
-							<attribute id="ObjectID" type="FixedString" value="HOB_M_NKD_Beard_A.1BEARD_DID_M_Medium_A_Mesh.0" />
-							<attribute id="Physics" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="ae575ee5-5558-95bf-d7da-285c04942994" />
-							<attribute id="ObjectID" type="FixedString" value="HOB_M_NKD_Beard_A.2BEARD_DID_M_Medium_A_Accessories_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="HOB_Beard_A.HOB_Beard_A.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>

@@ -2823,6 +2823,7 @@
 					<attribute id="ProgressionTableUUID" type="guid" value="89ae4977-54ea-425c-93a2-f419bea9a2a6" />
                     			<attribute id="RaceEquipment" type="FixedString" value="EQ_Sunscorch" />					
 					<attribute id="RaceSoundSwitch" type="FixedString" value="Fiend" />
+					<attribute id="UUID" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
 					<children>
 						<node id="Tags">
 							<attribute id="Object" type="guid" value="0e64ec5c-e6a3-431c-92d9-de3e71aeef55" />
