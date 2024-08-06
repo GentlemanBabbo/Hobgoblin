@@ -705,7 +705,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e9dcbc3-c93a-12ae-52c6-a21530f483e2" />
+							<attribute id="MaterialID" type="FixedString" value="1c7022af-5d72-61b2-e49e-766148eb14c6" /> <!-- horns 9e9dcbc3-c93a-12ae-52c6-a21530f483e2 -->
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Nails.1" />
 						</node>
 					</children>
