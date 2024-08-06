@@ -13,10 +13,19 @@
 				<node id="Categories">
 					<children>
 						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
 							<attribute id="Name" type="LSString" value="Dialog" />
 						</node>
 						<node id="Category">
 							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
 						</node>
 					</children>
 				</node>
