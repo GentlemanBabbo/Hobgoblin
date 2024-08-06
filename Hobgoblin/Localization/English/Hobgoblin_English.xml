@@ -98,19 +98,19 @@
 	<content contentuid="h10867ed7450e4259bc6dbf86362fa6098660" version="1">Hobgoblin Power: Chosen</content>
 	<content contentuid="h3e3b31d825e04162a2e95083cfc94f696917" version="1">This blood is blessed by the Great One and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Target_Summon_Maglubiyet"&gt;Summon Maglubyit&lt;/LSTag&gt;</content>
 	<content contentuid="hf116fe1ad4864887a82abc3491ec4585ef28" version="1">Hobgoblin Power: Treacherous</content>
-	<content contentuid="h1a278d6a05f84a8d890e42e390cb8bc347f9" version="1">This blood is blessed with Panzuriel legacy and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Target_Drown_Koalinth"&gt;Summon Maglubyit&lt;/LSTag&gt;</content>	
+	<content contentuid="h1a278d6a05f84a8d890e42e390cb8bc347f9" version="1">This blood is blessed with Panzuriel's legacy and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Target_Drown_Koalinth"&gt;Summon Maglubyit&lt;/LSTag&gt;</content>	
 	<content contentuid="h9e87dd18e13842b9999a56e432f2c2e05983" version="1">Hobgoblin Power: Azure</content>
-	<content contentuid="h3e8e95a38644457f8bb5390ce1ff53bf4cd7" version="1">This blood is affected by an Azure benefactor and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Sunscorch"&gt;Wildshape: Blue Dragon&lt;/LSTag&gt;</content>
+	<content contentuid="h3e8e95a38644457f8bb5390ce1ff53bf4cd7" version="1">This blood is affected by an Azure benefactor and allows the affected entity shoot forth a giant ball of lightning.</content>
 	<content contentuid="hfc402b1d390f412ab76aa432746eca1e6dcg" version="1">Hobgoblin Power: Boon</content>
 	<content contentuid="h9bd12f34bdfd4d6797b356b47a3cd24142de" version="1">This blood is riled with Fey magic and allows the affected entity to &lt;LSTag Type="Spell" Tooltip="Shout_FeyGiftAura"&gt;Fey Gift: Aura&lt;/LSTag&gt;</content>
 	<content contentuid="hb66e8f2a8b29468c98322fc96132ff562aa4" version="1">Summon Maglubyit</content>
-	<content contentuid="h2757b59ed0e248e3aa80691a258d7e402262" version="1">Summon The Conquering God, Maglubyit to fight along side you.</content>
+	<content contentuid="h2757b59ed0e248e3aa80691a258d7e402262" version="1">Summon The Conquering God, Maglubyit and his horde to aid you in battle.</content>
 	<content contentuid="h8260faff95b444ff9d245998d4e6243fg3ag" version="1">Banish to Grashmog</content>
-	<content contentuid="h656b5e2fc7ae45678fe3f229c099ed4169ff" version="1">Banish your target to the dungeouns of Grashmog, your fortress on Clangor.</content>
+	<content contentuid="h656b5e2fc7ae45678fe3f229c099ed4169ff" version="1">Banish your target to the deepest dungeouns of Grashmog, your fortress on Clangor.</content>
 	<content contentuid="h329297e371314f57bbd5fab36e5d38c514ce" version="1">The Infinite Battlefield of Acheron</content>
 	<content contentuid="h32d66555e56847d38920652e516794644b07" version="1">Create a bridge to the Outer Plane bringing the battlefields of Avalas to your location. </content>	
 	<content contentuid="hf033f42dg112cg4d47g88cagf83db6d29361" version="1">Eternal Battle</content>
-	<content contentuid="h86b94c1131034345b97186654f23ca365667" version="1">Affected entity deals an additional on all hits.</content>
+	<content contentuid="h86b94c1131034345b97186654f23ca365667" version="1">Affected entity deals additional damage on all hits.</content>
 	<content contentuid="he0ed41226417416588cf8e7b22b6accb0bc6" version="1">Drown</content>
 	<content contentuid="h37cabe1a85214f40a858bb67979fd979cfa6" version="1">Dive deep and pull affected enties underwater while they suffer the various effects of drowning.</content>
 	<content contentuid="h9a1e19427ef94a0288878580be09bcff90fe" version="1">Drowning</content>
@@ -118,19 +118,19 @@
 	<content contentuid="h3e98e81692ac4128ab2c6a24bbe6ba01a37d" version="1">Wild Shape: Blue Dragon</content>
 	<content contentuid="hd8a8d5f93ce04b01b4d2c33e4bd8276b0g74" version="1">Blue Dragon</content>
 	<content contentuid="h40085804227a4dcf84752681deaf69bd7a3f" version="1">Fey Gift: Auras</content>
-	<content contentuid="h5a77f77427ac4e74a18f7b7d8a97bb17ff41" version="1"></content>
+	<content contentuid="h5a77f77427ac4e74a18f7b7d8a97bb17ff41" version="1">Call upon your fey gifts to create powerful auras to boost your party.</content>
 	<content contentuid="h188c6ed9c8f344e2a04198ea17aac89e8bbe" version="1">Aura Of Hospitality</content>
-	<content contentuid="h4544dd2e86844ce1a3f1f76d1181ca00d06f" version="1"></content>	
-	<content contentuid="h960689abeb454c0ba88ea2e4398dbc503fb2" version="1"></content>
-	<content contentuid="h205f69191c3c4db78bcfd9ce15c69d158649" version="1"></content>
+	<content contentuid="h4544dd2e86844ce1a3f1f76d1181ca00d06f" version="1">Allies within the auras range benfit from rasied AC and regen hit points over time.</content>	
+	<content contentuid="h960689abeb454c0ba88ea2e4398dbc503fb2" version="1">Fey Hospitality</content>
+	<content contentuid="h205f69191c3c4db78bcfd9ce15c69d158649" version="1">Your AC is rasied and you regen hit points over time.</content>
 	<content contentuid="h7c9895e0bc13478ea3102d52aa56cb851304" version="1">Aura Of Passage</content>
-	<content contentuid="hfa01148e110b44ed9de0c6cc06fd8e49632b" version="1"></content>
-	<content contentuid="h0d892a38480f40c88708f660fd05ea569b70" version="1">Aura Of Passage</content>
-	<content contentuid="hfac589d71e6d4092a398832e0ac10782d3d7" version="1"></content>	
+	<content contentuid="hfa01148e110b44ed9de0c6cc06fd8e49632b" version="1">Allies within the auras range benefit from increased movement.</content>
+	<content contentuid="h0d892a38480f40c88708f660fd05ea569b70" version="1">Fey Passage</content>
+	<content contentuid="hfac589d71e6d4092a398832e0ac10782d3d7" version="1">Gain increased movement</content>	
 	<content contentuid="h3bb41b5f838545f98da8f21f6f769eaa99d8" version="1">Aura Of Spite</content>
-	<content contentuid="h24dec88f44c743e9a5550282fed4d30fbeb6" version="1"></content>
-	<content contentuid="hd1720e821e3d47149512ab5818753f33a1ae" version="1">Aura Of Spite</content>
-	<content contentuid="h57ff6bce9db6460b89732be94110fd07c62c" version="1"></content>
+	<content contentuid="h24dec88f44c743e9a5550282fed4d30fbeb6" version="1">>Allies within the auras range benefit from a reflective shield.</content>
+	<content contentuid="hd1720e821e3d47149512ab5818753f33a1ae" version="1">Fey Spite</content>
+	<content contentuid="h57ff6bce9db6460b89732be94110fd07c62c" version="1">Reflect damage dealt toward you back towards the attacker.</content>
 	<content contentuid="he9781d35g3a96g4fb1g8f1bg139cd58a2c6f" version="1">Bloodsalt Swagger</content>
 	<content contentuid="h646025c5g3a05g4fa8g9c14gd858cec0baaf" version="1">The Warning</content>	
 	<content contentuid="h8632acefg4c0fg43e1g9c57g2b860b729a14" version="1">Pixie Collection</content>
