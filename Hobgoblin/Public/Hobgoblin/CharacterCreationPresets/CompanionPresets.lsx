@@ -30,7 +30,7 @@
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
 				</node>
-				<node id="CompanionPreset">
+				<!--<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="1" />
 					<attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A" />
@@ -55,7 +55,7 @@
 					<attribute id="UUID" type="guid" value="cbba89de-f337-4a97-a4f0-b1713e1e708d" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
-				</node>
+				</node>-->
 				<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="1" />
@@ -82,7 +82,7 @@
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
 				</node>
-				<node id="CompanionPreset">
+				<!--<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="1" />
 					<attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A" />
@@ -107,7 +107,7 @@
 					<attribute id="UUID" type="guid" value="28eb3e2d-b91f-4db1-a4f3-fa07cf14c991" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
-				</node>
+				</node>-->
 				<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="1" />
@@ -134,7 +134,7 @@
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
 				</node>
-				<node id="CompanionPreset">
+				<!--<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="1" />
 					<attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A" />
@@ -159,7 +159,7 @@
 					<attribute id="UUID" type="guid" value="c70a445f-c40d-4341-9baf-1cc3611133e5" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
-				</node>
+				</node>-->
 				<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="1" />
@@ -186,7 +186,7 @@
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
 				</node>
-				<node id="CompanionPreset">
+				<!--<node id="CompanionPreset">
 					<attribute id="BodyShape" type="uint8" value="1" />
 					<attribute id="BodyType" type="uint8" value="1" />
 					<attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A" />
@@ -211,7 +211,7 @@
 					<attribute id="UUID" type="guid" value="a2d1bf8a-de24-4091-a01c-13e222020be8" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
 					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
-				</node>
+				</node>-->
 			</children>
 		</node>
 	</region>

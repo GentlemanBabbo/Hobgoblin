@@ -27,7 +27,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="9d97de54-499b-6f2a-aa2a-5768764ba84d" />
 										</node>
 									</children>
 								</node>
@@ -53,7 +53,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
 					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" />
 					<attribute id="ID" type="FixedString" value="878dbaec-7482-45b2-9dc3-70f4504e9165" />
@@ -101,7 +101,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
@@ -125,7 +125,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="9d97de54-499b-6f2a-aa2a-5768764ba84d" />
 										</node>
 									</children>
 								</node>
@@ -156,7 +156,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
 					<attribute id="ID" type="FixedString" value="6b5637cc-436d-460e-a462-334db28ea2d7" />
@@ -209,7 +209,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" />
@@ -233,7 +233,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ace8e94a-4ec0-45b3-6ff0-46a6a4a008ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="9d6b4534-4aa8-07ec-a8d4-573771d9c302" />
 										</node>
 									</children>
 								</node>
@@ -264,7 +264,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="3b97d324-6ea1-4c76-ada5-6ac902f853fe" />
 					<attribute id="ID" type="FixedString" value="8acac474-feaa-4184-8691-7d1aaa830054" />
@@ -317,7 +317,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
 					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
@@ -341,7 +341,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ace8e94a-4ec0-45b3-6ff0-46a6a4a008ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="9d6b4534-4aa8-07ec-a8d4-573771d9c302" />
 										</node>
 									</children>
 								</node>
@@ -367,7 +367,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
 					<attribute id="BodySetVisual" type="FixedString" value="84b75427-3dba-4146-85ed-86fddb10b5c4" />
 					<attribute id="ID" type="FixedString" value="efe0b1d0-a4e0-444a-b81a-61f859364eb7" />
@@ -415,13 +415,13 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
 					<attribute id="ID" type="FixedString" value="186679de-d357-4815-b76e-49cfaff447bc" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscroch_Daisy" />
+					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscorch_Daisy" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725056" />
 					<children>
@@ -439,7 +439,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a81e5df1-bf51-eb0d-9f74-6fdaf38b7d9f" />
 										</node>
 									</children>
 								</node>
@@ -470,7 +470,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a96187a4-68dc-db02-93b4-ae0efd2ba939" />
 					<attribute id="BodySetVisual" type="FixedString" value="7fa99ffa-0bd3-4bc9-9bc2-c4edc4b7ad03" />
 					<attribute id="ID" type="FixedString" value="8d35be55-b275-4495-b53f-ec301b24c838" />
@@ -523,7 +523,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
 					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" />
@@ -547,7 +547,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="41839704-896f-4b29-a49f-c1d34ecee3cc" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="a81e5df1-bf51-eb0d-9f74-6fdaf38b7d9f" />
 										</node>
 									</children>
 								</node>
@@ -573,7 +573,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d408a7d2-4767-5593-93ec-0961cf24add6" />
 					<attribute id="BodySetVisual" type="FixedString" value="586ca835-6463-4bb4-8bf3-2cdf67d68afd" />
 					<attribute id="ID" type="FixedString" value="005b0a1e-957c-4026-b0f3-bbc688e51ccc" />
@@ -621,7 +621,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" />
 					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" />
@@ -645,7 +645,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72de1b67-eb08-e7bd-cc4d-f47bcb6ef8bf" />
 										</node>
 									</children>
 								</node>
@@ -671,7 +671,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="177208f3-54de-4898-8aec-f4684ca3171e" />
 					<attribute id="BodySetVisual" type="FixedString" value="f89db729-fd76-469c-bf70-14ff24d6cf80" />
 					<attribute id="ID" type="FixedString" value="ade33f6c-e838-4617-898f-0352978a4740" />
@@ -719,7 +719,7 @@
 							<attribute id="VisualResource" type="FixedString" value="8e3067c2-aa33-d9a0-8a2e-a74f77253605" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
 					<attribute id="BodySetVisual" type="FixedString" value="b275c982-acab-4db5-9a6f-e3aec5b7f843" />
@@ -743,7 +743,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="0b5c0530-856d-4ad0-9f9f-f2b977dd90ed" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="72de1b67-eb08-e7bd-cc4d-f47bcb6ef8bf" />
 										</node>
 									</children>
 								</node>
@@ -774,7 +774,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<!--<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c2e6ce50-9367-4738-9111-0e4eafdc1721" />
 					<attribute id="BodySetVisual" type="FixedString" value="b275c982-acab-4db5-9a6f-e3aec5b7f843" />
 					<attribute id="ID" type="FixedString" value="3e10e70c-9a2c-42b5-b0b1-73d641c4f5c7" />
@@ -827,7 +827,7 @@
 							<attribute id="VisualResource" type="FixedString" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a" />
 						</node>
 					</children>
-				</node>
+				</node>-->
 			</children>
 		</node>
 	</region>
