@@ -72,49 +72,49 @@
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_SummonMagubiyet" />
 					<attribute id="U1" type="float" value="0.21875" />
 					<attribute id="U2" type="float" value="0.25" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_Maglubyit_Banishment" />
 					<attribute id="U1" type="float" value="0.25" />
 					<attribute id="U2" type="float" value="0.28125" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_SpaceBattlefield" />
 					<attribute id="U1" type="float" value="0.28125" />
 					<attribute id="U2" type="float" value="0.3125" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_FeyGiftAuraMain" />
 					<attribute id="U1" type="float" value="0.3125" />
 					<attribute id="U2" type="float" value="0.34375" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_FeyGiftAura1" />
 					<attribute id="U1" type="float" value="0.34375" />
 					<attribute id="U2" type="float" value="0.375" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_FeyGiftAura2" />
 					<attribute id="U1" type="float" value="0.375" />
 					<attribute id="U2" type="float" value="0.40625" />
 					<attribute id="V1" type="float" value="0" />
 					<attribute id="V2" type="float" value="0.03125" />
 				</node>
 				<node id="IconUV">
-					<attribute id="MapKey" type="FixedString" value="SEM_" />
+					<attribute id="MapKey" type="FixedString" value="Spell_FeyGiftAura3" />
 					<attribute id="U1" type="float" value="0.40625" />
 					<attribute id="U2" type="float" value="0.4375" />
 					<attribute id="V1" type="float" value="0" />
