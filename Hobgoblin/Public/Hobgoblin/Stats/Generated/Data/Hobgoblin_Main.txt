@@ -522,7 +522,7 @@ using "WPN_Trident"
 data "RootTemplate" "2aa3493f-7d4f-4f7b-b472-63e56b1de62b"
 
 
-<!--------------------- Blood Elixars --------------------->
+<!--------------------- Blood Elixirs --------------------->
 new entry "OBJ_BloodPotion_Hobgoblin_Strongblade"
 type "Object"
 using "_Potion"
