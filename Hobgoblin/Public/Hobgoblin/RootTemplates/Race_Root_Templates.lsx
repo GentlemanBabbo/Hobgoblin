@@ -12,6 +12,8 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="73bf9aa1-bf2d-4d14-beb2-90946bfaa34f" />
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -36,6 +38,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3a117756-806a-4cc9-ade6-aecf7b4b03e6" />
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />
 					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -56,6 +60,8 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a91f603a-0eca-4e92-b95b-5bd2a52d583e" />
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -80,6 +86,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="005a26b1-ce28-47a8-b7e7-cf471e86e334" />
 					<attribute id="Race" type="guid" value="e5e80e82-2a35-449c-b987-ebd44f29fa77" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -100,6 +108,8 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="483b5e09-d54b-46d3-915f-c6947346b337" />
 					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -124,6 +134,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="27de39df-053c-41e4-bc82-e1f787f585a9" />
 					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" />
 					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -145,6 +157,8 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d8fff46f-8cae-4c62-a937-75409a393afc" />
 					<attribute id="Race" type="guid" value="fa006ebe-a40f-46c8-a385-2c41d2744bb8" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -169,6 +183,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8afa73a7-1918-47e4-9c49-0dc4050c4af8" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -189,6 +205,8 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9d63cf18-5360-434a-93c7-3b2798378ddb" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -213,6 +231,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="97f04693-b9ed-490e-9920-0d273dcfc3be" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
 					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -233,6 +253,8 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e11108ae-315b-4eb4-99c2-44865f900475" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -257,6 +279,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -278,6 +302,8 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -303,6 +329,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="851e247f-fa01-431e-bd73-ca417041ad11" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
 					<attribute id="EquipmentRace" type="guid" value="2be354d5-7faa-429c-989c-2b492fbe4481" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -324,6 +352,8 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -349,6 +379,8 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
+					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
 							<children>
