@@ -1,4 +1,13 @@
 <!--------------------- Hobgoblin Passives --------------------->
+new entry "HeroHobgoblinFemale"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+
+new entry "HeroHobgoblinMale"
+type "Character"
+using "_Hero"
+data "Weight" "100"
 
 new entry "Hobgoblin_Basic_Passives"
 type "PassiveData"
