@@ -750,6 +750,11 @@
 							<attribute id="MaterialID" type="FixedString" value="4ba33a93-b472-476e-8694-62d1d9784df1" />
 							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Body.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="87c5b3d2-7ed0-4b60-8d1e-89c0c6553d94" />
+							<attribute id="ObjectID" type="FixedString" value="Hobgoblin_M_NKD_Body.Nails.1" />
+						</node>
 					</children>
 				</node>
 			</children>
