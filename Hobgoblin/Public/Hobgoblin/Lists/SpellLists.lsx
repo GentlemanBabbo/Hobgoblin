@@ -21,7 +21,7 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="" />
-					<attribute id="Spells" type="LSString" value="Target_GoblinHoard" />
+					<attribute id="Spells" type="LSString" value="Target_GoblinHorde" />
 					<attribute id="UUID" type="guid" value="b4cab9d1-7990-4738-ad77-13b6f8e0f4ad" />
 				</node>
 				<node id="SpellList">
