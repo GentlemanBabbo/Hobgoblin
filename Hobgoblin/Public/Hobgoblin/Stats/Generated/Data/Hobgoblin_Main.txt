@@ -9,6 +9,18 @@ type "Character"
 using "_Hero"
 data "Weight" "100"
 
+new entry "HeroHarrowerMale"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+
+new entry "HeroHarrowerFemale"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+
 new entry "Hobgoblin_Basic_Passives"
 type "PassiveData"
 data "DisplayName" "h18f631efgdfeeg4683gac99g72a7dff7e657"

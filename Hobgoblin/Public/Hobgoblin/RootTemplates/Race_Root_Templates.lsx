@@ -279,7 +279,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="7e3c9586-a838-446f-ba16-5e824d18afec" />
 					<attribute id="Race" type="guid" value="cdf620ce-1e3a-4cf8-9432-abb8c0d11570" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
-					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="Stats" type="FixedString" value="HeroHarrowerFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -301,7 +301,7 @@
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
-					<attribute id="Stats" type="FixedString" value="HeroHobgoblinFemale" />
+					<attribute id="Stats" type="FixedString" value="HeroHarrowerFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -349,7 +349,7 @@
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
-					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="Stats" type="FixedString" value="HeroHarrowerMale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
@@ -375,7 +375,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
 					<attribute id="EquipmentRace" type="guid" value="69b8ceb9-1939-4cd5-8cfd-af2c553c10cc" />
-					<attribute id="Stats" type="FixedString" value="HeroHobgoblinMale" />
+					<attribute id="Stats" type="FixedString" value="HeroHarrowerMale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<children>
 						<node id="Tags">
