@@ -9,10 +9,10 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin" />
 					<attribute id="Boosts" type="LSString" value="" />
 					<attribute id="PassivesAdded" type="LSString" value="Hobgoblin_Basic_Passives;FeyAncestry;Passive_WartimeTraining;MartialAdvantage" />
-					<attribute id="Selectors" type="LSString" value="SelectSkills(8055873d-3029-45d8-93bd-0345d458d0db,2)" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(8055873d-3029-45d8-93bd-0345d458d0db,2);AddSpells(7ff9a6e1-d682-4d34-aff3-5aa66c9a2c00,,,,AlwaysPrepared)" />
 					<attribute id="ProgressionType" type="uint8" value="2" />
 					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
-					<attribute id="UUID" type="guid" value="575fa3d3-cf83-4716-8cc3-8d971666b051" />
+					<attribute id="UUID" type="guid" value="516ab354-c8db-466b-891a-677d8f7c3095" />
 				</node>
 				<node id="Progression">
 					<attribute id="Level" type="uint8" value="3" />
