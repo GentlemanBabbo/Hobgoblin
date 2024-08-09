@@ -6,7 +6,7 @@
 			<children>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="" />
-					<attribute id="Spells" type="LSString" value="Target_Multiattck_Hobgoblin_Claws />
+					<attribute id="Spells" type="LSString" value="Target_Multiattck_Hobgoblin_Claws" />
 					<attribute id="UUID" type="guid" value="7ff9a6e1-d682-4d34-aff3-5aa66c9a2c00" />
 				</node>
 				<node id="SpellList">
