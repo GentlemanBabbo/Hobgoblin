@@ -44,6 +44,16 @@
 					<attribute id="Spells" type="LSString" value="Zone_Dovabeam" />
 					<attribute id="UUID" type="guid" value="092beccf-6fc0-4b82-b646-35b225cdb1e7" />
 				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Throw_BeastlyThrow" />
+					<attribute id="UUID" type="guid" value="aba560b2-4d22-491a-a6fe-f1cb5fea4b48" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Shout_Harrower_Booming_Howl" />
+					<attribute id="UUID" type="guid" value="2b5041e6-c915-4f24-9439-c5e97a25e926" />
+				</node>
 			</children>
 		</node>
 	</region>

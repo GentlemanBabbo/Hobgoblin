@@ -159,7 +159,7 @@
 					<attribute id="Name" type="LSString" value="Harrower" />
 					<attribute id="Boosts" type="LSString" value="" />
 					<attribute id="PassivesAdded" type="LSString" value="Passive_HulkingHob;Passive_Brute_HulkingHob" />
-					<attribute id="Selectors" type="LSString" value="AddSpells(adaf5cde-7cff-4ca2-8943-d02cb7efe015,,,,AlwaysPrepared)" />
+					<attribute id="Selectors" type="LSString" value="" />
 					<attribute id="ProgressionType" type="uint8" value="2" />
 					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
 					<attribute id="UUID" type="guid" value="98da0193-6729-4364-bb5c-b13475edb3c7" />
@@ -169,7 +169,7 @@
 					<attribute id="Name" type="LSString" value="Harrower" />
 					<attribute id="Boosts" type="LSString" value="" />
 					<attribute id="PassivesAdded" type="LSString" value="" />
-					<attribute id="Selectors" type="LSString" value="AddSpells(ab0365b1-415a-448d-ab1d-619f6d1ef25b,,,,AlwaysPrepared)" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(aba560b2-4d22-491a-a6fe-f1cb5fea4b48,,,,AlwaysPrepared)" />
 					<attribute id="ProgressionType" type="uint8" value="2" />
 					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
 					<attribute id="UUID" type="guid" value="b065e4b1-2f62-4846-b120-d6469061afcd" />
@@ -179,7 +179,7 @@
 					<attribute id="Name" type="LSString" value="Harrower" />
 					<attribute id="Boosts" type="LSString" value="" />
 					<attribute id="PassivesAdded" type="LSString" value="" />
-					<attribute id="Selectors" type="LSString" value="AddSpells(600019c9-2a14-4968-a6df-6ba9ed6a65d1,,,,AlwaysPrepared)" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(2b5041e6-c915-4f24-9439-c5e97a25e926,,,,AlwaysPrepared)" />
 					<attribute id="ProgressionType" type="uint8" value="2" />
 					<attribute id="TableUUID" type="guid" value="f88032d3-7ae7-4724-bab6-9e992776ecf7" />
 					<attribute id="UUID" type="guid" value="9bbe7dc7-beb5-4992-b39f-77e4ef584553" />

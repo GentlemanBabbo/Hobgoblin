@@ -298,7 +298,6 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
-					<attribute id="Stats" type="FixedString" value="Playable_F_Harrower" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a006f7f7-34e3-4ab5-9647-90dae565146e" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
@@ -324,7 +323,6 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_FemaleStrong_Harrower" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="25b28ddd-09d5-4fb8-90e7-edf0b59d4ae8" />
-					<attribute id="Stats" type="FixedString" value="Playable_F_Harrower" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="851e247f-fa01-431e-bd73-ca417041ad11" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
@@ -348,7 +346,6 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" />
-					<attribute id="Stats" type="FixedString" value="Playable_M_Harrower" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
@@ -374,7 +371,6 @@
 					<attribute id="Name" type="LSString" value="Hobgoblin_MaleStrong_Harrower" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="c01dc4a6-10eb-4488-af69-ccdb17bdb719" />
-					<attribute id="Stats" type="FixedString" value="Playable_M_Harrower" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd94067a-7f85-4b76-b4cf-730c900ec86b" />
 					<attribute id="Race" type="guid" value="c9208f94-ca22-43dc-a1f0-62c7a4990d36" />
