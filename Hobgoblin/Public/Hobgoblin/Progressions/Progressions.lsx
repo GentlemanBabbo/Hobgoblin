@@ -28,8 +28,8 @@
 					<attribute id="Level" type="uint8" value="5" />
 					<attribute id="Name" type="LSString" value="Hobgoblin" />
 					<attribute id="Boosts" type="LSString" value="" />
-					<attribute id="PassivesAdded" type="LSString" value="DangerSense" />
-					<attribute id="Selectors" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="Selectors" type="LSString" value="AddSpells(30592112-d3d1-43d2-b463-3364ea15d739,,,,AlwaysPrepared)" />
 					<attribute id="ProgressionType" type="uint8" value="2" />
 					<attribute id="TableUUID" type="guid" value="86149467-d827-42f3-8b0c-87e267343225" />
 					<attribute id="UUID" type="guid" value="12754c3c-eea8-4c99-a7a3-c01782c00c69" />

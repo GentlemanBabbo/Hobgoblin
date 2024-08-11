@@ -11,8 +11,13 @@
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="" />
-					<attribute id="Spells" type="LSString" value="Target_FeyGiftHelp;Target_WhacAGoblin;Rush_Headbuttt" />
+					<attribute id="Spells" type="LSString" value="Target_FeyGiftHelp;Target_WhacAGoblin" />
 					<attribute id="UUID" type="guid" value="730de094-5135-427f-8e4b-bfaae6095bdc" />
+				</node>
+				<node id="SpellList">
+					<attribute id="Comment" type="LSString" value="" />
+					<attribute id="Spells" type="LSString" value="Rush_Headbuttt" />
+					<attribute id="UUID" type="guid" value="30592112-d3d1-43d2-b463-3364ea15d739" />
 				</node>
 				<node id="SpellList">
 					<attribute id="Comment" type="LSString" value="" />

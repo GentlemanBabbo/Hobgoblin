@@ -20,6 +20,22 @@
                     <attribute id="Name" type="FixedString" value="HobMultiattackClawDamage"/>
                     <attribute id="UUID" type="guid" value="843f49ac-e28f-4795-82af-b83cf78ff06b"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+					<attribute id="Level2" type="LSString" value="1d4"/>
+					<attribute id="Level3" type="LSString" value="1d4"/>
+					<attribute id="Level4" type="LSString" value="1d4"/>
+					<attribute id="Level5" type="LSString" value="1d6"/>
+					<attribute id="Level6" type="LSString" value="1d6"/>
+					<attribute id="Level7" type="LSString" value="1d6"/>
+					<attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="1d8"/>
+                    <attribute id="Level12" type="LSString" value="1d8"/>
+                    <attribute id="Name" type="FixedString" value="HobHeadbuttDamage"/>
+                    <attribute id="UUID" type="guid" value="67a77889-a497-4724-908d-667347bb96ae"/>
+                </node>
             </children>
         </node>
     </region>
