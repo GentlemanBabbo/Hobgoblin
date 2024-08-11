@@ -3125,7 +3125,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="75e60d67-c5c4-43b4-ae18-f1dca4186bba" />
+					<attribute id="ID" type="FixedString" value="bfca6df9-6021-431e-a781-297a48690933" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_F_Head_Harrower" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3_GM.lsf" />
