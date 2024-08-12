@@ -11,28 +11,28 @@
       "Type": "Race",
       "Tag": "Strongblade_9754d52d-9b08-417d-8d7b-c94f70368d0f",
       "ReallyTag": "ReallyStongblade_59d4be76-b041-4ce2-b689-ce781368dd2f",  
-      "BloodMerchantElixirId": "MOO_BLOODPOTION_HOBGOBLIN_STRONGBLADE"
+      "BloodMerchantElixirId": "CONS_Elixir_Blood_Hobgoblin_Strongblade_70d13562-c3e9-48a7-bc8f-8fb0be31d443"
     },
     {
       "Type": "Race",
       "Tag": "Koalinth_28100bf8-d642-4ade-ba42-05623c290cc9",
       "ReallyTag": "ReallyKoalinth_e72712b2-82f1-4e8a-892c-bf3105ae70c0",
       "RaceMetaTags": ["Rare", "ReallyRare"] ,      
-      "BloodMerchantElixirId": "MOO_BLOODPOTION_HOBGOBLIN_KOALINTH"
+      "BloodMerchantElixirId": "CONS_Elixir_Blood_Hobgoblin_Koalinth_d4b7e29e-02c8-4e70-9cab-b42fb10b0cb1"
     },
     {
       "Type": "Race",
       "Tag": "Sunscorch_11976301-0338-4f88-a6b5-fa90e869157a",
       "ReallyTag": "ReallySunscorch_0e64ec5c-e6a3-431c-92d9-de3e71aeef55",
       "RaceMetaTags": ["Rare", "ReallyRare"] ,      
-      "BloodMerchantElixirId": "MOO_BLOODPOTION_HOBGOBLIN_SUNSCORCH"
+      "BloodMerchantElixirId": "CONS_Elixir_Blood_Hobgoblin_Sunscorch_05def762-c0fd-4877-a48f-2204abdd3e4b"
     },
     {
       "Type": "Race",
       "Tag": "Harrower_488d5bba-4139-4f4a-b7ea-6480d14564d8",
       "ReallyTag": "ReallyHarrower_39575e13-8ca6-4a55-bd3d-b5adf663ceec",
       "RaceMetaTags": ["Rare", "ReallyRare"] ,      
-      "BloodMerchantElixirId": "MOO_BLOODPOTION_HOBGOBLIN_HARROWER"
+      "BloodMerchantElixirId": "CONS_Elixir_Blood_Hobgoblin_Harrower_bf026f74-99f8-48f3-b4a9-094d243592d"
     }                
   ]
 }
