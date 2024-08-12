@@ -507,19 +507,6 @@ data "SpellSoundMagnitude" "Big"
 
 
 <!--------------------- Harrower Passives --------------------->
-new entry "Playable_M_Harrower"
-type "Character"
-using "_Hero"
-data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "Weight" "135"
-data "StepsType" "Bare"
-
-new entry "Playable_F_Harrower"
-type "Character"
-using "_Hero"
-data "DefaultBoosts" "ScaleMultiplier(1.33)"
-data "Weight" "135"
-data "StepsType" "Bare"
 
 new entry "Passive_HulkingHob"
 type "PassiveData"
