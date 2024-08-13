@@ -7,6 +7,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="c5dbc2fc-094c-4ec5-b8cd-2db48f088834" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Strongblade" />
+					<attribute id="EquipmentRace" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
 					<attribute id="Type" type="FixedString" value="character" />				
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
@@ -55,6 +56,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="33c141ea-86e8-4f1e-82af-46f9470f62f2" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Strongblade" />
+					<attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
@@ -103,6 +105,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="b4940c29-68b6-490c-9def-e87a1e9541f9" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Koalinth" />
+					<attribute id="EquipmentRace" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
@@ -152,7 +155,7 @@
 					<attribute id="MapKey" type="FixedString" value="ab854660-d992-41db-a108-ba5c682759df" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Koalinth" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d8fff46f-8cae-4c62-a937-75409a393afc" />
@@ -200,6 +203,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="4148f1b6-5af6-41ea-80ba-add9465d1def" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Sunscorch" />
+					<attribute id="EquipmentRace" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
@@ -249,6 +253,7 @@
 					<attribute id="MapKey" type="FixedString" value="7f84bf8b-518d-4017-a38b-a96ef8a4eb4e" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Sunscorch" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e11108ae-315b-4eb4-99c2-44865f900475" />
@@ -296,6 +301,7 @@
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="25b28ddd-09d5-4fb8-90e7-edf0b59d4ae8" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Female_Harrower" />
+					<attribute id="EquipmentRace" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
 					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
@@ -345,6 +351,7 @@
 					<attribute id="MapKey" type="FixedString" value="c01dc4a6-10eb-4488-af69-ccdb17bdb719" />
 					<attribute id="Name" type="LSString" value="Hobgoblin_Male_Harrower" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0350f048-11f5-42fe-8399-228e419f4789" />
 					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8ad3da41-55c5-4240-9976-ed4e672f2a57" />
