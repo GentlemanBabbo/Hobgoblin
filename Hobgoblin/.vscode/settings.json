@@ -23,5 +23,8 @@
     },
     "files.associations": {
         "*.txt": "bg3txt"
-    }
+    },
+    "bg3ModHelper.rootModPath": "d:\\Documenti\\GitHub\\Hobgoblin\\Hobgoblin",
+    "bg3ModHelper.packingPriority": 0,
+    "bg3ModHelper.modName": "Hobgoblin"
 }
